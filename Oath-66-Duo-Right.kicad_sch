@@ -876,12 +876,6 @@
 		(uuid "084caf02-f2c6-4681-a436-2380df1c5c24")
 	)
 	(junction
-		(at 205.74 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0c17373b-7169-4325-a66b-c8ef6e39e307")
-	)
-	(junction
 		(at 262.89 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -900,10 +894,16 @@
 		(uuid "1472f747-fbcc-46cf-bae5-ecbbab3d28b1")
 	)
 	(junction
-		(at 240.03 142.24)
+		(at 223.52 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "215668f5-11a1-4c4f-b37b-3611c7f8a79b")
+		(uuid "1b7e1b86-5f38-4bb0-a10a-6cf444c2f35b")
+	)
+	(junction
+		(at 189.23 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "24696d75-6083-44aa-b9ad-04d819dedfd7")
 	)
 	(junction
 		(at 234.95 48.26)
@@ -912,16 +912,34 @@
 		(uuid "24ae8b86-3ee6-4163-90a3-1325cebac980")
 	)
 	(junction
-		(at 200.66 109.22)
+		(at 212.09 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "28ff2fd3-8056-4d65-afeb-e113d4352a7a")
+		(uuid "25127287-ff55-40c1-be21-d4382dbb6d78")
+	)
+	(junction
+		(at 234.95 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "26609b92-d606-4c66-b438-1561f9ac297d")
+	)
+	(junction
+		(at 246.38 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2faaa9cc-3737-4b24-baad-fc49e3d6b312")
 	)
 	(junction
 		(at 246.38 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "323bac07-cc60-4457-a26d-1d1b719fd235")
+	)
+	(junction
+		(at 251.46 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "35f847cd-36d6-4f31-a6e5-81ba090fadf1")
 	)
 	(junction
 		(at 240.03 121.92)
@@ -936,10 +954,10 @@
 		(uuid "412e9be1-ea4f-4931-9c27-0f7d41bff118")
 	)
 	(junction
-		(at 217.17 142.24)
+		(at 240.03 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4229829f-a099-428b-9fd6-87bdcd4ec441")
+		(uuid "4a5f8af6-9371-460a-9603-1b49157c4138")
 	)
 	(junction
 		(at 257.81 48.26)
@@ -958,6 +976,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "53496a01-7d40-4e6d-9d8a-71e238d8fc69")
+	)
+	(junction
+		(at 257.81 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "535a9c51-1068-43e0-a8f3-8cb513d8db70")
 	)
 	(junction
 		(at 223.52 68.58)
@@ -982,12 +1006,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6e653206-0e22-44e2-9c7a-df0bda556a89")
-	)
-	(junction
-		(at 212.09 109.22)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "70c2724d-e112-4cda-9915-344dd7007d78")
 	)
 	(junction
 		(at 240.03 81.28)
@@ -1038,18 +1056,6 @@
 		(uuid "9a0fe3bc-5d5b-4ffe-b5ed-2edfc7643f24")
 	)
 	(junction
-		(at 228.6 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9dd7b6bf-7e58-4f6c-ab07-761a676f9dd7")
-	)
-	(junction
-		(at 189.23 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9e723e9b-2ed0-4c3f-8d54-ba429029b500")
-	)
-	(junction
 		(at 246.38 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1062,10 +1068,10 @@
 		(uuid "a2b6ee08-794c-49ca-9eff-f5b32835830b")
 	)
 	(junction
-		(at 234.95 109.22)
+		(at 217.17 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a62c5b9d-1fbb-42a2-a1c1-3d38b91c8924")
+		(uuid "a514544b-c049-477a-8cca-88165288e83d")
 	)
 	(junction
 		(at 234.95 68.58)
@@ -1092,16 +1098,16 @@
 		(uuid "bb41db9f-a41b-44f8-b8e1-a0bd84159bd1")
 	)
 	(junction
-		(at 223.52 109.22)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c36bec21-fe0f-49ca-9fcf-bc1e081bf384")
-	)
-	(junction
 		(at 262.89 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c5633a0f-eb9b-454f-a111-dcc417f806fc")
+	)
+	(junction
+		(at 228.6 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c9ca8f9d-f19a-4dd3-9c12-3cf695a57fc4")
 	)
 	(junction
 		(at 212.09 48.26)
@@ -1162,6 +1168,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e56d6ffe-e289-4db8-93db-7c46d33b9809")
+	)
+	(junction
+		(at 262.89 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e6fe06ef-c76a-457f-b0ac-accbd7536ca0")
 	)
 	(junction
 		(at 251.46 81.28)
@@ -1235,16 +1247,6 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 109.22) (xy 223.52 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "156eaf47-1474-4f91-add4-6e296a0fbadc")
-	)
-	(wire
-		(pts
 			(xy 212.09 68.58) (xy 212.09 88.9)
 		)
 		(stroke
@@ -1262,6 +1264,16 @@
 			(type default)
 		)
 		(uuid "2d68eb2a-1647-48bf-87e9-5c996ecc9b7a")
+	)
+	(wire
+		(pts
+			(xy 240.03 142.24) (xy 251.46 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e3be823-fd46-455a-8f2a-9ce2f995d9a7")
 	)
 	(wire
 		(pts
@@ -1315,16 +1327,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 88.9) (xy 189.23 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "346a2323-89be-4254-adc2-b8755961f386")
-	)
-	(wire
-		(pts
 			(xy 53.34 67.31) (xy 55.88 67.31)
 		)
 		(stroke
@@ -1335,16 +1337,6 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 142.24) (xy 217.17 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37cc9147-e212-4cb3-93dd-e1082b9d21c8")
-	)
-	(wire
-		(pts
 			(xy 234.95 48.26) (xy 234.95 68.58)
 		)
 		(stroke
@@ -1352,6 +1344,16 @@
 			(type default)
 		)
 		(uuid "3ac13670-8455-481d-9b26-1ff64974ce77")
+	)
+	(wire
+		(pts
+			(xy 257.81 88.9) (xy 257.81 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ad510dd-a96f-41bf-bb73-fcc6f3dad138")
 	)
 	(wire
 		(pts
@@ -1415,13 +1417,43 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 142.24) (xy 262.89 142.24)
+			(xy 246.38 109.22) (xy 246.38 129.54)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "52728e6d-b828-4681-87aa-5f3a7648758e")
+		(uuid "4f41b351-4a69-42c9-9bfe-c2636bed0313")
+	)
+	(wire
+		(pts
+			(xy 262.89 101.6) (xy 251.46 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fedc705-0d0f-4a2b-bd84-ba99e8561341")
+	)
+	(wire
+		(pts
+			(xy 223.52 109.22) (xy 223.52 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57d4d08e-e5c7-4b7e-8370-9b01bdf29793")
+	)
+	(wire
+		(pts
+			(xy 251.46 142.24) (xy 262.89 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59adf66b-f631-4349-898b-7b91e5d299a3")
 	)
 	(wire
 		(pts
@@ -1435,7 +1467,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 142.24) (xy 205.74 142.24)
+			(xy 194.31 142.24) (xy 217.17 142.24)
 		)
 		(stroke
 			(width 0)
@@ -1462,6 +1494,16 @@
 			(type default)
 		)
 		(uuid "5de61208-d889-4123-9c36-cb985cb9aa49")
+	)
+	(wire
+		(pts
+			(xy 217.17 142.24) (xy 228.6 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "600ebab3-26fb-466d-8ce1-28ee290eeb83")
 	)
 	(wire
 		(pts
@@ -1515,23 +1557,13 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 101.6) (xy 205.74 101.6)
+			(xy 189.23 101.6) (xy 205.74 101.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "76a7d27c-5ea4-4741-9909-62fb04edda07")
-	)
-	(wire
-		(pts
-			(xy 228.6 142.24) (xy 240.03 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "79c1befb-2e4b-409e-a22b-e44ae74485c1")
 	)
 	(wire
 		(pts
@@ -1555,7 +1587,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 68.58) (xy 189.23 88.9)
+			(xy 189.23 68.58) (xy 189.23 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1595,17 +1627,17 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 109.22) (xy 212.09 129.54)
+			(xy 234.95 109.22) (xy 234.95 129.54)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9549ff5a-617f-4178-aefb-25fc350538f9")
+		(uuid "984591f5-a4f5-4ec3-b169-f856377b9054")
 	)
 	(wire
 		(pts
-			(xy 271.78 101.6) (xy 251.46 101.6)
+			(xy 271.78 101.6) (xy 262.89 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1645,16 +1677,6 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 109.22) (xy 234.95 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a7ab5e10-d117-4c53-a260-9436ce06b520")
-	)
-	(wire
-		(pts
 			(xy 53.34 59.69) (xy 55.88 59.69)
 		)
 		(stroke
@@ -1665,7 +1687,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 68.58) (xy 257.81 109.22)
+			(xy 257.81 68.58) (xy 257.81 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1725,6 +1747,16 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 101.6) (xy 189.23 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd66c975-7aff-46cb-8b64-5a59e9c5bc43")
+	)
+	(wire
+		(pts
 			(xy 53.34 52.07) (xy 55.88 52.07)
 		)
 		(stroke
@@ -1732,6 +1764,16 @@
 			(type default)
 		)
 		(uuid "bddb6399-4a48-40fb-93ba-d3694562d6c8")
+	)
+	(wire
+		(pts
+			(xy 212.09 109.22) (xy 212.09 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be04261c-f4ae-4efd-8599-ca3023b857df")
 	)
 	(wire
 		(pts
@@ -1835,16 +1877,6 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 109.22) (xy 200.66 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d781f031-acaf-4aae-9b45-3f1bdfadf333")
-	)
-	(wire
-		(pts
 			(xy 223.52 39.37) (xy 223.52 48.26)
 		)
 		(stroke
@@ -1905,16 +1937,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 142.24) (xy 228.6 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e1e021eb-144e-4cd0-a712-b5b424410dcf")
-	)
-	(wire
-		(pts
 			(xy 88.9 67.31) (xy 86.36 67.31)
 		)
 		(stroke
@@ -1972,6 +1994,16 @@
 			(type default)
 		)
 		(uuid "f25bdcda-5d05-4118-99f0-510714dc9f8a")
+	)
+	(wire
+		(pts
+			(xy 228.6 142.24) (xy 240.03 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "faa2b191-e0f5-43da-9a23-2df8dac1326e")
 	)
 	(hierarchical_label "Row 4"
 		(shape input)
@@ -2247,7 +2279,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "038e13fa-45a6-41c7-aed4-ee8eacf0e5d5")
-		(property "Reference" "S50"
+		(property "Reference" "S49"
 			(at 214.63 83.82 0)
 			(effects
 				(font
@@ -2299,7 +2331,7 @@
 		(instances
 			(project "Oath-66-Duo"
 				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
-					(reference "S50")
+					(reference "S49")
 					(unit 1)
 				)
 			)
@@ -2619,7 +2651,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 217.17 138.43 90)
+		(at 228.6 138.43 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2628,7 +2660,7 @@
 		(fields_autoplaced yes)
 		(uuid "1c6e2598-1bf0-4057-aec0-f21086c99dbc")
 		(property "Reference" "D63"
-			(at 219.71 137.1599 90)
+			(at 231.14 137.1599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2637,7 +2669,7 @@
 			)
 		)
 		(property "Value" "Diode"
-			(at 219.71 139.6999 90)
+			(at 231.14 139.6999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2646,7 +2678,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
-			(at 217.17 138.43 0)
+			(at 228.6 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2655,7 +2687,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 138.43 0)
+			(at 228.6 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2664,7 +2696,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 217.17 138.43 0)
+			(at 228.6 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2673,7 +2705,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 217.17 138.43 0)
+			(at 228.6 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2682,7 +2714,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 217.17 138.43 0)
+			(at 228.6 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2959,7 +2991,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40aebee6-dbe4-4df9-a30a-ea3d315eff6b")
-		(property "Reference" "D53"
+		(property "Reference" "D52"
 			(at 254 96.5199 90)
 			(effects
 				(font
@@ -3031,7 +3063,7 @@
 		(instances
 			(project "Oath-66-Duo"
 				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
-					(reference "D53")
+					(reference "D52")
 					(unit 1)
 				)
 			)
@@ -3183,7 +3215,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46ca9949-dd5e-4d24-aff5-d2d20b561247")
-		(property "Reference" "S52"
+		(property "Reference" "S51"
 			(at 237.49 83.82 0)
 			(effects
 				(font
@@ -3235,7 +3267,7 @@
 		(instances
 			(project "Oath-66-Duo"
 				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
-					(reference "S52")
+					(reference "S51")
 					(unit 1)
 				)
 			)
@@ -3243,7 +3275,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 194.31 97.79 90)
+		(at 262.89 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3251,8 +3283,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46cb1c2a-d587-44a6-96e5-440d3b2b12e5")
-		(property "Reference" "D48"
-			(at 196.85 96.5199 90)
+		(property "Reference" "D53"
+			(at 265.43 96.5199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3261,7 +3293,7 @@
 			)
 		)
 		(property "Value" "Diode"
-			(at 196.85 99.0599 90)
+			(at 265.43 99.0599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3270,7 +3302,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
-			(at 194.31 97.79 0)
+			(at 262.89 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3279,7 +3311,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 194.31 97.79 0)
+			(at 262.89 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3288,7 +3320,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 194.31 97.79 0)
+			(at 262.89 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3297,7 +3329,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 194.31 97.79 0)
+			(at 262.89 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3306,7 +3338,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 194.31 97.79 0)
+			(at 262.89 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3323,7 +3355,7 @@
 		(instances
 			(project "Oath-66-Duo"
 				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
-					(reference "D48")
+					(reference "D53")
 					(unit 1)
 				)
 			)
@@ -3427,7 +3459,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47c56e33-04ba-4c48-b32f-c15050de8393")
-		(property "Reference" "D49"
+		(property "Reference" "D48"
 			(at 208.28 96.5199 90)
 			(effects
 				(font
@@ -3499,7 +3531,7 @@
 		(instances
 			(project "Oath-66-Duo"
 				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
-					(reference "D49")
+					(reference "D48")
 					(unit 1)
 				)
 			)
@@ -3671,7 +3703,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5004f86a-951d-4cdc-93a1-d6bfb5e8ab64")
-		(property "Reference" "D50"
+		(property "Reference" "D49"
 			(at 219.71 96.5199 90)
 			(effects
 				(font
@@ -3743,7 +3775,7 @@
 		(instances
 			(project "Oath-66-Duo"
 				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
-					(reference "D50")
+					(reference "D49")
 					(unit 1)
 				)
 			)
@@ -4305,7 +4337,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 203.2 132.08 0)
+		(at 214.63 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4314,7 +4346,7 @@
 		(fields_autoplaced yes)
 		(uuid "68875ebc-3d99-415f-bba1-7a608ddb0e99")
 		(property "Reference" "S62"
-			(at 203.2 124.46 0)
+			(at 214.63 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4322,7 +4354,7 @@
 			)
 		)
 		(property "Value" "Keyswitch"
-			(at 203.2 127 0)
+			(at 214.63 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4330,7 +4362,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 203.2 132.08 0)
+			(at 214.63 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4339,7 +4371,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 132.08 0)
+			(at 214.63 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4348,7 +4380,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 203.2 132.08 0)
+			(at 214.63 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4441,7 +4473,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 214.63 132.08 0)
+		(at 226.06 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4450,7 +4482,7 @@
 		(fields_autoplaced yes)
 		(uuid "6fce3248-ad1d-42d1-b90f-f46794a3dfde")
 		(property "Reference" "S63"
-			(at 214.63 124.46 0)
+			(at 226.06 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4458,7 +4490,7 @@
 			)
 		)
 		(property "Value" "Keyswitch"
-			(at 214.63 127 0)
+			(at 226.06 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4466,7 +4498,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 214.63 132.08 0)
+			(at 226.06 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4475,7 +4507,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 214.63 132.08 0)
+			(at 226.06 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4484,7 +4516,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 214.63 132.08 0)
+			(at 226.06 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4673,7 +4705,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d57c681-49b2-439e-ae92-3a00eb25398b")
-		(property "Reference" "D51"
+		(property "Reference" "D50"
 			(at 231.14 96.5199 90)
 			(effects
 				(font
@@ -4745,7 +4777,7 @@
 		(instances
 			(project "Oath-66-Duo"
 				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
-					(reference "D51")
+					(reference "D50")
 					(unit 1)
 				)
 			)
@@ -4849,7 +4881,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "81d03f13-e123-4563-9f94-05ab988cda87")
-		(property "Reference" "S51"
+		(property "Reference" "S50"
 			(at 226.06 83.82 0)
 			(effects
 				(font
@@ -4901,7 +4933,7 @@
 		(instances
 			(project "Oath-66-Duo"
 				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
-					(reference "S51")
+					(reference "S50")
 					(unit 1)
 				)
 			)
@@ -4997,7 +5029,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 240.03 138.43 90)
+		(at 251.46 138.43 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5006,7 +5038,7 @@
 		(fields_autoplaced yes)
 		(uuid "9613457c-65df-4cf4-b76c-e898f02c225f")
 		(property "Reference" "D65"
-			(at 242.57 137.1599 90)
+			(at 254 137.1599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5015,7 +5047,7 @@
 			)
 		)
 		(property "Value" "Diode"
-			(at 242.57 139.6999 90)
+			(at 254 139.6999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5024,7 +5056,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
-			(at 240.03 138.43 0)
+			(at 251.46 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5033,7 +5065,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 240.03 138.43 0)
+			(at 251.46 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5042,7 +5074,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 240.03 138.43 0)
+			(at 251.46 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5051,7 +5083,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 240.03 138.43 0)
+			(at 251.46 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5060,7 +5092,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 240.03 138.43 0)
+			(at 251.46 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5085,7 +5117,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 205.74 138.43 90)
+		(at 217.17 138.43 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5094,7 +5126,7 @@
 		(fields_autoplaced yes)
 		(uuid "97b293de-5b36-48fd-91ee-e72395137cc2")
 		(property "Reference" "D62"
-			(at 208.28 137.1599 90)
+			(at 219.71 137.1599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5103,7 +5135,7 @@
 			)
 		)
 		(property "Value" "Diode"
-			(at 208.28 139.6999 90)
+			(at 219.71 139.6999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5112,7 +5144,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
-			(at 205.74 138.43 0)
+			(at 217.17 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5121,7 +5153,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 138.43 0)
+			(at 217.17 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5130,7 +5162,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 205.74 138.43 0)
+			(at 217.17 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5139,7 +5171,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 205.74 138.43 0)
+			(at 217.17 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5148,7 +5180,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 205.74 138.43 0)
+			(at 217.17 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5317,7 +5349,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a12d1bf3-71c6-414d-b67d-99becd2fc55a")
-		(property "Reference" "D52"
+		(property "Reference" "D51"
 			(at 242.57 96.5199 90)
 			(effects
 				(font
@@ -5389,7 +5421,7 @@
 		(instances
 			(project "Oath-66-Duo"
 				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
-					(reference "D52")
+					(reference "D51")
 					(unit 1)
 				)
 			)
@@ -5397,7 +5429,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 228.6 138.43 90)
+		(at 240.03 138.43 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5406,7 +5438,7 @@
 		(fields_autoplaced yes)
 		(uuid "a1cd1312-859a-4119-acfc-131284f032c5")
 		(property "Reference" "D64"
-			(at 231.14 137.1599 90)
+			(at 242.57 137.1599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5415,7 +5447,7 @@
 			)
 		)
 		(property "Value" "Diode"
-			(at 231.14 139.6999 90)
+			(at 242.57 139.6999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5424,7 +5456,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
-			(at 228.6 138.43 0)
+			(at 240.03 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5433,7 +5465,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 138.43 0)
+			(at 240.03 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5442,7 +5474,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 228.6 138.43 0)
+			(at 240.03 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5451,7 +5483,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 228.6 138.43 0)
+			(at 240.03 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5460,7 +5492,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 228.6 138.43 0)
+			(at 240.03 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5865,7 +5897,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 191.77 91.44 0)
+		(at 260.35 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5873,8 +5905,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aff457cc-f5f9-4690-8b97-a2d3918eb20e")
-		(property "Reference" "S48"
-			(at 191.77 83.82 0)
+		(property "Reference" "S53"
+			(at 260.35 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5882,7 +5914,7 @@
 			)
 		)
 		(property "Value" "Keyswitch"
-			(at 191.77 86.36 0)
+			(at 260.35 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5890,7 +5922,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 191.77 91.44 0)
+			(at 260.35 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5899,7 +5931,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 191.77 91.44 0)
+			(at 260.35 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5908,7 +5940,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 191.77 91.44 0)
+			(at 260.35 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5925,7 +5957,7 @@
 		(instances
 			(project "Oath-66-Duo"
 				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
-					(reference "S48")
+					(reference "S53")
 					(unit 1)
 				)
 			)
@@ -6341,7 +6373,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c838621c-e525-4c77-a88e-3f8d300dd392")
-		(property "Reference" "S53"
+		(property "Reference" "S52"
 			(at 248.92 83.82 0)
 			(effects
 				(font
@@ -6393,7 +6425,7 @@
 		(instances
 			(project "Oath-66-Duo"
 				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
-					(reference "S53")
+					(reference "S52")
 					(unit 1)
 				)
 			)
@@ -6401,7 +6433,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 226.06 132.08 0)
+		(at 237.49 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6410,7 +6442,7 @@
 		(fields_autoplaced yes)
 		(uuid "c8eb5745-c70b-450c-8cd2-3aa77cdaa979")
 		(property "Reference" "S64"
-			(at 226.06 124.46 0)
+			(at 237.49 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6418,7 +6450,7 @@
 			)
 		)
 		(property "Value" "Keyswitch"
-			(at 226.06 127 0)
+			(at 237.49 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6426,7 +6458,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 226.06 132.08 0)
+			(at 237.49 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6435,7 +6467,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 132.08 0)
+			(at 237.49 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6444,7 +6476,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 226.06 132.08 0)
+			(at 237.49 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6937,7 +6969,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 237.49 132.08 0)
+		(at 248.92 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6946,7 +6978,7 @@
 		(fields_autoplaced yes)
 		(uuid "df5a6281-c276-4168-937b-149ab8561267")
 		(property "Reference" "S65"
-			(at 237.49 124.46 0)
+			(at 248.92 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6954,7 +6986,7 @@
 			)
 		)
 		(property "Value" "Keyswitch"
-			(at 237.49 127 0)
+			(at 248.92 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6962,7 +6994,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.00u"
-			(at 237.49 132.08 0)
+			(at 248.92 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6971,7 +7003,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 237.49 132.08 0)
+			(at 248.92 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6980,7 +7012,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 237.49 132.08 0)
+			(at 248.92 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7081,7 +7113,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e3595475-f3cc-42e4-be9c-09e69ee5af83")
-		(property "Reference" "S49"
+		(property "Reference" "S48"
 			(at 203.2 83.82 0)
 			(effects
 				(font
@@ -7133,7 +7165,7 @@
 		(instances
 			(project "Oath-66-Duo"
 				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
-					(reference "S49")
+					(reference "S48")
 					(unit 1)
 				)
 			)
