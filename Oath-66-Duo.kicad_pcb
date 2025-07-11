@@ -133,69 +133,68 @@
 	(net 53 "Net-(D46-A)")
 	(net 54 "Net-(D47-A)")
 	(net 55 "Net-(D48-A)")
-	(net 56 "/Oath-66-Duo-Right/Row 2")
-	(net 57 "Net-(D49-A)")
-	(net 58 "Net-(D50-A)")
-	(net 59 "Net-(D51-A)")
-	(net 60 "Net-(D52-A)")
-	(net 61 "Net-(D53-A)")
-	(net 62 "/Oath-66-Duo-Right/Row 3")
-	(net 63 "Net-(D54-A)")
-	(net 64 "Net-(D55-A)")
-	(net 65 "Net-(D56-A)")
-	(net 66 "Net-(D57-A)")
-	(net 67 "Net-(D58-A)")
-	(net 68 "Net-(D59-A)")
-	(net 69 "Net-(D60-A)")
-	(net 70 "/Oath-66-Duo-Right/Row 4")
-	(net 71 "Net-(D61-A)")
-	(net 72 "Net-(D62-A)")
-	(net 73 "Net-(D63-A)")
-	(net 74 "Net-(D64-A)")
-	(net 75 "Net-(D65-A)")
-	(net 76 "Net-(D66-A)")
-	(net 77 "/Oath-66-Duo-Left/Col 0")
-	(net 78 "/Oath-66-Duo-Left/Col 1")
-	(net 79 "/Oath-66-Duo-Left/Col 2")
-	(net 80 "/Oath-66-Duo-Left/Col 3")
-	(net 81 "/Oath-66-Duo-Left/Col 4")
-	(net 82 "/Oath-66-Duo-Left/Col 5")
-	(net 83 "/Oath-66-Duo-Left/Col 6")
-	(net 84 "/Oath-66-Duo-Right/Col 0")
-	(net 85 "/Oath-66-Duo-Right/Col 1")
-	(net 86 "/Oath-66-Duo-Right/Col 2")
-	(net 87 "/Oath-66-Duo-Right/Col 3")
-	(net 88 "/Oath-66-Duo-Right/Col 4")
-	(net 89 "/Oath-66-Duo-Right/Col 5")
-	(net 90 "/Oath-66-Duo-Right/Col 6")
-	(net 91 "unconnected-(U1-A0{slash}PF7-Pad17)")
-	(net 92 "unconnected-(U1-GND-Pad23)")
-	(net 93 "unconnected-(U1-RAW-Pad24)")
-	(net 94 "unconnected-(U1-RST-Pad22)")
-	(net 95 "unconnected-(U1-TX0{slash}PD3-Pad1)")
-	(net 96 "unconnected-(U1-GND-Pad3)")
-	(net 97 "unconnected-(U1-A1{slash}PF6-Pad18)")
-	(net 98 "unconnected-(U1-A2{slash}PF5-Pad19)")
-	(net 99 "unconnected-(U1-A3{slash}PF4-Pad20)")
-	(net 100 "unconnected-(U1-RX1{slash}PD2-Pad2)")
-	(net 101 "unconnected-(U1-GND-Pad4)")
-	(net 102 "unconnected-(U1-VCC-Pad21)")
-	(net 103 "unconnected-(U2-RST-Pad22)")
-	(net 104 "unconnected-(U2-TX0{slash}PD3-Pad1)")
-	(net 105 "unconnected-(U2-A1{slash}PF6-Pad18)")
-	(net 106 "unconnected-(U2-VCC-Pad21)")
-	(net 107 "unconnected-(U2-A0{slash}PF7-Pad17)")
-	(net 108 "unconnected-(U2-RAW-Pad24)")
-	(net 109 "unconnected-(U2-RX1{slash}PD2-Pad2)")
-	(net 110 "unconnected-(U2-GND-Pad23)")
-	(net 111 "unconnected-(U2-A3{slash}PF4-Pad20)")
-	(net 112 "unconnected-(U2-GND-Pad4)")
-	(net 113 "unconnected-(U2-A2{slash}PF5-Pad19)")
-	(net 114 "unconnected-(U2-GND-Pad3)")
+	(net 56 "Net-(D49-A)")
+	(net 57 "Net-(D50-A)")
+	(net 58 "Net-(D51-A)")
+	(net 59 "Net-(D52-A)")
+	(net 60 "Net-(D53-A)")
+	(net 61 "/Oath-66-Duo-Right/Row 3")
+	(net 62 "Net-(D54-A)")
+	(net 63 "Net-(D55-A)")
+	(net 64 "Net-(D56-A)")
+	(net 65 "Net-(D57-A)")
+	(net 66 "Net-(D58-A)")
+	(net 67 "Net-(D59-A)")
+	(net 68 "Net-(D60-A)")
+	(net 69 "/Oath-66-Duo-Right/Row 4")
+	(net 70 "Net-(D61-A)")
+	(net 71 "Net-(D62-A)")
+	(net 72 "Net-(D63-A)")
+	(net 73 "Net-(D64-A)")
+	(net 74 "Net-(D65-A)")
+	(net 75 "Net-(D66-A)")
+	(net 76 "/Oath-66-Duo-Left/Col 0")
+	(net 77 "/Oath-66-Duo-Left/Col 1")
+	(net 78 "/Oath-66-Duo-Left/Col 2")
+	(net 79 "/Oath-66-Duo-Left/Col 3")
+	(net 80 "/Oath-66-Duo-Left/Col 4")
+	(net 81 "/Oath-66-Duo-Left/Col 5")
+	(net 82 "/Oath-66-Duo-Left/Col 6")
+	(net 83 "/Oath-66-Duo-Right/Col 0")
+	(net 84 "/Oath-66-Duo-Right/Col 1")
+	(net 85 "/Oath-66-Duo-Right/Col 2")
+	(net 86 "/Oath-66-Duo-Right/Col 3")
+	(net 87 "/Oath-66-Duo-Right/Col 4")
+	(net 88 "/Oath-66-Duo-Right/Col 5")
+	(net 89 "/Oath-66-Duo-Right/Col 6")
+	(net 90 "unconnected-(U1-A0{slash}PF7-Pad17)")
+	(net 91 "unconnected-(U1-GND-Pad23)")
+	(net 92 "unconnected-(U1-RAW-Pad24)")
+	(net 93 "unconnected-(U1-RST-Pad22)")
+	(net 94 "unconnected-(U1-TX0{slash}PD3-Pad1)")
+	(net 95 "unconnected-(U1-GND-Pad3)")
+	(net 96 "unconnected-(U1-A1{slash}PF6-Pad18)")
+	(net 97 "unconnected-(U1-A2{slash}PF5-Pad19)")
+	(net 98 "unconnected-(U1-A3{slash}PF4-Pad20)")
+	(net 99 "unconnected-(U1-RX1{slash}PD2-Pad2)")
+	(net 100 "unconnected-(U1-GND-Pad4)")
+	(net 101 "unconnected-(U1-VCC-Pad21)")
+	(net 102 "unconnected-(U2-RST-Pad22)")
+	(net 103 "unconnected-(U2-TX0{slash}PD3-Pad1)")
+	(net 104 "unconnected-(U2-A1{slash}PF6-Pad18)")
+	(net 105 "unconnected-(U2-VCC-Pad21)")
+	(net 106 "unconnected-(U2-A0{slash}PF7-Pad17)")
+	(net 107 "unconnected-(U2-RAW-Pad24)")
+	(net 108 "unconnected-(U2-RX1{slash}PD2-Pad2)")
+	(net 109 "unconnected-(U2-GND-Pad23)")
+	(net 110 "unconnected-(U2-A3{slash}PF4-Pad20)")
+	(net 111 "unconnected-(U2-GND-Pad4)")
+	(net 112 "unconnected-(U2-A2{slash}PF5-Pad19)")
+	(net 113 "unconnected-(U2-GND-Pad3)")
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "0183f68d-c13c-4d6c-97be-287d59116375")
-		(at 244.28125 57.59375)
+		(at 145.189102 152.248482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D11"
@@ -545,7 +544,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "01a5414f-3ce0-4460-b6d7-a108b8b26b83")
-		(at 297.7575 96.5125)
+		(at 304.8 38.1)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S38"
@@ -1195,7 +1194,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 88 "/Oath-66-Duo-Right/Col 4")
+			(net 87 "/Oath-66-Duo-Right/Col 4")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "c7348df5-9c67-40b8-be1b-ad7b254c7a3b")
@@ -1226,7 +1225,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "0ac4952b-65c6-4961-9bd4-134db7929dbc")
-		(at 386.4425 89.2325)
+		(at 335.09375 169.15)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D60"
@@ -1545,7 +1544,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 62 "/Oath-66-Duo-Right/Row 3")
+			(net 61 "/Oath-66-Duo-Right/Row 3")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "99ed7955-3a12-445c-a70f-79e81b35cce1")
@@ -1555,7 +1554,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 69 "Net-(D60-A)")
+			(net 68 "Net-(D60-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "01897c0d-faea-4dc1-8e53-785fc54e0fea")
@@ -2226,7 +2225,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 79 "/Oath-66-Duo-Left/Col 2")
+			(net 78 "/Oath-66-Duo-Left/Col 2")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "101b0f45-18b9-4351-8b3b-9378dae91e38")
@@ -2257,7 +2256,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "0c911f2b-bce6-4cac-8dd0-a846e7466e7b")
-		(at 244.28125 77.69375)
+		(at 145.189102 172.348482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D17"
@@ -2607,7 +2606,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "0d3ac195-c342-4b17-b59d-4d01088eb0d9")
-		(at 244.28125 54.24375)
+		(at 145.189102 148.898482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D10"
@@ -2957,7 +2956,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "104634d1-dc9f-47fb-bc17-1a9895edf28c")
-		(at 386.4425 79.1825)
+		(at 335.09375 159.1)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D57"
@@ -3276,7 +3275,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 62 "/Oath-66-Duo-Right/Row 3")
+			(net 61 "/Oath-66-Duo-Right/Row 3")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "9e527b69-5e0c-4ac5-9251-573d1e6c03da")
@@ -3286,7 +3285,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 66 "Net-(D57-A)")
+			(net 65 "Net-(D57-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "80c80cbc-8bb1-4492-942b-f972e7991f8c")
@@ -3307,13 +3306,13 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "108c1345-ceec-4187-a3d4-b45bdfc6c071")
-		(at 297.7575 80.9625)
+		(at 285.75 38.1)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S37"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "40b8b537-5018-466b-a895-736f946ede22")
+			(uuid "2a86c240-a504-4cba-8373-3511548781a6")
 			(effects
 				(font
 					(size 1 1)
@@ -3324,7 +3323,7 @@
 		(property "Value" "Keyswitch"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "8dcec7b2-2ffd-49ba-8cb5-7b1641e4f5c2")
+			(uuid "aeba68ef-5c2d-4ffc-8eb7-6f954ac874d1")
 			(effects
 				(font
 					(size 1 1)
@@ -3336,7 +3335,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7a2b1432-e61e-4981-8e73-cf242b17855e")
+			(uuid "95943e34-ab42-485a-9f4b-8272c09be7f5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3348,7 +3347,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1576fe89-794e-4228-abf3-8a503a5485c4")
+			(uuid "9b8e0f23-9610-445b-b9a7-11daeda89105")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3957,7 +3956,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 87 "/Oath-66-Duo-Right/Col 3")
+			(net 86 "/Oath-66-Duo-Right/Col 3")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "e0d3c641-f537-4167-b22f-083fe76856e2")
@@ -3988,7 +3987,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "111cbf1e-1928-420f-aaed-5222046682c4")
-		(at 386.4425 72.4825)
+		(at 335.09375 152.4)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D55"
@@ -4307,7 +4306,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 62 "/Oath-66-Duo-Right/Row 3")
+			(net 61 "/Oath-66-Duo-Right/Row 3")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "ea71df2a-c9ed-4942-bef2-e13883a06353")
@@ -4317,7 +4316,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 64 "Net-(D55-A)")
+			(net 63 "Net-(D55-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "90d0dfed-79cc-4156-a59b-75f99e3dcfcd")
@@ -4335,12 +4334,12 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_2.00u"
+	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "12dd9fda-1f86-40a7-91d5-aef77b7f298e")
-		(at 364.2975 80.9625)
-		(descr "keyswitch Hotswap Socket Keycap 2.00u")
-		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.00u")
+		(at 323.85 114.3)
+		(descr "keyswitch Hotswap Socket Keycap 1.00u")
+		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S65"
 			(at 0 -8 0)
 			(layer "F.SilkS")
@@ -4399,7 +4398,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3c98722f-1fa7-4147-ad14-1c5586e4fdcd")
+			(uuid "73c94733-9476-470a-9816-9e97a544e5d8")
 		)
 		(fp_line
 			(start -7.1 7.1)
@@ -4409,7 +4408,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "90c60d30-ed29-41fc-8f94-77287b1a21ee")
+			(uuid "346280a3-2af2-4216-b8ad-66517484f58c")
 		)
 		(fp_line
 			(start 7.1 -7.1)
@@ -4419,7 +4418,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "87d0de09-b3e5-4f51-90a8-a7cf80be42da")
+			(uuid "ee2108d2-f562-463e-84d0-3f5b99413760")
 		)
 		(fp_line
 			(start 7.1 7.1)
@@ -4429,7 +4428,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "578b73a8-8237-4ab9-a34a-8ea7c00d5638")
+			(uuid "efa27213-17ed-432b-a731-dc7f4ef92c13")
 		)
 		(fp_line
 			(start -4.1 -6.9)
@@ -4439,7 +4438,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "15c822f3-5c4c-4326-bf97-374ec100ac5e")
+			(uuid "77aeeffa-9734-45c2-950c-109a063d17d6")
 		)
 		(fp_line
 			(start -0.2 -2.7)
@@ -4449,7 +4448,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "62e48b0a-efb7-4477-a7df-928b186e48ce")
+			(uuid "04cf2a30-71cd-4c62-bf53-28e4f818aed0")
 		)
 		(fp_arc
 			(start -6.1 -4.9)
@@ -4460,7 +4459,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "b8344130-209f-4f3e-8ed3-b5a1b27043a1")
+			(uuid "29ba6677-f4c7-4358-a252-2abb27af5a89")
 		)
 		(fp_arc
 			(start -2.2 -0.7)
@@ -4471,47 +4470,47 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "12b46cbc-085f-4dcb-83b2-7080fe9f6d38")
+			(uuid "4b548c58-227f-492f-913e-f629b1ef2146")
 		)
 		(fp_line
-			(start -19.05 -9.525)
-			(end -19.05 9.525)
+			(start -9.525 -9.525)
+			(end -9.525 9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "1256c6e0-281e-4b68-8947-7ceae4953db4")
+			(uuid "e6575fb8-8105-41a5-bdce-e54c3266e9f0")
 		)
 		(fp_line
-			(start -19.05 9.525)
-			(end 19.05 9.525)
+			(start -9.525 9.525)
+			(end 9.525 9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "27ffb442-61de-4633-b73f-80040d58625e")
+			(uuid "2625fd1d-9b7f-40e1-a20d-1e894379b4c3")
 		)
 		(fp_line
-			(start 19.05 -9.525)
-			(end -19.05 -9.525)
+			(start 9.525 -9.525)
+			(end -9.525 -9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "c89298dc-b4e2-4d11-940e-92ab87e51206")
+			(uuid "813dc88a-b8e6-49dd-a417-763498f80ec8")
 		)
 		(fp_line
-			(start 19.05 9.525)
-			(end 19.05 -9.525)
+			(start 9.525 9.525)
+			(end 9.525 -9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "097adbc9-f7c6-4dd6-8722-eb91bff1a938")
+			(uuid "1cdd1a4b-0fc5-4836-b98b-1d05cf29d86e")
 		)
 		(fp_line
 			(start -7.8 -6)
@@ -4521,7 +4520,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "c8b7d0a4-d121-4afc-9b5b-6692a63b5696")
+			(uuid "b088be39-7462-41ba-bb15-9c3778730378")
 		)
 		(fp_line
 			(start -7.8 -2.9)
@@ -4531,7 +4530,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "b60e0110-fe8c-46c7-9ec4-1701a1445d10")
+			(uuid "cab0977d-252f-4286-ba36-f68c3149a779")
 		)
 		(fp_line
 			(start -7.8 2.9)
@@ -4541,7 +4540,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "275237da-0c49-4406-a9b1-1e71adfa5d67")
+			(uuid "a8eff90e-077c-4c8d-a385-c0e0d1027302")
 		)
 		(fp_line
 			(start -7.8 6)
@@ -4551,7 +4550,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "5a603cbb-788c-4966-a1b2-bb91cb4354e4")
+			(uuid "ddfa4671-1f29-4f5d-bda9-ea4d6c440c13")
 		)
 		(fp_line
 			(start -7 -7)
@@ -4561,7 +4560,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "252ecfcd-bd72-4054-b04d-4827d70d99a2")
+			(uuid "610d318c-aaa7-4231-be79-16c71fbea7c8")
 		)
 		(fp_line
 			(start -7 -6)
@@ -4571,7 +4570,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "11b9ab04-81e4-4a8d-b339-f346459cb6bb")
+			(uuid "9aea8e5b-4c68-4dac-87d8-7f471a297dc2")
 		)
 		(fp_line
 			(start -7 -2.9)
@@ -4581,7 +4580,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "e3656d0b-a630-4640-b102-808cda5e1833")
+			(uuid "36a2e0a9-1ee8-43c1-a9dd-0b371cc8029e")
 		)
 		(fp_line
 			(start -7 2.9)
@@ -4591,7 +4590,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "bd374fc3-6e96-4aad-84b3-ec2bf6f7dd95")
+			(uuid "8f22c947-f0a5-4d79-b240-a5befc8d4377")
 		)
 		(fp_line
 			(start -7 6)
@@ -4601,7 +4600,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "4637ac06-8ed5-4470-a1ba-8f38d0444813")
+			(uuid "a1e1b7c8-c4e6-4538-a168-0808d4452c7b")
 		)
 		(fp_line
 			(start -7 7)
@@ -4611,7 +4610,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "16095a32-59fa-439d-9270-bcee68c9c85b")
+			(uuid "d9f67543-dfe9-479e-b769-155e6882901c")
 		)
 		(fp_line
 			(start 7 -7)
@@ -4621,7 +4620,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "e79a4b95-d087-4b15-a7b7-00f2d67ebe91")
+			(uuid "f24612f9-d7f3-435d-a1a3-4d6e959bf1af")
 		)
 		(fp_line
 			(start 7 -6)
@@ -4631,7 +4630,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "c0b6278b-de1d-4a41-9591-7895fb614dad")
+			(uuid "d1ffa62e-47fa-4598-b676-d0293e719847")
 		)
 		(fp_line
 			(start 7 -2.9)
@@ -4641,7 +4640,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "1a467119-224f-4c6c-961a-18bd0f95b63e")
+			(uuid "65130c22-aa31-4e5a-8710-247ac0ec3d7a")
 		)
 		(fp_line
 			(start 7 2.9)
@@ -4651,7 +4650,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "ec0e5324-cf93-449c-9d1d-5908009f683e")
+			(uuid "93ca1c4a-5605-4c3e-ac6b-060452a4f1e0")
 		)
 		(fp_line
 			(start 7 6)
@@ -4661,7 +4660,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "8c6e7b1c-1c1e-4dd9-8739-59db2f776585")
+			(uuid "2e8b1ba2-2805-48ba-be8b-9bd16824ee94")
 		)
 		(fp_line
 			(start 7 7)
@@ -4671,7 +4670,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "bb953178-33cb-4c0d-bb27-29f17475059b")
+			(uuid "8d4ce3c1-68a7-408d-9c6e-da742bfd656e")
 		)
 		(fp_line
 			(start 7.8 -6)
@@ -4681,7 +4680,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "a3379f2f-bb54-4463-ab0f-fa79922cc32a")
+			(uuid "cacb7ce3-c9c2-4dc6-8d8a-83328459d63c")
 		)
 		(fp_line
 			(start 7.8 -2.9)
@@ -4691,7 +4690,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "c0efbfe2-1c22-4b50-b2e0-7921fa6a4b30")
+			(uuid "44dea370-8f4b-4c27-8707-675471bdce56")
 		)
 		(fp_line
 			(start 7.8 2.9)
@@ -4701,7 +4700,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "faad4651-190f-41f8-92ca-94382c86b164")
+			(uuid "6774972c-efa0-48be-9e94-bfc207e598ef")
 		)
 		(fp_line
 			(start 7.8 6)
@@ -4711,7 +4710,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "7dfdd4ed-e31f-4d60-af8c-0d899cc89098")
+			(uuid "9f2b3c1a-d678-419c-8f53-36363d3cbc65")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -4721,7 +4720,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "7e61bfad-a462-44a3-8c33-08e942576b56")
+			(uuid "36f82575-eb40-4cc9-840b-10805ceb63cc")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -4731,7 +4730,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "9aaf0cee-a02c-443f-a9fe-0ab726dfc95b")
+			(uuid "f2be6f70-3123-4e49-8e9e-b638523325b4")
 		)
 		(fp_line
 			(start -4 -6.8)
@@ -4741,7 +4740,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "0a3f0821-189c-443b-a096-0c8d0a4b55fa")
+			(uuid "21d06198-06ab-4aca-9342-9e4364eb784b")
 		)
 		(fp_line
 			(start -0.3 -2.8)
@@ -4751,7 +4750,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "14c27cc6-5463-46fa-a802-4655664a1b2e")
+			(uuid "cb40ca91-da17-4061-8fc9-4e395b0e23b8")
 		)
 		(fp_line
 			(start 4.8 -6.8)
@@ -4761,7 +4760,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "ba74c547-3890-41f5-8ff8-f70bf9b9064b")
+			(uuid "f47f342b-b4be-4088-a676-b10227c9c077")
 		)
 		(fp_arc
 			(start -6 -4.8)
@@ -4772,7 +4771,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "332091e7-5c1a-49d4-b69d-9b6cf4ac7b24")
+			(uuid "63e2488a-125c-430d-b406-3bf0abfc77e0")
 		)
 		(fp_arc
 			(start -2.3 -0.8)
@@ -4783,7 +4782,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "e1d3772a-58d3-4c93-9e55-4edc93e8dacb")
+			(uuid "0e4d9369-81cd-4988-85d6-db5e4b7976f5")
 		)
 		(fp_line
 			(start -7.25 -7.25)
@@ -4793,7 +4792,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e8749bb0-a4c3-4753-a109-a9af9c23b8ef")
+			(uuid "cca8aa74-9546-4d63-97ba-c52bc5e80c46")
 		)
 		(fp_line
 			(start -7.25 7.25)
@@ -4803,7 +4802,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "95b105db-2ac1-4732-90d5-aad0f0502242")
+			(uuid "002bfd86-dda7-4f4e-addd-61077710b547")
 		)
 		(fp_line
 			(start 7.25 -7.25)
@@ -4813,7 +4812,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ce65131b-91fa-4ffb-8a0e-6f269f7cd101")
+			(uuid "9ed71c74-14ac-4daf-b661-6830e9a40812")
 		)
 		(fp_line
 			(start 7.25 7.25)
@@ -4823,7 +4822,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7c275e1c-20d6-4d9a-9fb3-56d6e287c26d")
+			(uuid "c5d39dd7-af62-4665-bd41-3486df5c4353")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -4833,7 +4832,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "b0448710-3b77-48ad-85d5-90fe762237b6")
+			(uuid "40c0aa9e-e83f-456a-8b43-207881a8d1d0")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -4843,7 +4842,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "7720185c-63f0-4bfb-bdf0-34cd69b1fd40")
+			(uuid "cef739ed-d138-41c1-88fd-8c70dc1dc6bc")
 		)
 		(fp_line
 			(start -4 -6.8)
@@ -4853,7 +4852,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "aaed5a8b-2d5a-447a-ba1f-754a12a3167f")
+			(uuid "b047ef4a-cba0-42c0-9da9-a37bdbc17174")
 		)
 		(fp_line
 			(start -0.3 -2.8)
@@ -4863,7 +4862,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "194d49a9-90ae-454b-a8d2-04af27b81421")
+			(uuid "3ddaacdb-6c88-44f2-ae52-e72e2451472c")
 		)
 		(fp_line
 			(start 4.8 -6.8)
@@ -4873,7 +4872,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "adcceee6-381e-4b2b-b741-412a38c5628e")
+			(uuid "10f51290-cc20-4661-ba23-b7e8bea95840")
 		)
 		(fp_arc
 			(start -6 -4.8)
@@ -4884,7 +4883,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "024d815f-eaf9-4aeb-bb3f-5e029bfeff8d")
+			(uuid "daebb0b7-d79e-4cd4-9939-d7f7071602d6")
 		)
 		(fp_arc
 			(start -2.3 -0.8)
@@ -4895,7 +4894,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "9396245b-4a77-4f76-aa88-0eb3173c36f1")
+			(uuid "e3a2f571-4aaa-49e9-8e03-b7d6d561db20")
 		)
 		(fp_line
 			(start -7 -7)
@@ -4905,7 +4904,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "18fc71de-252e-45d2-a188-34e5679e744f")
+			(uuid "3238a95e-c2ec-4324-b1d5-93810c73254c")
 		)
 		(fp_line
 			(start -7 7)
@@ -4915,7 +4914,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "befdbe9c-62fb-499d-a037-1de63ba4196f")
+			(uuid "a71796ee-5965-4ca3-8456-c49845ff9cbb")
 		)
 		(fp_line
 			(start 7 -7)
@@ -4925,7 +4924,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "386c6a25-0140-404d-b19f-a394544dc003")
+			(uuid "5ae35943-eec0-4b36-afa8-000778c9a19c")
 		)
 		(fp_line
 			(start 7 7)
@@ -4935,7 +4934,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d8f9d478-aea9-4e96-bf63-a499ae837698")
+			(uuid "4911da36-8ee1-467c-8295-4add4da34d90")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -4953,42 +4952,42 @@
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "d60db3a5-f207-42d3-ab79-2e0c059d2c3a")
+			(uuid "54423e54-5dee-40d2-965f-170020d4c83c")
 		)
 		(pad "" np_thru_hole circle
 			(at -3.81 -2.54)
 			(size 3.05 3.05)
 			(drill 3.05)
 			(layers "*.Cu" "*.Mask")
-			(uuid "ee950ca8-0b28-4f14-a4d7-60c6b26a5ba6")
+			(uuid "2aa4a368-a554-4dff-a1ad-9bcd19f3510a")
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "1d03a21f-267f-4450-81e2-cc48f717f8d4")
+			(uuid "f5b96df3-5441-4658-b641-d701feb9e68a")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 -5.08)
 			(size 3.05 3.05)
 			(drill 3.05)
 			(layers "*.Cu" "*.Mask")
-			(uuid "0150cf47-47a4-4c5b-86dd-78aaae2c4196")
+			(uuid "3a5a74dc-8100-4f0a-ba42-69f64c14786e")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "4bac346f-973d-4987-b55e-538f4e203a62")
+			(uuid "ee736130-ecf7-438d-a5a6-b03c687a8e05")
 		)
 		(pad "1" smd roundrect
 			(at -7.085 -2.54)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 88 "/Oath-66-Duo-Right/Col 4")
+			(net 88 "/Oath-66-Duo-Right/Col 5")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "b07395a4-96a4-4c74-858f-41f10474df73")
@@ -4998,7 +4997,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 75 "Net-(D65-A)")
+			(net 74 "Net-(D65-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "64f21946-ee1e-4f39-be75-850a2053a324")
@@ -5669,7 +5668,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 79 "/Oath-66-Duo-Left/Col 2")
+			(net 78 "/Oath-66-Duo-Left/Col 2")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "82f64834-b789-4f3d-bdd6-af084b9a3d86")
@@ -5700,7 +5699,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "15c1ad4c-3056-4025-b260-16d05c4f871f")
-		(at 374.9425 62.4325)
+		(at 323.59375 142.35)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D34"
@@ -6050,7 +6049,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "1648206f-8900-4c3d-bd97-679baf629aab")
-		(at 386.4425 82.5325)
+		(at 335.09375 162.45)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D58"
@@ -6369,7 +6368,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 62 "/Oath-66-Duo-Right/Row 3")
+			(net 61 "/Oath-66-Duo-Right/Row 3")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "b3e5e7d4-563b-4458-9035-15b16d17fd25")
@@ -6379,7 +6378,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 67 "Net-(D58-A)")
+			(net 66 "Net-(D58-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "b58401ba-24e0-4451-a1df-ee9acea258e3")
@@ -6400,7 +6399,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "16b37ee4-41ff-4503-b26f-68d58528e11a")
-		(at 238.53125 74.34375)
+		(at 139.439102 168.998482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D7"
@@ -6750,10 +6749,10 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "18fc0dae-3ae6-407f-9ddf-a3bd1a3e4b18")
-		(at 386.4425 65.7825)
+		(at 335.09375 145.7)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D53"
+		(property "Reference" "D52"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -7069,7 +7068,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 56 "/Oath-66-Duo-Right/Row 2")
+			(net 83 "/Oath-66-Duo-Right/Col 0")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "03e883b0-041f-4f6e-8c4b-4509254b00bb")
@@ -7079,7 +7078,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 61 "Net-(D53-A)")
+			(net 59 "Net-(D52-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "3492ef17-b0bf-42a7-9937-57216d530cff")
@@ -7100,7 +7099,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "1971dd1c-1de9-4ca3-a7c8-8b7f33364777")
-		(at 238.53125 60.94375)
+		(at 139.439102 155.598482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D3"
@@ -7450,7 +7449,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "19e27e35-204a-450d-8af5-e85a06b2562d")
-		(at 380.6925 72.4825)
+		(at 329.34375 152.4)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D46"
@@ -7800,7 +7799,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "1e2f44e9-fc8f-4579-9afc-cfe12e9a4099")
-		(at 314.3925 112.0625)
+		(at 323.85 57.15)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S46"
@@ -8450,7 +8449,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 89 "/Oath-66-Duo-Right/Col 5")
+			(net 88 "/Oath-66-Duo-Right/Col 5")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "61820977-05a2-4e3a-8314-74e2e872d957")
@@ -8481,7 +8480,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "1efee00c-f90d-42b6-91d7-eeb9afded9d9")
-		(at 255.78125 54.24375)
+		(at 156.689102 148.898482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D28"
@@ -8831,10 +8830,10 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "25a74e9d-d8e5-4b68-b03a-0bddba6271b3")
-		(at 386.4425 62.4325)
+		(at 335.09375 142.35)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D52"
+		(property "Reference" "D51"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -9150,7 +9149,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 56 "/Oath-66-Duo-Right/Row 2")
+			(net 83 "/Oath-66-Duo-Right/Col 0")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "cbbc3ece-f34f-4d8a-b005-905ef5f7af51")
@@ -9160,7 +9159,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 60 "Net-(D52-A)")
+			(net 58 "Net-(D51-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "64351839-0c84-4329-9d91-502eab445aba")
@@ -9831,7 +9830,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 81 "/Oath-66-Duo-Left/Col 4")
+			(net 80 "/Oath-66-Duo-Left/Col 4")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "5a8d0a53-876a-4c65-8b78-913d0c2625f1")
@@ -9862,7 +9861,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "2784b177-b38c-4ac8-9f7d-914f040ee512")
-		(at 347.6625 65.4125)
+		(at 285.75 95.25)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S57"
@@ -10512,7 +10511,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 87 "/Oath-66-Duo-Right/Col 3")
+			(net 86 "/Oath-66-Duo-Right/Col 3")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "e79636a4-4bbf-4d1e-9004-4278eec899b0")
@@ -10522,7 +10521,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 66 "Net-(D57-A)")
+			(net 65 "Net-(D57-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "2ba20daa-c83a-4851-830a-cb37078775a0")
@@ -10543,7 +10542,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "278b5d2a-784d-47ae-9f58-195b1083b935")
-		(at 250.03125 67.64375)
+		(at 150.939102 162.298482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D23"
@@ -10893,7 +10892,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "27ac439e-fc92-476e-b660-68f31a016667")
-		(at 314.3925 80.9625)
+		(at 285.75 57.15)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S44"
@@ -11543,7 +11542,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 87 "/Oath-66-Duo-Right/Col 3")
+			(net 86 "/Oath-66-Duo-Right/Col 3")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "75529529-67fa-4287-acdd-2560cc6fa99e")
@@ -12224,7 +12223,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 80 "/Oath-66-Duo-Left/Col 3")
+			(net 79 "/Oath-66-Duo-Left/Col 3")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "efe019a5-ae09-4bc8-a52d-5848071da8b9")
@@ -12255,7 +12254,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "2a2eec3d-01f1-4473-ac72-a69af4624d32")
-		(at 250.03125 77.69375)
+		(at 150.939102 172.348482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D26"
@@ -12605,7 +12604,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "2cf2770f-e46e-4d8a-9854-2619b6af2fc4")
-		(at 374.9425 85.8825)
+		(at 323.59375 165.8)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D41"
@@ -12955,7 +12954,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "2e5cf123-e87d-4740-97f4-98ac6f71ec06")
-		(at 380.6925 65.7825)
+		(at 329.34375 145.7)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D44"
@@ -13955,7 +13954,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 78 "/Oath-66-Duo-Left/Col 1")
+			(net 77 "/Oath-66-Duo-Left/Col 1")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "dab05eed-007e-43dd-bd9a-8c8d7321ad58")
@@ -13983,16 +13982,16 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.50u"
 		(layer "F.Cu")
 		(uuid "30a4a7d7-623c-40b0-9f52-a09b9506fae0")
-		(at 314.3925 127.6125)
-		(descr "keyswitch Hotswap Socket Keycap 1.00u")
-		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
+		(at 347.6625 57.15)
+		(descr "keyswitch Hotswap Socket Keycap 1.50u")
+		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.50u")
 		(property "Reference" "S47"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "cadaba8a-23b6-4ea8-9f6c-563339ba0e79")
+			(uuid "cb1654cd-679d-423d-ac00-9772cdce37a0")
 			(effects
 				(font
 					(size 1 1)
@@ -14003,7 +14002,7 @@
 		(property "Value" "Keyswitch"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "028d4a8c-71d5-46ed-b467-3bd8337d2aec")
+			(uuid "68570fce-fedf-4f90-a012-33223455c34c")
 			(effects
 				(font
 					(size 1 1)
@@ -14015,7 +14014,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e9e4c4e1-30d8-4b3a-bb25-c72df7bfdf2c")
+			(uuid "565429c4-350d-42ee-9599-1f302e3b150e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14027,7 +14026,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "19e77ee5-e4a9-4d86-b860-d935c7d8db6b")
+			(uuid "a2710f37-2461-498b-8b95-3a7ac34a2243")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14047,7 +14046,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3af2da05-32e9-4aa1-955a-f5626246dc8d")
+			(uuid "58fa5665-de9a-4dc2-a9cd-1470998ed9d0")
 		)
 		(fp_line
 			(start -7.1 7.1)
@@ -14057,7 +14056,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "597c6772-bd55-40e5-b8a2-8b70ec1f8522")
+			(uuid "b28e344d-8a66-41b6-87b9-22fc040a0e8a")
 		)
 		(fp_line
 			(start 7.1 -7.1)
@@ -14067,7 +14066,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "982c7631-aea0-40fe-bb12-6ec8bc559f83")
+			(uuid "5ca001f3-2dee-41b1-96a0-3a2252e6787c")
 		)
 		(fp_line
 			(start 7.1 7.1)
@@ -14077,7 +14076,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "be722fee-ddb7-44f2-a1e2-78476743520f")
+			(uuid "bf1ceb69-2008-4820-b7e9-8e94f337a1de")
 		)
 		(fp_line
 			(start -4.1 -6.9)
@@ -14087,7 +14086,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "111a1ba9-434f-4f66-826c-9ca8940f4270")
+			(uuid "dbdb7a90-6488-44c4-87cb-e518dd92cd5a")
 		)
 		(fp_line
 			(start -0.2 -2.7)
@@ -14097,7 +14096,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "7a3568e5-23db-4fcd-8e76-a909542d9d77")
+			(uuid "02aa5367-4403-4ad1-8735-419344de2f06")
 		)
 		(fp_arc
 			(start -6.1 -4.9)
@@ -14108,7 +14107,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "5d823fdf-fdc6-4b76-a853-9e96c2007153")
+			(uuid "730043fd-43b9-4f4f-8b04-3579c1138d38")
 		)
 		(fp_arc
 			(start -2.2 -0.7)
@@ -14119,47 +14118,47 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "45b8cf25-21af-4b9d-abb9-6cd21d2149d7")
+			(uuid "c95a7377-afe9-452e-9a14-2c7e61de4b3a")
 		)
 		(fp_line
-			(start -9.525 -9.525)
-			(end -9.525 9.525)
+			(start -14.2875 -9.525)
+			(end -14.2875 9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "de8637a9-dc79-4e81-9c75-4102c4f5cfeb")
+			(uuid "00724001-3ecd-4010-ba7c-5c4913ba81ac")
 		)
 		(fp_line
-			(start -9.525 9.525)
-			(end 9.525 9.525)
+			(start -14.2875 9.525)
+			(end 14.2875 9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "62ea53f6-fd5d-4d67-b5f9-bf13c41f99f3")
+			(uuid "773d5a18-516f-4c3a-b731-34cbb9c2c3f6")
 		)
 		(fp_line
-			(start 9.525 -9.525)
-			(end -9.525 -9.525)
+			(start 14.2875 -9.525)
+			(end -14.2875 -9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "aac700ca-528a-481d-9e22-83b71bba35c4")
+			(uuid "9f42464d-62a7-44b7-9acb-a5d61114fca3")
 		)
 		(fp_line
-			(start 9.525 9.525)
-			(end 9.525 -9.525)
+			(start 14.2875 9.525)
+			(end 14.2875 -9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "634770f0-bccd-4f35-addd-9c77c9485594")
+			(uuid "14e33dd9-ea36-4a44-a436-7b6f995c6165")
 		)
 		(fp_line
 			(start -7.8 -6)
@@ -14169,7 +14168,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "da80ebc3-84b0-41b3-a06a-005dba68fb02")
+			(uuid "0d6382ba-c98b-4c5d-9076-902720b45650")
 		)
 		(fp_line
 			(start -7.8 -2.9)
@@ -14179,7 +14178,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "b37d4fb2-53ac-4ec1-97fe-4f00ec23edbe")
+			(uuid "d16b6260-fbb1-46e6-8ad0-63700ed19a2d")
 		)
 		(fp_line
 			(start -7.8 2.9)
@@ -14189,7 +14188,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "e5cd087d-1d66-447f-b9c0-f0f19a28acf9")
+			(uuid "1b1c86dd-42c0-4158-a442-08ad98d43223")
 		)
 		(fp_line
 			(start -7.8 6)
@@ -14199,7 +14198,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "ed58c74a-f47d-4946-a683-7e8d9fdc1ecf")
+			(uuid "5ca74ce3-4590-46ae-b2e7-932768060c4b")
 		)
 		(fp_line
 			(start -7 -7)
@@ -14209,7 +14208,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "6b73c27d-7c5f-4ac8-ac27-92691b282b52")
+			(uuid "abdf196f-55cb-41ed-a3d3-90202b9a285e")
 		)
 		(fp_line
 			(start -7 -6)
@@ -14219,7 +14218,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "e2502d2b-3c99-4857-a586-51f059ed9e41")
+			(uuid "28ca8233-4d8d-4de3-bc93-2fe8ac968860")
 		)
 		(fp_line
 			(start -7 -2.9)
@@ -14229,7 +14228,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "d6b122e5-321c-466e-8ae9-f5497276a289")
+			(uuid "6bc655da-b699-47aa-9473-57765077af8a")
 		)
 		(fp_line
 			(start -7 2.9)
@@ -14239,7 +14238,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "19803ad2-bcd0-46a6-985d-0bfe7866b3fd")
+			(uuid "fe3c87d8-2798-4b8f-98fe-885b63e4de2c")
 		)
 		(fp_line
 			(start -7 6)
@@ -14249,7 +14248,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "b63209c0-de90-4278-9b14-a9576c9c8ddd")
+			(uuid "d3ed57b7-6cdc-4a6c-9dc0-55dea4b06d83")
 		)
 		(fp_line
 			(start -7 7)
@@ -14259,7 +14258,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "e99894d1-e049-4279-a5a7-d43accb15ecc")
+			(uuid "80787139-05ec-4ed9-a0fa-8fd057314c5f")
 		)
 		(fp_line
 			(start 7 -7)
@@ -14269,7 +14268,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "d1083d4b-6cb2-4d5d-8d5c-037fe514613e")
+			(uuid "807b5b65-fa20-448f-b4ed-63d00c52deac")
 		)
 		(fp_line
 			(start 7 -6)
@@ -14279,7 +14278,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "1ebad4b1-1cb7-4930-a473-87a06123f969")
+			(uuid "40b41938-d66c-4b13-bdc9-84479a8effaa")
 		)
 		(fp_line
 			(start 7 -2.9)
@@ -14289,7 +14288,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "19e5b409-cfd3-4d27-beaa-1adc1ba7b096")
+			(uuid "6ed32e36-8214-44dc-b6ab-ccc5698a6d32")
 		)
 		(fp_line
 			(start 7 2.9)
@@ -14299,7 +14298,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "1af3b229-21b6-4fd1-8609-f097072433c0")
+			(uuid "aeb4def2-01fd-40db-9665-ca7cc5427fd0")
 		)
 		(fp_line
 			(start 7 6)
@@ -14309,7 +14308,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "337bef48-e1c4-46c0-ad9c-3c30c42d6c4b")
+			(uuid "1d328db2-0b6d-42a7-9e5a-65cfe369c861")
 		)
 		(fp_line
 			(start 7 7)
@@ -14319,7 +14318,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "be7629d3-850e-4019-9268-d770f5b852b3")
+			(uuid "f8ae27b6-3e09-425c-ac0d-55bc6cabd94c")
 		)
 		(fp_line
 			(start 7.8 -6)
@@ -14329,7 +14328,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "74217a81-fd2b-49e4-aeb3-0a380c006973")
+			(uuid "b2302484-6a3d-4c5b-bdea-757267e1f846")
 		)
 		(fp_line
 			(start 7.8 -2.9)
@@ -14339,7 +14338,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "c2e32d20-94fa-4b96-906d-2d3be896490b")
+			(uuid "7a8f9f36-9648-4210-a177-9049e1c4fade")
 		)
 		(fp_line
 			(start 7.8 2.9)
@@ -14349,7 +14348,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "af1438ab-501a-4795-89c4-d3d47727e868")
+			(uuid "9337c3cc-4e7a-4b0f-9dea-fcc52090d4f1")
 		)
 		(fp_line
 			(start 7.8 6)
@@ -14359,7 +14358,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "fd50bc33-2f05-47dd-aeb7-dfdef19a8eb2")
+			(uuid "38b9cdfc-7d24-4882-aba9-d9aa55c0338f")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -14369,7 +14368,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "f8c99097-ee53-4fd5-8fdf-ca593a558d94")
+			(uuid "3f9ef3fe-d738-4191-8e6b-474035cb5d7a")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -14379,7 +14378,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "a8d04053-f15e-4e06-b904-140e98d718e5")
+			(uuid "37023735-0910-442e-a2cb-6d3e3c57a3e9")
 		)
 		(fp_line
 			(start -4 -6.8)
@@ -14389,7 +14388,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "83950f42-dff7-4ab8-86a3-fabe51f6e785")
+			(uuid "1f484117-b34b-483c-a5d6-4b82da53fac9")
 		)
 		(fp_line
 			(start -0.3 -2.8)
@@ -14399,7 +14398,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "cc454a49-1338-4f34-a9e1-231695a9ff9b")
+			(uuid "58979e6d-7ee4-44e3-9837-ffd47bbf36fd")
 		)
 		(fp_line
 			(start 4.8 -6.8)
@@ -14409,7 +14408,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "84fc98a5-2d5c-40a0-9132-18e6afcb4810")
+			(uuid "76987568-a850-4d57-91a7-f75e5007d339")
 		)
 		(fp_arc
 			(start -6 -4.8)
@@ -14420,7 +14419,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "0f78c1ed-f34e-4bba-b348-fa3f89f55613")
+			(uuid "f781b9fb-10f9-466b-a428-91580c4a8737")
 		)
 		(fp_arc
 			(start -2.3 -0.8)
@@ -14431,7 +14430,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "53ff820c-c833-462e-a650-ac84a78fb0ab")
+			(uuid "90af5a2a-1b7a-4d88-87c1-b97ff6fb6a1f")
 		)
 		(fp_line
 			(start -7.25 -7.25)
@@ -14441,7 +14440,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d94f5d90-6229-49ec-b6ef-ee6274a77e63")
+			(uuid "7969cd13-20c4-487b-b78a-914674df6800")
 		)
 		(fp_line
 			(start -7.25 7.25)
@@ -14451,7 +14450,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "5dca9ad3-5990-4149-bd14-50e2aad56573")
+			(uuid "f838baf0-9e18-4806-a04e-20d288dbe629")
 		)
 		(fp_line
 			(start 7.25 -7.25)
@@ -14461,7 +14460,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2b805fc4-2a97-4839-af86-bf68b46affab")
+			(uuid "7c11144b-19c0-4bf0-b394-00d3b4bc1487")
 		)
 		(fp_line
 			(start 7.25 7.25)
@@ -14471,7 +14470,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "5709cfb4-2a42-448d-9646-f6b47319d259")
+			(uuid "9d05ce3a-1d23-4611-810d-8ff88d7187e2")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -14481,7 +14480,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "431dca90-d1e2-4043-af9a-65cea7851f0e")
+			(uuid "ce9bd6fa-2b85-4da4-b726-b5282ec9b861")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -14491,7 +14490,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "8f76125a-b634-4cb9-81c2-318142410ecb")
+			(uuid "2bef5617-ccae-4a00-a1e4-f08170ba14a4")
 		)
 		(fp_line
 			(start -4 -6.8)
@@ -14501,7 +14500,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "3d416612-8ad7-4ee4-90b2-da99c049a8ce")
+			(uuid "27a379be-529a-4c62-b1cd-b680dac1bd5d")
 		)
 		(fp_line
 			(start -0.3 -2.8)
@@ -14511,7 +14510,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "4fe352c4-614d-4fe1-ae56-40776f56f53c")
+			(uuid "aace4ed8-ae8d-4b16-aaff-931d7a8f898e")
 		)
 		(fp_line
 			(start 4.8 -6.8)
@@ -14521,7 +14520,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "ffabee93-bfed-487a-a9e0-6dac38801457")
+			(uuid "76f62d40-1dbc-42a6-b4c4-37077bd4b8ae")
 		)
 		(fp_arc
 			(start -6 -4.8)
@@ -14532,7 +14531,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "5d6f7c24-4094-4a87-836e-8f910bb69a51")
+			(uuid "86326d2d-26d3-472b-a1a6-b773235e2cf5")
 		)
 		(fp_arc
 			(start -2.3 -0.8)
@@ -14543,7 +14542,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "ea57c692-bc6b-4642-b476-c1abd52734ad")
+			(uuid "c546c5f1-b2bd-455d-92e8-b238dbf2739d")
 		)
 		(fp_line
 			(start -7 -7)
@@ -14553,7 +14552,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7aa2d382-cd5b-4f0a-9488-9098fc08c859")
+			(uuid "164de886-f12e-4a1e-b849-25d7c90758cd")
 		)
 		(fp_line
 			(start -7 7)
@@ -14563,7 +14562,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "00f08cd1-367a-4c8b-83f4-97f1b566789a")
+			(uuid "2fb08e88-c4dd-4c3c-bb4e-99444bc29de1")
 		)
 		(fp_line
 			(start 7 -7)
@@ -14573,7 +14572,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8bfde8b7-7d62-4a45-9b91-1cdae7fbc313")
+			(uuid "05fe3666-921f-4649-9bec-43534a6f6ce0")
 		)
 		(fp_line
 			(start 7 7)
@@ -14583,7 +14582,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "1a860c5b-a3bb-447a-ac5c-88607ac95941")
+			(uuid "17a8f5de-e281-4cdf-98d7-15ae0af20807")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -14601,42 +14600,42 @@
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "c3ef632c-a7ee-40cb-8308-6e89df218c6f")
+			(uuid "b29c5bab-698b-4526-9c6e-5534d2b7f1df")
 		)
 		(pad "" np_thru_hole circle
 			(at -3.81 -2.54)
 			(size 3.05 3.05)
 			(drill 3.05)
 			(layers "*.Cu" "*.Mask")
-			(uuid "9493780d-3ecc-4942-9943-efa13459565d")
+			(uuid "778b6578-4e1a-48d2-b3a4-5855a22c321e")
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "3d469a7b-c0c4-4657-8bef-c58bfd1e24d5")
+			(uuid "a679a92d-a0bd-4ac8-9cdd-ad90baf38962")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 -5.08)
 			(size 3.05 3.05)
 			(drill 3.05)
 			(layers "*.Cu" "*.Mask")
-			(uuid "d5592ea3-2468-4b51-9b88-6966cd514d24")
+			(uuid "c3f7ae84-88fe-4b04-836e-ffbd82640e96")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "02e9d55b-e1ad-435d-9c40-3aa1aaec00f0")
+			(uuid "fb5aafeb-f7cd-4207-a66e-084a47116bfb")
 		)
 		(pad "1" smd roundrect
 			(at -7.085 -2.54)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 90 "/Oath-66-Duo-Right/Col 6")
+			(net 89 "/Oath-66-Duo-Right/Col 6")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "c868e181-d0e9-4a8e-8877-47da3fa31942")
@@ -15317,7 +15316,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 78 "/Oath-66-Duo-Left/Col 1")
+			(net 77 "/Oath-66-Duo-Left/Col 1")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "bbefd825-396f-422c-84db-f801a8390453")
@@ -15998,7 +15997,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 78 "/Oath-66-Duo-Left/Col 1")
+			(net 77 "/Oath-66-Duo-Left/Col 1")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "b1b55da2-b6d8-46c6-ae37-04feba85661b")
@@ -16679,7 +16678,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 81 "/Oath-66-Duo-Left/Col 4")
+			(net 80 "/Oath-66-Duo-Left/Col 4")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "9e922923-233e-425e-8665-52c56e28f462")
@@ -16707,16 +16706,16 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.50u"
 		(layer "F.Cu")
 		(uuid "32b5d19b-106d-44b8-ba11-862a1d9b73e9")
-		(at 331.0275 112.0625)
-		(descr "keyswitch Hotswap Socket Keycap 1.00u")
-		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
-		(property "Reference" "S53"
+		(at 347.6625 76.2)
+		(descr "keyswitch Hotswap Socket Keycap 1.50u")
+		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.50u")
+		(property "Reference" "S52"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "b5a4e9da-3f77-4464-85d7-f2bb6414593c")
+			(uuid "a164007c-379c-4513-ab03-9505d50b316f")
 			(effects
 				(font
 					(size 1 1)
@@ -16727,7 +16726,7 @@
 		(property "Value" "Keyswitch"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "d2d7ea16-40ee-4983-ad9c-ade78f90538a")
+			(uuid "83e7e20d-22ca-4529-ac90-b7c4a17b1c38")
 			(effects
 				(font
 					(size 1 1)
@@ -16739,7 +16738,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "67d10282-554e-437f-a726-c1aa5c294f8d")
+			(uuid "9a9ef3ce-35e3-45d6-92ad-1cc1ece5793e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16751,7 +16750,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "daa64e7e-9499-44a1-97d4-ccdc01171253")
+			(uuid "bad54d6c-7141-4bdf-a05a-aaa45887f3f3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16771,7 +16770,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b8c9cca6-f149-4909-89a1-afde467fb239")
+			(uuid "53f7baf0-29e3-4a78-b371-80a4b832143a")
 		)
 		(fp_line
 			(start -7.1 7.1)
@@ -16781,7 +16780,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "81864401-ca35-4473-a7c0-b9cce61591ba")
+			(uuid "89781ced-83e8-4c0c-8367-2976e7f1d84d")
 		)
 		(fp_line
 			(start 7.1 -7.1)
@@ -16791,7 +16790,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2224555b-e16f-41da-a58b-d08c461380c8")
+			(uuid "acbb14ad-9d64-44de-a579-829f37678b81")
 		)
 		(fp_line
 			(start 7.1 7.1)
@@ -16801,7 +16800,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c11230fc-8256-4c3b-9203-05bb9a3d2b01")
+			(uuid "0e1c8028-8fbb-41a3-ba9c-02ce995be843")
 		)
 		(fp_line
 			(start -4.1 -6.9)
@@ -16811,7 +16810,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "9e57160a-ef03-4e79-8abb-4b3d2070bdab")
+			(uuid "f546a028-07fa-4044-a8d7-36b5fee45bcb")
 		)
 		(fp_line
 			(start -0.2 -2.7)
@@ -16821,7 +16820,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "fa7ce111-3273-46d5-92e9-95c529f4f274")
+			(uuid "8808a598-b0d2-4de4-94d6-00b316bcf6f5")
 		)
 		(fp_arc
 			(start -6.1 -4.9)
@@ -16832,7 +16831,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "c551c3ec-0e9a-4586-9166-3c0141ccfb1b")
+			(uuid "a6351e99-8069-4eb0-9f52-a4c2e2aaca09")
 		)
 		(fp_arc
 			(start -2.2 -0.7)
@@ -16843,47 +16842,47 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "bbcede12-6ec7-48af-b903-31be3e33f172")
+			(uuid "6943c59e-5c69-4519-9395-6272e1c7ab2d")
 		)
 		(fp_line
-			(start -9.525 -9.525)
-			(end -9.525 9.525)
+			(start -14.2875 -9.525)
+			(end -14.2875 9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "e962d0fd-9444-43ff-9bea-71ef9c179c11")
+			(uuid "38c83879-e39a-424e-8a69-496fd25c8cf9")
 		)
 		(fp_line
-			(start -9.525 9.525)
-			(end 9.525 9.525)
+			(start -14.2875 9.525)
+			(end 14.2875 9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "394feb2b-9785-4e44-8f68-628828176110")
+			(uuid "3fa55c71-c228-4899-8940-9ff61b60a6c7")
 		)
 		(fp_line
-			(start 9.525 -9.525)
-			(end -9.525 -9.525)
+			(start 14.2875 -9.525)
+			(end -14.2875 -9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "1770e6b6-6d69-4a27-9601-b502b4517662")
+			(uuid "e92c8f0f-8c9f-4b11-8e98-3c0d32c099f0")
 		)
 		(fp_line
-			(start 9.525 9.525)
-			(end 9.525 -9.525)
+			(start 14.2875 9.525)
+			(end 14.2875 -9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "bb95573d-0a7f-466b-811b-1e616720eba2")
+			(uuid "14d1df21-811f-4a57-bb4b-096439d2970f")
 		)
 		(fp_line
 			(start -7.8 -6)
@@ -16893,7 +16892,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "f79fb17b-3d64-4033-b432-818bdfaedd30")
+			(uuid "15d7d393-0eb0-42b5-ae19-4b11723714ee")
 		)
 		(fp_line
 			(start -7.8 -2.9)
@@ -16903,7 +16902,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "e913e73c-2e2b-4c01-8b8e-53d9745da0e3")
+			(uuid "b3cdbfc9-8cf4-42cb-87f3-28ff88205135")
 		)
 		(fp_line
 			(start -7.8 2.9)
@@ -16913,7 +16912,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "0ae58662-1b12-489f-9015-5cd354e16bb8")
+			(uuid "c11cb871-2909-4959-9768-bdcf1ca82399")
 		)
 		(fp_line
 			(start -7.8 6)
@@ -16923,7 +16922,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "f37201aa-d2db-43ab-81fc-a59c6c664c80")
+			(uuid "09f37170-4a96-4dfd-be14-188253cea7b7")
 		)
 		(fp_line
 			(start -7 -7)
@@ -16933,7 +16932,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "7eda11d6-759b-4004-a1b9-4fdd667e6edf")
+			(uuid "0e124bb5-276d-4e66-b096-c7b600771245")
 		)
 		(fp_line
 			(start -7 -6)
@@ -16943,7 +16942,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "38d8d1a3-21df-4dd7-9186-8f5bfee04567")
+			(uuid "a349eec2-0ad2-4526-8436-2191066100fa")
 		)
 		(fp_line
 			(start -7 -2.9)
@@ -16953,7 +16952,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "4f601105-8660-4499-bec8-9b71793a9639")
+			(uuid "cc844ec2-5619-4eb2-8f1c-5cb8f8091f28")
 		)
 		(fp_line
 			(start -7 2.9)
@@ -16963,7 +16962,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "27084dce-0734-4c49-b5b5-5433e76469f7")
+			(uuid "34c00941-ff2f-4c84-b114-de2ac13f5137")
 		)
 		(fp_line
 			(start -7 6)
@@ -16973,7 +16972,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "8528b4b8-f159-484e-8a69-7169b13037d3")
+			(uuid "c9f42cf8-1e6e-40df-a38b-cbdef344ead7")
 		)
 		(fp_line
 			(start -7 7)
@@ -16983,7 +16982,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "34b75567-8490-4268-b0cb-6b501b1ed310")
+			(uuid "1d0ba95d-0d93-4a7e-bcd0-048046fd58af")
 		)
 		(fp_line
 			(start 7 -7)
@@ -16993,7 +16992,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "48a68dc2-2b7f-453b-be37-84833bcb1bd5")
+			(uuid "9828e656-c796-4ad4-9c96-db3019c78c5f")
 		)
 		(fp_line
 			(start 7 -6)
@@ -17003,7 +17002,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "1b6659b7-eb8e-4fae-8abb-e5b6ce731694")
+			(uuid "55e2b75c-6232-47e9-aa74-fec117e6f745")
 		)
 		(fp_line
 			(start 7 -2.9)
@@ -17013,7 +17012,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "431938b5-4d8a-4798-87d9-a5c8c73a7af5")
+			(uuid "d6e503c0-92e2-47ba-8433-e509e126d521")
 		)
 		(fp_line
 			(start 7 2.9)
@@ -17023,7 +17022,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "afcca730-d559-4be6-a9f2-f3e8bfc93f7b")
+			(uuid "4004a3bc-78eb-4501-aeae-7067c7a0c638")
 		)
 		(fp_line
 			(start 7 6)
@@ -17033,7 +17032,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "ead27e59-6b91-429e-8707-ea54af98cbd9")
+			(uuid "7496e5ae-54a0-4168-a0bf-49f8a3081fb8")
 		)
 		(fp_line
 			(start 7 7)
@@ -17043,7 +17042,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "11a5ad3b-3aaf-4ab0-a96a-d5f844be41c5")
+			(uuid "6d20796d-f9ac-441d-8cef-2425911f4dc5")
 		)
 		(fp_line
 			(start 7.8 -6)
@@ -17053,7 +17052,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "bce77aaf-8c7b-4c39-b013-1691bf2e9004")
+			(uuid "cca6f60f-7e57-4511-a1e4-d0139bc6a80e")
 		)
 		(fp_line
 			(start 7.8 -2.9)
@@ -17063,7 +17062,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "bbca3899-f563-406e-8c6a-506980fdaa8b")
+			(uuid "1ce9195a-99fe-4f18-b021-cd4ddf8eb9ce")
 		)
 		(fp_line
 			(start 7.8 2.9)
@@ -17073,7 +17072,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "ed031f2a-f326-4976-8e96-11d8da9832eb")
+			(uuid "5b885aba-fea7-46cc-8acc-98be29abe5a0")
 		)
 		(fp_line
 			(start 7.8 6)
@@ -17083,7 +17082,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "e8e25250-840a-476a-8d79-8d614e1e9573")
+			(uuid "60bba98b-984f-4fc4-945e-9a5c49eabf82")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -17093,7 +17092,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "909c2a9d-913f-4ca9-8bf3-1d2ae0fc5773")
+			(uuid "cd8d2e40-7a74-45c6-96f6-638b6173d6f0")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -17103,7 +17102,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "fb5d568f-fc58-4fab-b55d-e9f2219ef808")
+			(uuid "bbbca8d1-6afe-4a8a-a56c-da497368331a")
 		)
 		(fp_line
 			(start -4 -6.8)
@@ -17113,7 +17112,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "5752c53e-fab8-4633-97ec-721ee75fa584")
+			(uuid "d703b11b-416d-4504-84e7-3a0ddecf45b7")
 		)
 		(fp_line
 			(start -0.3 -2.8)
@@ -17123,7 +17122,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "1b719ce3-a61a-4cd3-b4f1-f8c2dce1ed02")
+			(uuid "b036b6f3-d4aa-43b6-a308-3fa620c3655b")
 		)
 		(fp_line
 			(start 4.8 -6.8)
@@ -17133,7 +17132,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "b6ff0437-3226-4c0d-97ef-41f013e8cce5")
+			(uuid "ec73f6de-42a8-43c2-b4dd-c121396ce439")
 		)
 		(fp_arc
 			(start -6 -4.8)
@@ -17144,7 +17143,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "058cfac8-2de3-4c32-9a0e-5024dfbf331d")
+			(uuid "5e5fe9e4-35f5-499d-b7c3-05f333844c33")
 		)
 		(fp_arc
 			(start -2.3 -0.8)
@@ -17155,7 +17154,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "2553373c-8558-4802-ae25-77fdeca6f6ba")
+			(uuid "4b729618-3796-4cba-ba76-42df05938b04")
 		)
 		(fp_line
 			(start -7.25 -7.25)
@@ -17165,7 +17164,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2b860669-359c-47b0-a29b-7b8874d1d527")
+			(uuid "4c8be10f-b776-4011-afd2-0e5422e4dfed")
 		)
 		(fp_line
 			(start -7.25 7.25)
@@ -17175,7 +17174,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f03ad593-d51c-461c-8f71-bc9d6710a0c2")
+			(uuid "f9263e7c-5e23-4da4-b890-b63c6a93dad9")
 		)
 		(fp_line
 			(start 7.25 -7.25)
@@ -17185,7 +17184,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "21d8f03b-5c5c-4172-b542-f4c13ce9c166")
+			(uuid "8b5c674b-17aa-42ad-b58f-8bc2b5c7b9e2")
 		)
 		(fp_line
 			(start 7.25 7.25)
@@ -17195,7 +17194,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f8525314-7d94-488c-98fd-3c5761599877")
+			(uuid "0ee9ced4-5665-4143-9113-742324562b94")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -17205,7 +17204,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "3336850d-ef54-4ffa-b81b-0e878f851003")
+			(uuid "9f6f02d1-cbc5-43f6-bc74-a70a6da19304")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -17215,7 +17214,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "265f7122-fe34-4474-9265-29d23bf8f266")
+			(uuid "b5da84bb-5f1c-498c-9d29-b3762775fa99")
 		)
 		(fp_line
 			(start -4 -6.8)
@@ -17225,7 +17224,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "9372e255-6324-4309-ad45-33b288f19139")
+			(uuid "a57b7fdf-f370-4d2f-b180-6b4c104d429b")
 		)
 		(fp_line
 			(start -0.3 -2.8)
@@ -17235,7 +17234,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "84fad724-4888-4505-96ff-46e330bff8b0")
+			(uuid "c20167c0-7b75-4c8e-8217-fc72c87c14ce")
 		)
 		(fp_line
 			(start 4.8 -6.8)
@@ -17245,7 +17244,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "b5f915b2-751e-4985-9374-5a1eedeaeb15")
+			(uuid "f46d5926-853e-457a-b2a4-56f933ad48ed")
 		)
 		(fp_arc
 			(start -6 -4.8)
@@ -17256,7 +17255,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "c5f38d91-270b-491f-b291-e4b759953ac2")
+			(uuid "147b9e05-922e-4caf-9b77-e1b6b071ce94")
 		)
 		(fp_arc
 			(start -2.3 -0.8)
@@ -17267,7 +17266,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "86fccc8e-9be9-48cd-aa42-71a204559ff6")
+			(uuid "dd2877a2-fd0d-4754-839f-583b27e24d90")
 		)
 		(fp_line
 			(start -7 -7)
@@ -17277,7 +17276,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "822fc70e-cbdd-42f4-ad8c-2368ea659372")
+			(uuid "efa0fc61-f5c7-4471-8ba7-3e0affe3e926")
 		)
 		(fp_line
 			(start -7 7)
@@ -17287,7 +17286,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "086573f3-bd2f-400b-8ead-b17817128d22")
+			(uuid "f442a8cb-4d02-4321-acb6-3dc1d7906302")
 		)
 		(fp_line
 			(start 7 -7)
@@ -17297,7 +17296,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8ecf02c8-93c4-49a4-b405-b095859e23c3")
+			(uuid "6484f07d-0006-42ba-9dde-516fcf3d0aad")
 		)
 		(fp_line
 			(start 7 7)
@@ -17307,7 +17306,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5f11d054-87a2-406d-a098-aad621eaf9f6")
+			(uuid "71d1379a-f96b-44b6-9449-9f720b862c64")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -17325,42 +17324,42 @@
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "f721f801-f8b1-4afc-a950-014dc2ba5f3b")
+			(uuid "2032f1a7-8467-462f-8857-46dac8c09366")
 		)
 		(pad "" np_thru_hole circle
 			(at -3.81 -2.54)
 			(size 3.05 3.05)
 			(drill 3.05)
 			(layers "*.Cu" "*.Mask")
-			(uuid "2ecc44d4-e6f3-4829-9335-e9e88273d69e")
+			(uuid "dc93d886-6523-4c9a-bf35-0ce88146d9e3")
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "062324ba-735c-4243-a967-bc9d7231fd90")
+			(uuid "f2088f5c-da5d-456f-a98a-ead60586b468")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 -5.08)
 			(size 3.05 3.05)
 			(drill 3.05)
 			(layers "*.Cu" "*.Mask")
-			(uuid "b25e9a06-39fb-4128-a814-b669c84fa66f")
+			(uuid "6fc49716-0923-4c4c-bb5d-357f28aafda0")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "1be9a770-c195-41d4-b5ab-0eb2a6b3c857")
+			(uuid "1ba08d39-d906-437b-875b-d62774cd7932")
 		)
 		(pad "1" smd roundrect
 			(at -7.085 -2.54)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 89 "/Oath-66-Duo-Right/Col 5")
+			(net 88 "/Oath-66-Duo-Right/Col 5")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "39fed0a4-06de-43eb-a380-6e5cf5972dca")
@@ -17370,7 +17369,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 61 "Net-(D53-A)")
+			(net 59 "Net-(D52-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "859e5ee6-0a47-4355-8b56-bd01d14b2ebb")
@@ -17391,7 +17390,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "32e03ba2-8b45-4dfc-93c2-357471fde0ef")
-		(at 250.03125 60.94375)
+		(at 150.939102 155.598482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D21"
@@ -18391,7 +18390,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 83 "/Oath-66-Duo-Left/Col 6")
+			(net 82 "/Oath-66-Duo-Left/Col 6")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "24274a65-a396-46b7-894e-fd9788f0f704")
@@ -18422,7 +18421,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "3514cb9a-9b4b-4898-864e-28f435faeb6b")
-		(at 314.3925 65.4125)
+		(at 266.7 57.15)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S43"
@@ -19072,7 +19071,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 86 "/Oath-66-Duo-Right/Col 2")
+			(net 85 "/Oath-66-Duo-Right/Col 2")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "a50cd0af-ea2f-44a9-8239-6f2604fb54e4")
@@ -19103,7 +19102,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "35dd6d89-e195-4fea-a0ea-206f111b7028")
-		(at 392.1925 72.4825)
+		(at 340.84375 152.4)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D64"
@@ -19422,7 +19421,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 70 "/Oath-66-Duo-Right/Row 4")
+			(net 69 "/Oath-66-Duo-Right/Row 4")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "e3927795-e403-4e7b-8f15-d75949cc1ed6")
@@ -19432,7 +19431,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 74 "Net-(D64-A)")
+			(net 73 "Net-(D64-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "40430022-7a69-46d4-bf62-53f0307aa6d8")
@@ -19453,7 +19452,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "363d66e0-e55e-48a1-8b75-d19621a36edd")
-		(at 250.03125 81.04375)
+		(at 150.939102 175.698482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D27"
@@ -19803,7 +19802,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "3fc0398e-dcf9-4bc1-a2f0-a9ce0baa6ca6")
-		(at 364.2975 49.8625)
+		(at 285.75 114.3)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S63"
@@ -20453,7 +20452,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 86 "/Oath-66-Duo-Right/Col 2")
+			(net 86 "/Oath-66-Duo-Right/Col 3")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "94749f35-94e8-4f99-a8cd-5c825b3e10d5")
@@ -20463,7 +20462,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 73 "Net-(D63-A)")
+			(net 72 "Net-(D63-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "041a33f5-524d-4c09-b337-3a6fe1b9d445")
@@ -20484,7 +20483,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "4020e89a-76cf-4e49-b8ba-353766840207")
-		(at 380.6925 62.4325)
+		(at 329.34375 142.35)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D43"
@@ -20834,7 +20833,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "4032929a-2b53-42aa-947b-8d52a92b764e")
-		(at 314.3925 34.3125)
+		(at 228.6 57.15)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S41"
@@ -21484,7 +21483,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 84 "/Oath-66-Duo-Right/Col 0")
+			(net 83 "/Oath-66-Duo-Right/Col 0")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "0e7b592a-3262-4dd6-b964-20e11d0d82de")
@@ -21515,7 +21514,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "46bd141c-c97f-49a5-b785-66249b6ffaee")
-		(at 347.6625 127.6125)
+		(at 228.6 114.3)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S61"
@@ -22165,7 +22164,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 84 "/Oath-66-Duo-Right/Col 0")
+			(net 83 "/Oath-66-Duo-Right/Col 0")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "d5b56eab-7a6a-4e4f-9c3b-ee9b40bf7999")
@@ -22175,7 +22174,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 71 "Net-(D61-A)")
+			(net 70 "Net-(D61-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "dac792d0-f593-471c-b345-4c30d729ad20")
@@ -22196,10 +22195,10 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "46eb2729-dbcc-4040-8f95-79934117136c")
-		(at 331.0275 80.9625)
+		(at 304.8 76.2)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
-		(property "Reference" "S51"
+		(property "Reference" "S50"
 			(at 0 -8 0)
 			(layer "F.SilkS")
 			(uuid "f0c2f2db-1a84-4e2a-8cb4-2d3a5555dc33")
@@ -22846,7 +22845,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 87 "/Oath-66-Duo-Right/Col 3")
+			(net 86 "/Oath-66-Duo-Right/Col 3")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "6d2a2ed0-14bd-40cd-91d4-247560db00b8")
@@ -22856,7 +22855,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 59 "Net-(D51-A)")
+			(net 57 "Net-(D50-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "8d8bbf8f-a315-4012-83f4-801e916bb26b")
@@ -22877,10 +22876,10 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "496e87ce-436b-4a62-9e9b-a79343a9dee1")
-		(at 380.6925 89.2325)
+		(at 329.34375 169.15)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D51"
+		(property "Reference" "D50"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -23196,7 +23195,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 56 "/Oath-66-Duo-Right/Row 2")
+			(net 83 "/Oath-66-Duo-Right/Col 0")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "1ad7b9d5-71c3-451d-8d81-2477ec1d8241")
@@ -23206,7 +23205,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 59 "Net-(D51-A)")
+			(net 57 "Net-(D50-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "521b9911-d7a1-4f8b-bb3a-48b419d0fd27")
@@ -23877,7 +23876,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 81 "/Oath-66-Duo-Left/Col 4")
+			(net 80 "/Oath-66-Duo-Left/Col 4")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "adc4ec5d-622f-42ac-9174-00a18a87116a")
@@ -23908,7 +23907,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "4d35062c-c4dd-4dff-8947-fc6768f8e1ac")
-		(at 386.4425 69.1325)
+		(at 335.09375 149.05)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D54"
@@ -24227,7 +24226,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 62 "/Oath-66-Duo-Right/Row 3")
+			(net 61 "/Oath-66-Duo-Right/Row 3")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "08b3c974-bcd0-4896-a14a-bb8ed4d25849")
@@ -24237,7 +24236,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 63 "Net-(D54-A)")
+			(net 62 "Net-(D54-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "28c57d09-82e4-4cb0-99d8-55d21f8302cd")
@@ -24258,7 +24257,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "50434750-2b4a-4b27-8f5d-ea621a8df3df")
-		(at 297.7575 65.4125)
+		(at 266.7 38.1)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S36"
@@ -24908,7 +24907,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 86 "/Oath-66-Duo-Right/Col 2")
+			(net 85 "/Oath-66-Duo-Right/Col 2")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "4ffba415-ee02-44b1-8b4b-6c4b07f02474")
@@ -25589,7 +25588,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 78 "/Oath-66-Duo-Left/Col 1")
+			(net 77 "/Oath-66-Duo-Left/Col 1")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "4264bfad-3ccb-43a6-848c-f51b0a7163f3")
@@ -25620,12 +25619,12 @@
 	(footprint "ScottoKeebs_MCU:Arduino_Pro_Micro"
 		(layer "F.Cu")
 		(uuid "55a5398c-8af3-40d7-9966-714b8da86608")
-		(at 333.375 -16.66875)
+		(at 373.84 46.355)
 		(property "Reference" "U2"
 			(at 0 1.625 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "835a49f1-bbed-4829-a05a-12535b332d1f")
+			(uuid "b8f601f9-58da-4f83-9589-36ad6b6d10a3")
 			(effects
 				(font
 					(size 1.27 1.524)
@@ -25637,7 +25636,7 @@
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "d1bbc55e-c497-4224-b5b2-8893d4b53b5e")
+			(uuid "0688d251-1974-4c75-b98b-da0863ef1cbc")
 			(effects
 				(font
 					(size 1.27 1.524)
@@ -25649,7 +25648,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1d8484bf-cea9-42eb-8f38-1597679c5b32")
+			(uuid "67dad8a3-e1d6-4937-9bcb-2297e9284703")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25661,7 +25660,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e2cb092b-c1fe-453f-a7e0-a3aeb0124886")
+			(uuid "a93663f1-a383-4956-9fc9-70976dea1045")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26507,7 +26506,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 104 "unconnected-(U2-TX0{slash}PD3-Pad1)")
+			(net 103 "unconnected-(U2-TX0{slash}PD3-Pad1)")
 			(pinfunction "TX0/PD3")
 			(pintype "input")
 			(uuid "0f00a312-50c5-4223-b92c-5dab49019e75")
@@ -26518,7 +26517,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 109 "unconnected-(U2-RX1{slash}PD2-Pad2)")
+			(net 108 "unconnected-(U2-RX1{slash}PD2-Pad2)")
 			(pinfunction "RX1/PD2")
 			(pintype "input")
 			(uuid "c3426694-4e49-47e3-aa3f-20002d169a3a")
@@ -26529,7 +26528,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 114 "unconnected-(U2-GND-Pad3)")
+			(net 113 "unconnected-(U2-GND-Pad3)")
 			(pinfunction "GND")
 			(pintype "input")
 			(uuid "e65df6a2-811d-4d6a-9f7b-394dc4e89325")
@@ -26540,7 +26539,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 112 "unconnected-(U2-GND-Pad4)")
+			(net 111 "unconnected-(U2-GND-Pad4)")
 			(pinfunction "GND")
 			(pintype "input")
 			(uuid "db5e4ed7-d22b-4c2b-897c-d309a8d3ebc2")
@@ -26551,7 +26550,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 89 "/Oath-66-Duo-Right/Col 5")
+			(net 88 "/Oath-66-Duo-Right/Col 5")
 			(pinfunction "2/PD1")
 			(pintype "input")
 			(uuid "9e992c2d-7899-442e-88d7-a0ab187030a2")
@@ -26562,7 +26561,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 90 "/Oath-66-Duo-Right/Col 6")
+			(net 89 "/Oath-66-Duo-Right/Col 6")
 			(pinfunction "3/PD0")
 			(pintype "input")
 			(uuid "fc2a7b0b-d681-4382-82d4-ee334c058ebd")
@@ -26584,7 +26583,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 84 "/Oath-66-Duo-Right/Col 0")
+			(net 83 "/Oath-66-Duo-Right/Col 0")
 			(pinfunction "5/PC6")
 			(pintype "input")
 			(uuid "bc481dad-f3d2-4b69-b050-1c3f49d6b1c3")
@@ -26606,7 +26605,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 85 "/Oath-66-Duo-Right/Col 1")
+			(net 84 "/Oath-66-Duo-Right/Col 1")
 			(pinfunction "7/PE6")
 			(pintype "input")
 			(uuid "0fc7bcd2-667f-419f-a180-0aa15b949567")
@@ -26617,7 +26616,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 86 "/Oath-66-Duo-Right/Col 2")
+			(net 85 "/Oath-66-Duo-Right/Col 2")
 			(pinfunction "8/PB4")
 			(pintype "input")
 			(uuid "d328f7f5-0aac-442e-b02d-27635af0ccc9")
@@ -26628,7 +26627,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 56 "/Oath-66-Duo-Right/Row 2")
+			(net 83 "/Oath-66-Duo-Right/Col 0")
 			(pinfunction "9/PB5")
 			(pintype "input")
 			(uuid "fb080184-d3f2-4710-9331-098372cbf99a")
@@ -26639,7 +26638,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 88 "/Oath-66-Duo-Right/Col 4")
+			(net 87 "/Oath-66-Duo-Right/Col 4")
 			(pinfunction "10/PB6")
 			(pintype "input")
 			(uuid "c5ac7641-6184-455f-ab71-bc79eddcdcde")
@@ -26650,7 +26649,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 70 "/Oath-66-Duo-Right/Row 4")
+			(net 69 "/Oath-66-Duo-Right/Row 4")
 			(pinfunction "16/PB2")
 			(pintype "input")
 			(uuid "d31adda7-4988-4698-846a-d84cf145cbcf")
@@ -26661,7 +26660,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 87 "/Oath-66-Duo-Right/Col 3")
+			(net 86 "/Oath-66-Duo-Right/Col 3")
 			(pinfunction "14/PB3")
 			(pintype "input")
 			(uuid "438ee00a-d363-4239-9c51-a6e0321c688f")
@@ -26672,7 +26671,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 62 "/Oath-66-Duo-Right/Row 3")
+			(net 61 "/Oath-66-Duo-Right/Row 3")
 			(pinfunction "15/PB1")
 			(pintype "input")
 			(uuid "0f1c363f-e467-42db-b623-d33893872f77")
@@ -26683,7 +26682,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 107 "unconnected-(U2-A0{slash}PF7-Pad17)")
+			(net 106 "unconnected-(U2-A0{slash}PF7-Pad17)")
 			(pinfunction "A0/PF7")
 			(pintype "input")
 			(uuid "87dc6183-7a87-4e17-8347-af35a1b5239f")
@@ -26694,7 +26693,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 105 "unconnected-(U2-A1{slash}PF6-Pad18)")
+			(net 104 "unconnected-(U2-A1{slash}PF6-Pad18)")
 			(pinfunction "A1/PF6")
 			(pintype "input")
 			(uuid "7a027552-4797-4a68-bbf9-553108f9f0e5")
@@ -26705,7 +26704,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 113 "unconnected-(U2-A2{slash}PF5-Pad19)")
+			(net 112 "unconnected-(U2-A2{slash}PF5-Pad19)")
 			(pinfunction "A2/PF5")
 			(pintype "input")
 			(uuid "dd1d4342-20f0-48c0-bb63-345b1409cb69")
@@ -26716,7 +26715,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 111 "unconnected-(U2-A3{slash}PF4-Pad20)")
+			(net 110 "unconnected-(U2-A3{slash}PF4-Pad20)")
 			(pinfunction "A3/PF4")
 			(pintype "input")
 			(uuid "cebcfc3c-86c4-4569-a350-174d773863eb")
@@ -26727,7 +26726,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 106 "unconnected-(U2-VCC-Pad21)")
+			(net 105 "unconnected-(U2-VCC-Pad21)")
 			(pinfunction "VCC")
 			(pintype "input")
 			(uuid "7f7589b9-41cf-4573-9444-2e8fef751e7b")
@@ -26738,7 +26737,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 103 "unconnected-(U2-RST-Pad22)")
+			(net 102 "unconnected-(U2-RST-Pad22)")
 			(pinfunction "RST")
 			(pintype "input")
 			(uuid "088859df-3c4e-42f4-8f48-9cef14df965c")
@@ -26749,7 +26748,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 110 "unconnected-(U2-GND-Pad23)")
+			(net 109 "unconnected-(U2-GND-Pad23)")
 			(pinfunction "GND")
 			(pintype "input")
 			(uuid "caf96512-7d0f-4d53-967d-41d83cd51fae")
@@ -26760,7 +26759,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 108 "unconnected-(U2-RAW-Pad24)")
+			(net 107 "unconnected-(U2-RAW-Pad24)")
 			(pinfunction "RAW")
 			(pintype "input")
 			(uuid "9936f528-97e4-482d-b767-a1f29ecb962c")
@@ -27431,7 +27430,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 82 "/Oath-66-Duo-Left/Col 5")
+			(net 81 "/Oath-66-Duo-Left/Col 5")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "c6f3cf9e-547c-4db1-9997-38a63f9e5627")
@@ -27462,7 +27461,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "59c7e5d5-52f6-4ee6-949c-f7c16cd1a463")
-		(at 297.7575 127.6125)
+		(at 342.9 38.1)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S40"
@@ -28112,7 +28111,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 90 "/Oath-66-Duo-Right/Col 6")
+			(net 89 "/Oath-66-Duo-Right/Col 6")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "e2aa062f-7907-4ca3-99e1-4147f428de3f")
@@ -28143,10 +28142,10 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "59d63f0f-0457-49b3-91df-ce64e7c0d8ae")
-		(at 380.6925 79.1825)
+		(at 329.34375 159.1)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D48"
+		(property "Reference" "D53"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -28462,7 +28461,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 56 "/Oath-66-Duo-Right/Row 2")
+			(net 83 "/Oath-66-Duo-Right/Col 0")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "9a4a44dd-077d-4497-bb84-bac3f5d60fb6")
@@ -28472,7 +28471,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 55 "Net-(D48-A)")
+			(net 60 "Net-(D53-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "28ebd9fb-d7f9-4f6e-b1bf-8ae67d2d13a2")
@@ -28493,7 +28492,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "5b897bf7-7426-4142-a1b3-80c7bc5da764")
-		(at 250.03125 64.29375)
+		(at 150.939102 158.948482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D22"
@@ -28843,7 +28842,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "614c13c3-945d-4810-8852-0b4c80ba9e7f")
-		(at 238.53125 81.04375)
+		(at 139.439102 175.698482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D9"
@@ -29193,7 +29192,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "62643e39-5f69-414a-912c-d945f986b42a")
-		(at 347.6625 80.9625)
+		(at 304.8 95.25)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S58"
@@ -29843,7 +29842,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 88 "/Oath-66-Duo-Right/Col 4")
+			(net 87 "/Oath-66-Duo-Right/Col 4")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "df2547ce-e4ea-4b89-ba0e-d4d5cc3153bb")
@@ -29853,7 +29852,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 67 "Net-(D58-A)")
+			(net 66 "Net-(D58-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "e23f58ae-ea11-40b9-bfd3-4ec8c293bb50")
@@ -29874,10 +29873,10 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "62cad858-c1a1-4d2c-86cc-d1073d07f09c")
-		(at 331.0275 34.3125)
+		(at 247.65 76.2)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
-		(property "Reference" "S48"
+		(property "Reference" "S53"
 			(at 0 -8 0)
 			(layer "F.SilkS")
 			(uuid "e0ac19f4-1870-4201-b245-a57f2c2d7d5e")
@@ -30524,7 +30523,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 84 "/Oath-66-Duo-Right/Col 0")
+			(net 89 "/Oath-66-Duo-Right/Col 6")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "07e40b05-7789-46ca-a384-585550521b28")
@@ -30534,7 +30533,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 55 "Net-(D48-A)")
+			(net 60 "Net-(D53-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "30874220-6719-4144-b995-2c326036989c")
@@ -30555,7 +30554,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "6398f818-4eee-43e1-9301-21094f8d3f18")
-		(at 238.53125 54.24375)
+		(at 139.439102 148.898482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D1"
@@ -31555,7 +31554,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 82 "/Oath-66-Duo-Left/Col 5")
+			(net 81 "/Oath-66-Duo-Left/Col 5")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "15c1317c-9987-49f8-b8c9-7ff9d61c5f43")
@@ -31586,7 +31585,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "6741f0b0-cabf-4b37-9dc4-d076f615a062")
-		(at 392.1925 79.1825)
+		(at 340.84375 159.1)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D66"
@@ -31905,7 +31904,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 70 "/Oath-66-Duo-Right/Row 4")
+			(net 69 "/Oath-66-Duo-Right/Row 4")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "2b494edf-a66b-4ebe-8092-948c379b714c")
@@ -31915,7 +31914,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 76 "Net-(D66-A)")
+			(net 75 "Net-(D66-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "19e28cb3-0c22-489f-a47b-e85f8181a0dd")
@@ -32586,7 +32585,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 81 "/Oath-66-Duo-Left/Col 4")
+			(net 80 "/Oath-66-Duo-Left/Col 4")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "66e6a26e-a610-43d2-a72d-13f5c9d0c057")
@@ -32617,7 +32616,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "6ee909b2-7aac-4a1d-9db4-a472852ff0b1")
-		(at 244.28125 81.04375)
+		(at 145.189102 175.698482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D18"
@@ -33617,7 +33616,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 77 "/Oath-66-Duo-Left/Col 0")
+			(net 76 "/Oath-66-Duo-Left/Col 0")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "50ee3135-504d-4314-8791-74fc9021de32")
@@ -33648,10 +33647,10 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "72603c03-f9b5-473d-bdd9-c654f043b4d1")
-		(at 331.0275 65.4125)
+		(at 285.75 76.2)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
-		(property "Reference" "S50"
+		(property "Reference" "S49"
 			(at 0 -8 0)
 			(layer "F.SilkS")
 			(uuid "fedeaa7d-3e1a-4781-a6b5-009ebf210866")
@@ -34298,7 +34297,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 86 "/Oath-66-Duo-Right/Col 2")
+			(net 85 "/Oath-66-Duo-Right/Col 2")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "2ec53701-2a63-4bc5-91bf-b336aa58eb26")
@@ -34308,7 +34307,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 58 "Net-(D50-A)")
+			(net 56 "Net-(D49-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "e9932653-8416-4d76-acf8-e06a72386283")
@@ -34329,7 +34328,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "742ce911-c089-45c5-9cea-4764024c4d24")
-		(at 250.03125 74.34375)
+		(at 150.939102 168.998482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D25"
@@ -35329,7 +35328,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 80 "/Oath-66-Duo-Left/Col 3")
+			(net 79 "/Oath-66-Duo-Left/Col 3")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "ec1336a9-3a84-4419-ab05-7d3881886e22")
@@ -35360,13 +35359,13 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "7d8472b5-494c-4ead-bb02-408c6a845b10")
-		(at 297.7575 49.8625)
+		(at 247.65 38.1)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S35"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "43ff7078-35d3-464f-a936-29852e6f9bb9")
+			(uuid "e0183913-637a-4e9c-903c-13e28214212b")
 			(effects
 				(font
 					(size 1 1)
@@ -35377,7 +35376,7 @@
 		(property "Value" "Keyswitch"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "14bdfcee-57e8-466e-b1ed-5be67fabdb2f")
+			(uuid "977b45cf-870e-4041-833f-0639c2e9a347")
 			(effects
 				(font
 					(size 1 1)
@@ -35389,7 +35388,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0da5f78c-38e5-4e26-a911-1552e0668753")
+			(uuid "d87771ec-bb87-45e9-b5f3-8fd151ca07a6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35401,7 +35400,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eeeffeeb-12b0-48e2-aa11-ade1451f912c")
+			(uuid "4146d10c-85bb-45c3-a7b1-ed5da18abf59")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36010,7 +36009,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 85 "/Oath-66-Duo-Right/Col 1")
+			(net 84 "/Oath-66-Duo-Right/Col 1")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "34e17bd5-2364-4811-b806-06225eafa12a")
@@ -36041,7 +36040,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "7e43bd6c-4365-4444-ba47-48b56265a637")
-		(at 347.6625 96.5125)
+		(at 323.85 95.25)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S59"
@@ -36691,7 +36690,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 89 "/Oath-66-Duo-Right/Col 5")
+			(net 88 "/Oath-66-Duo-Right/Col 5")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "f038b8fd-9bbb-44bf-823e-69cb1e809979")
@@ -36701,7 +36700,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 68 "Net-(D59-A)")
+			(net 67 "Net-(D59-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "98c10af3-54b3-4d33-ad7e-0703e8e0bd37")
@@ -37372,7 +37371,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 77 "/Oath-66-Duo-Left/Col 0")
+			(net 76 "/Oath-66-Duo-Left/Col 0")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "d4d712e0-7d7b-49b9-9024-405b1aa626b5")
@@ -38053,7 +38052,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 81 "/Oath-66-Duo-Left/Col 4")
+			(net 80 "/Oath-66-Duo-Left/Col 4")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "5c7bb042-c4c3-4577-9711-9697c716d347")
@@ -38084,7 +38083,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "80ab9a3a-ee57-4018-827d-afbc39aad211")
-		(at 255.78125 57.59375)
+		(at 156.689102 152.248482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D29"
@@ -38434,7 +38433,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "8336e4c9-0560-4ab5-8106-80d4985a0dfd")
-		(at 392.1925 65.7825)
+		(at 340.84375 145.7)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D62"
@@ -38753,7 +38752,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 70 "/Oath-66-Duo-Right/Row 4")
+			(net 69 "/Oath-66-Duo-Right/Row 4")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "7b180919-1a9d-4a72-b26d-249145f0bdac")
@@ -38763,7 +38762,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 72 "Net-(D62-A)")
+			(net 71 "Net-(D62-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "f6da09cb-33ea-4e87-a607-c1e9b68f8747")
@@ -38784,7 +38783,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "85f7aa8f-aea2-4351-a775-f31edc47571c")
-		(at 347.6625 34.3125)
+		(at 247.65 95.25)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S55"
@@ -39434,7 +39433,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 85 "/Oath-66-Duo-Right/Col 1")
+			(net 84 "/Oath-66-Duo-Right/Col 1")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "304ef996-fbfc-4593-ae5e-48f94d41a25c")
@@ -39444,7 +39443,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 64 "Net-(D55-A)")
+			(net 63 "Net-(D55-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "15742cd7-e4c7-4bf8-b91a-2c96b61cbf17")
@@ -39465,7 +39464,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "867285a0-eea3-489d-9ace-d6dd48a96abd")
-		(at 244.28125 64.29375)
+		(at 145.189102 158.948482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D13"
@@ -39815,10 +39814,10 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "87935463-fa8b-4df2-a180-56767fb4b221")
-		(at 380.6925 82.5325)
+		(at 329.34375 162.45)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D49"
+		(property "Reference" "D48"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -40134,7 +40133,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 56 "/Oath-66-Duo-Right/Row 2")
+			(net 83 "/Oath-66-Duo-Right/Col 0")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "4cbfe5e2-0780-42c3-adb8-c59b78920e5d")
@@ -40144,7 +40143,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 57 "Net-(D49-A)")
+			(net 55 "Net-(D48-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "a92fc98c-18c1-4d4c-a85c-b1d2873e13fe")
@@ -40165,7 +40164,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "8a56d959-072b-47c4-aa9e-9062bc445d4d")
-		(at 374.9425 72.4825)
+		(at 323.59375 152.4)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D37"
@@ -40515,7 +40514,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "90232d3e-9863-4a9c-9905-7b3b4a80939d")
-		(at 380.6925 75.8325)
+		(at 329.34375 155.75)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D47"
@@ -40865,7 +40864,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "925b36fb-7f67-4c75-97dd-938f79ec46f7")
-		(at 238.53125 57.59375)
+		(at 139.439102 152.248482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D2"
@@ -41865,7 +41864,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 82 "/Oath-66-Duo-Left/Col 5")
+			(net 81 "/Oath-66-Duo-Left/Col 5")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "fdd0eaa6-33e1-4332-ae70-e0a2b3b557cf")
@@ -41896,7 +41895,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "9328b0f8-6447-4de8-9a2b-5d4c8e8ade04")
-		(at 347.6625 49.8625)
+		(at 266.7 95.25)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S56"
@@ -42546,7 +42545,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 86 "/Oath-66-Duo-Right/Col 2")
+			(net 85 "/Oath-66-Duo-Right/Col 2")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "36b1cb51-e54d-48aa-ac22-b74edbd25c70")
@@ -42556,7 +42555,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 65 "Net-(D56-A)")
+			(net 64 "Net-(D56-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "dd65a87f-fbef-4c79-9d4e-2954dada48d0")
@@ -42577,7 +42576,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "99f55ea2-e3f1-4375-aefd-f9313fc0d927")
-		(at 386.4425 75.8325)
+		(at 335.09375 155.75)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D56"
@@ -42896,7 +42895,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 62 "/Oath-66-Duo-Right/Row 3")
+			(net 61 "/Oath-66-Duo-Right/Row 3")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "a429c0f1-d6a1-4d2a-ab68-1deb53c9ae85")
@@ -42906,7 +42905,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 65 "Net-(D56-A)")
+			(net 64 "Net-(D56-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "257688cf-3de1-4064-aaf1-5642af6c2c2e")
@@ -42927,7 +42926,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "9a15e867-686b-4340-9b9c-5e9bf79ccdad")
-		(at 297.7575 112.0625)
+		(at 323.85 38.1)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S39"
@@ -43577,7 +43576,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 89 "/Oath-66-Duo-Right/Col 5")
+			(net 88 "/Oath-66-Duo-Right/Col 5")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "39b4c827-358d-41a1-8ad5-ce9515512547")
@@ -44258,7 +44257,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 78 "/Oath-66-Duo-Left/Col 1")
+			(net 77 "/Oath-66-Duo-Left/Col 1")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "a552a1be-5b2a-4f12-9ee8-ee70e587714a")
@@ -44289,10 +44288,10 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "9aebfd35-4dff-4646-aacf-5f7fe9d09497")
-		(at 380.6925 85.8825)
+		(at 329.34375 165.8)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D50"
+		(property "Reference" "D49"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -44608,7 +44607,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 56 "/Oath-66-Duo-Right/Row 2")
+			(net 83 "/Oath-66-Duo-Right/Col 0")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "e4e54ff3-875f-449e-957c-59210168e5c9")
@@ -44618,7 +44617,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 58 "Net-(D50-A)")
+			(net 56 "Net-(D49-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "41848ba9-4d06-41d8-8a7e-13d4dfed2b92")
@@ -44639,7 +44638,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "9b377923-f371-43cc-97e5-85a581c42c30")
-		(at 255.78125 60.94375)
+		(at 156.689102 155.598482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D30"
@@ -44989,7 +44988,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "9de8040b-0450-4d6b-9e79-0c3479902050")
-		(at 255.78125 64.29375)
+		(at 156.689102 158.948482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D31"
@@ -45339,7 +45338,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "9ebad524-6cca-4065-af0a-7315550e1d79")
-		(at 364.2975 96.5125)
+		(at 342.9 114.3)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S66"
@@ -45989,7 +45988,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 90 "/Oath-66-Duo-Right/Col 6")
+			(net 89 "/Oath-66-Duo-Right/Col 6")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "72d47d1f-a7b9-44fd-bbce-2e208fd68ed6")
@@ -45999,7 +45998,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 76 "Net-(D66-A)")
+			(net 75 "Net-(D66-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "18c4e900-7a89-499c-8c77-5166e5cc9be2")
@@ -46020,7 +46019,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "a1e849d0-f4cd-49a3-9d00-70d7aff59beb")
-		(at 238.53125 70.99375)
+		(at 139.439102 165.648482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D6"
@@ -46367,16 +46366,16 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_2.00u"
 		(layer "F.Cu")
 		(uuid "a21f2a1d-b63a-4df5-b8a3-c22122229c92")
-		(at 364.2975 34.3125)
-		(descr "keyswitch Hotswap Socket Keycap 1.00u")
-		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
+		(at 257.175 114.3)
+		(descr "keyswitch Hotswap Socket Keycap 2.00u")
+		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.00u")
 		(property "Reference" "S62"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "29c0fa14-7f76-4dc6-b9ef-a35d923d3169")
+			(uuid "9d539251-2ef8-4d91-b4a3-43d0113e0b9f")
 			(effects
 				(font
 					(size 1 1)
@@ -46387,7 +46386,7 @@
 		(property "Value" "Keyswitch"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "f603a49b-e902-4d43-9d05-dd9ffdebcd8e")
+			(uuid "4193fce8-cff9-4a10-a5ba-9518ba5148a2")
 			(effects
 				(font
 					(size 1 1)
@@ -46399,7 +46398,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "13e705c0-fce0-4fae-97c2-3a3fdd7a3394")
+			(uuid "ada91d01-635e-4b7d-add3-169962ec8bbe")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46411,7 +46410,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ff119ef7-1033-4d2a-a841-739cd2c2c763")
+			(uuid "d9e05d4a-df11-4eae-bf2f-db97ab3ff3eb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46431,7 +46430,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "782f0f16-dc2c-4fbc-9e86-0d238c67024a")
+			(uuid "dca31026-220d-4978-8bcb-b33db1f968bb")
 		)
 		(fp_line
 			(start -7.1 7.1)
@@ -46441,7 +46440,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7b0c52bd-f82a-41cb-91f1-bea8c97a1c7b")
+			(uuid "ddffec94-0e64-4158-9cb9-e3afa3d45bc5")
 		)
 		(fp_line
 			(start 7.1 -7.1)
@@ -46451,7 +46450,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e027fe2a-8fd2-4829-99e4-2f94c906d173")
+			(uuid "58eb701e-d642-4929-8dd8-59be8ab647e9")
 		)
 		(fp_line
 			(start 7.1 7.1)
@@ -46461,7 +46460,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4ed28990-946b-4805-9cc4-ad5c68d4bb54")
+			(uuid "a9e254f2-336b-4f0b-91ae-bc7a5b6c53af")
 		)
 		(fp_line
 			(start -4.1 -6.9)
@@ -46471,7 +46470,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "ec4f630e-a401-408a-989e-a96465aabb7f")
+			(uuid "60059934-d759-4dab-8332-c66be511ff6a")
 		)
 		(fp_line
 			(start -0.2 -2.7)
@@ -46481,7 +46480,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "278d1c0c-9b5a-4d5c-b6cc-03f6bc5b2e3a")
+			(uuid "a5fa3a8e-e0c7-4dc4-81f9-bddafb7eaab5")
 		)
 		(fp_arc
 			(start -6.1 -4.9)
@@ -46492,7 +46491,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "bce8bf9f-91a4-4796-9cad-ca1b9cdedcd6")
+			(uuid "f08782aa-d733-450f-a8e5-ccec68cd2bff")
 		)
 		(fp_arc
 			(start -2.2 -0.7)
@@ -46503,47 +46502,47 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "40280f8b-a6b5-4c0c-9a40-95e084408bac")
+			(uuid "98643b17-a47a-45b0-bc89-1ea12c7d2763")
 		)
 		(fp_line
-			(start -9.525 -9.525)
-			(end -9.525 9.525)
+			(start -19.05 -9.525)
+			(end -19.05 9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "65fa0627-64b4-4b06-a50f-56c82b2596f5")
+			(uuid "3732f9b9-4090-4525-9fb4-819e07fe83a4")
 		)
 		(fp_line
-			(start -9.525 9.525)
-			(end 9.525 9.525)
+			(start -19.05 9.525)
+			(end 19.05 9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "afecc92f-0a6a-4844-93a8-97257b435725")
+			(uuid "0ece75fe-cb43-4678-aac9-80d200b4f4ca")
 		)
 		(fp_line
-			(start 9.525 -9.525)
-			(end -9.525 -9.525)
+			(start 19.05 -9.525)
+			(end -19.05 -9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "6f771cf0-cf93-416f-96ee-7a4fbef49d7e")
+			(uuid "eea30349-988c-4c7c-97cc-53cce214b892")
 		)
 		(fp_line
-			(start 9.525 9.525)
-			(end 9.525 -9.525)
+			(start 19.05 9.525)
+			(end 19.05 -9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "ec4487b7-3c31-48e3-a499-61fa2c835af8")
+			(uuid "d6558adf-b6cd-4ab6-9c4d-003975b0cb61")
 		)
 		(fp_line
 			(start -7.8 -6)
@@ -46553,7 +46552,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "7b004639-174e-41f5-a9a0-445ef7a62eac")
+			(uuid "74b5003d-9e0d-4fd2-ba2f-61604bab1f3b")
 		)
 		(fp_line
 			(start -7.8 -2.9)
@@ -46563,7 +46562,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "66a58d6d-5477-4d74-9c35-691df009e34c")
+			(uuid "59979210-f5db-4dd1-a17c-94d15ca14999")
 		)
 		(fp_line
 			(start -7.8 2.9)
@@ -46573,7 +46572,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "d3134a06-b962-42d0-987d-6a30f71e092a")
+			(uuid "45b6093b-9a38-4df6-9a2b-7410f28a1958")
 		)
 		(fp_line
 			(start -7.8 6)
@@ -46583,7 +46582,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "621a7006-4899-4e65-904d-0faff44160d1")
+			(uuid "36749651-1538-43ee-a8d7-5f5cb508d016")
 		)
 		(fp_line
 			(start -7 -7)
@@ -46593,7 +46592,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "fa4c99a1-29e7-4b2f-bc3b-0706a6c23440")
+			(uuid "ece7b1c2-004c-4fab-910a-369d8928a03c")
 		)
 		(fp_line
 			(start -7 -6)
@@ -46603,7 +46602,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "76bbbb51-aa31-4886-bf4e-2c76dc6e1759")
+			(uuid "d6719507-e90c-4615-844c-7208bdf69136")
 		)
 		(fp_line
 			(start -7 -2.9)
@@ -46613,7 +46612,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "1afc381a-a302-4c71-af8b-70ce6575af0b")
+			(uuid "a27c2453-5d5c-4edd-9778-cf79f8965544")
 		)
 		(fp_line
 			(start -7 2.9)
@@ -46623,7 +46622,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "c6251f02-335d-4d00-8772-e90d7579f2cc")
+			(uuid "c3376228-72c8-46ab-b8f9-115653302bad")
 		)
 		(fp_line
 			(start -7 6)
@@ -46633,7 +46632,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "851cc792-d7b1-46c1-bbc5-9edd67cc0987")
+			(uuid "8049d690-8078-4a35-a1ad-ad7b37a1e80e")
 		)
 		(fp_line
 			(start -7 7)
@@ -46643,7 +46642,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "f49504b4-ccf8-4c86-8d0d-bb6f47297f3c")
+			(uuid "67b188b7-07dd-4066-8647-6d78281feed3")
 		)
 		(fp_line
 			(start 7 -7)
@@ -46653,7 +46652,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "bd8794cf-7184-4dfd-ba30-805fa017e871")
+			(uuid "36d479d7-9a64-4889-9ee0-542c1ebdc6e8")
 		)
 		(fp_line
 			(start 7 -6)
@@ -46663,7 +46662,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "36549763-acdd-4bfb-9f61-e8ad99639817")
+			(uuid "cd21aa2f-866b-400c-aa8d-3f9be4a8939d")
 		)
 		(fp_line
 			(start 7 -2.9)
@@ -46673,7 +46672,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "38b04c94-aef9-4a37-bb23-1e0642bbb53e")
+			(uuid "5f8b076f-7990-45bc-a9cd-5632ebdae7e5")
 		)
 		(fp_line
 			(start 7 2.9)
@@ -46683,7 +46682,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "aefe5964-e029-4aae-ad53-1dfd2d77ee5d")
+			(uuid "0f31acf1-312a-44bf-8ce9-8256bd3704bf")
 		)
 		(fp_line
 			(start 7 6)
@@ -46693,7 +46692,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "95a45efb-30cb-4dcd-b02e-010dabd85d22")
+			(uuid "0291dfb0-4d32-4d3a-8722-55e5e337891d")
 		)
 		(fp_line
 			(start 7 7)
@@ -46703,7 +46702,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "06c1f292-0b96-4977-b257-085715fb1b1b")
+			(uuid "d774efa6-c210-4291-a352-e4335a02d665")
 		)
 		(fp_line
 			(start 7.8 -6)
@@ -46713,7 +46712,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "ca9149a0-570d-4797-a071-25bb0aceb1a1")
+			(uuid "6219e115-a470-441d-966f-a0fd1f3af161")
 		)
 		(fp_line
 			(start 7.8 -2.9)
@@ -46723,7 +46722,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "23d52eea-effa-4682-8656-02cce570abc0")
+			(uuid "59df14a5-081b-4231-b0f1-12879a765842")
 		)
 		(fp_line
 			(start 7.8 2.9)
@@ -46733,7 +46732,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "edd9d762-f925-4706-8a4c-ad6ffebcc585")
+			(uuid "5125ba79-c7b8-4502-aa19-c8001af9d88d")
 		)
 		(fp_line
 			(start 7.8 6)
@@ -46743,7 +46742,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "a5b064f6-f2c1-4b38-9c84-2ffb75809a49")
+			(uuid "5f7d6a46-751c-4ca2-a216-5ffd34a7c5ed")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -46753,7 +46752,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "2b10c0f2-3834-4c96-a07a-9ef2a7e97728")
+			(uuid "429f7915-c456-481c-ba23-54e49358a863")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -46763,7 +46762,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "e17a8660-e27a-4f5d-b17f-a682103b2062")
+			(uuid "ff37b2dc-29c5-4c8b-8112-2022c835dd10")
 		)
 		(fp_line
 			(start -4 -6.8)
@@ -46773,7 +46772,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "279773f6-5839-4a47-a614-3a5bc568a45d")
+			(uuid "267a555c-b970-4096-b2bd-5dd9c159c3af")
 		)
 		(fp_line
 			(start -0.3 -2.8)
@@ -46783,7 +46782,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "eb58570e-173e-4399-bd39-e325bf18d7bb")
+			(uuid "fd0d85cf-42e9-475b-a2f5-6640eeceff6c")
 		)
 		(fp_line
 			(start 4.8 -6.8)
@@ -46793,7 +46792,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "5281c79c-5417-4e38-9324-f7939a179239")
+			(uuid "f5d2ab53-1bc2-4cd2-8066-ef4fd59fcc78")
 		)
 		(fp_arc
 			(start -6 -4.8)
@@ -46804,7 +46803,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "97babeff-454d-48bc-a49a-f9f390f07fd7")
+			(uuid "536e6559-ea62-4f4d-8c41-3eb9d369eefa")
 		)
 		(fp_arc
 			(start -2.3 -0.8)
@@ -46815,7 +46814,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "a1428446-9654-4e42-b092-23f9317b314b")
+			(uuid "6d8b832a-c436-4619-9620-ca768838b0ca")
 		)
 		(fp_line
 			(start -7.25 -7.25)
@@ -46825,7 +46824,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b44b04b5-c396-48ec-85cb-32d7da50ddf2")
+			(uuid "bac3da56-4fc1-43c1-9868-4fc8d1377174")
 		)
 		(fp_line
 			(start -7.25 7.25)
@@ -46835,7 +46834,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "59d6f84d-ad05-4e83-87e1-4a2fac9bc54e")
+			(uuid "83191535-2d59-4520-be4e-6c9b60f8704e")
 		)
 		(fp_line
 			(start 7.25 -7.25)
@@ -46845,7 +46844,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "8f695b0d-c925-4880-97a3-788c5e2b08b9")
+			(uuid "a7e1f474-80ef-47fd-b7d0-95b9f46d7800")
 		)
 		(fp_line
 			(start 7.25 7.25)
@@ -46855,7 +46854,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d61426a4-6a13-4acb-a590-e1410d1dc4ae")
+			(uuid "1ebbb076-11ab-48d2-aca7-a951c0bbd94c")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -46865,7 +46864,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "4bd9c3d1-a278-4f73-b37e-1aff0c82347c")
+			(uuid "79057bc2-6d7f-4a6c-850a-17582c8c416d")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -46875,7 +46874,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "125a22dd-893d-42ad-9022-c2a1a23b1f7e")
+			(uuid "7f1e4275-07e8-4dac-895f-e2f9bea51755")
 		)
 		(fp_line
 			(start -4 -6.8)
@@ -46885,7 +46884,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "b1b57126-3d90-476c-976f-52de8f7c6970")
+			(uuid "c57bda75-8767-49d6-a583-532fbb582880")
 		)
 		(fp_line
 			(start -0.3 -2.8)
@@ -46895,7 +46894,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "229c1abb-4753-4986-b670-a4b9dfe4c180")
+			(uuid "874b83c0-864d-43af-a22f-44f01277f8f5")
 		)
 		(fp_line
 			(start 4.8 -6.8)
@@ -46905,7 +46904,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "7338a790-4384-4c59-986a-29a065a3e995")
+			(uuid "a399d249-06ef-486d-a92c-c4130977889e")
 		)
 		(fp_arc
 			(start -6 -4.8)
@@ -46916,7 +46915,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "98f97d8e-9a37-426a-82a0-cd62738156cf")
+			(uuid "a6cb1482-f9b1-4a19-bd69-e735576fde12")
 		)
 		(fp_arc
 			(start -2.3 -0.8)
@@ -46927,7 +46926,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "db996744-29cb-4637-9246-7d3f2061d6ab")
+			(uuid "a92f407a-c523-4ca1-b218-bc189e65bcb5")
 		)
 		(fp_line
 			(start -7 -7)
@@ -46937,7 +46936,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "1f24e5d4-1974-40be-9713-b44b5070a248")
+			(uuid "dfe50e4b-c7f8-4d5b-ae12-c5e2845b833b")
 		)
 		(fp_line
 			(start -7 7)
@@ -46947,7 +46946,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f83628a3-67f2-4c45-a472-ae1ed07ac22a")
+			(uuid "fbafb834-abf2-4d5c-9bbb-0d6cb1b64724")
 		)
 		(fp_line
 			(start 7 -7)
@@ -46957,7 +46956,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e0e0370b-9ba2-4e4a-a0ff-99aefa4476ae")
+			(uuid "fe335e5a-e12f-4249-81bf-c6a07bb907f7")
 		)
 		(fp_line
 			(start 7 7)
@@ -46967,7 +46966,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "3746ce15-f94a-4708-a377-4f765daa62b4")
+			(uuid "2b1a9138-7829-4ee5-a125-11ac8f6d9628")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -46985,42 +46984,42 @@
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "b9450ee0-5c11-4f33-ac9d-0cec13a22e5e")
+			(uuid "9854ec6a-08d0-4470-8d3a-710716daf588")
 		)
 		(pad "" np_thru_hole circle
 			(at -3.81 -2.54)
 			(size 3.05 3.05)
 			(drill 3.05)
 			(layers "*.Cu" "*.Mask")
-			(uuid "de3ace84-c6df-4dc4-a533-e37d5ada46ca")
+			(uuid "f2cfabb6-4293-4cb1-a9fd-43f82185b7e4")
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "47ad46c2-ce1b-4af0-b600-319d5fbdc35b")
+			(uuid "dba51858-73ae-4d3b-9efb-253cb5d9cad7")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 -5.08)
 			(size 3.05 3.05)
 			(drill 3.05)
 			(layers "*.Cu" "*.Mask")
-			(uuid "69678d1d-a10b-4a84-921a-c280c64c1b82")
+			(uuid "2c3869fa-4089-49de-9214-037d8d16962a")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "e1704898-432b-4aaa-a2d0-c90d0c2abef7")
+			(uuid "c058cd01-bd39-4032-a5c4-ced788974b7a")
 		)
 		(pad "1" smd roundrect
 			(at -7.085 -2.54)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 85 "/Oath-66-Duo-Right/Col 1")
+			(net 85 "/Oath-66-Duo-Right/Col 2")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "5ac0a7cb-1979-4169-b89b-348ff90823ac")
@@ -47030,7 +47029,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 72 "Net-(D62-A)")
+			(net 71 "Net-(D62-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "cbb87821-608f-4c9a-93a6-d4376e781e88")
@@ -47051,10 +47050,10 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "a2a24191-d45d-4649-94fe-39aa9b8039be")
-		(at 331.0275 96.5125)
+		(at 323.85 76.2)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
-		(property "Reference" "S52"
+		(property "Reference" "S51"
 			(at 0 -8 0)
 			(layer "F.SilkS")
 			(uuid "f665c03d-3389-4b90-b89d-a79a8b48560e")
@@ -47701,7 +47700,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 88 "/Oath-66-Duo-Right/Col 4")
+			(net 87 "/Oath-66-Duo-Right/Col 4")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "d3c49dc9-8a31-4a39-b8e2-fdad08da0ae8")
@@ -47711,7 +47710,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 60 "Net-(D52-A)")
+			(net 58 "Net-(D51-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "ccebca17-7b0c-443c-a535-db03b3f4e44e")
@@ -47732,7 +47731,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "a6e3382b-7a20-444d-979e-9dd6ed3d8065")
-		(at 244.28125 74.34375)
+		(at 145.189102 168.998482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D16"
@@ -48082,7 +48081,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "ac66e93e-1202-41cf-bbb1-c53fc211c1e5")
-		(at 386.4425 85.8825)
+		(at 335.09375 165.8)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D59"
@@ -48401,7 +48400,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 62 "/Oath-66-Duo-Right/Row 3")
+			(net 61 "/Oath-66-Duo-Right/Row 3")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "f8d572b7-eba7-4cdd-b739-e2a9d509a7db")
@@ -48411,7 +48410,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 68 "Net-(D59-A)")
+			(net 67 "Net-(D59-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "092df55d-b880-4499-a425-1baf92f6cb22")
@@ -48432,7 +48431,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "b08f6a93-c5c1-47e1-ae44-c212f3e1ddc5")
-		(at 392.1925 75.8325)
+		(at 340.84375 155.75)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D65"
@@ -48751,7 +48750,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 70 "/Oath-66-Duo-Right/Row 4")
+			(net 69 "/Oath-66-Duo-Right/Row 4")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "793ce247-bf54-4777-8bdf-65fb3e6d8018")
@@ -48761,7 +48760,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 75 "Net-(D65-A)")
+			(net 74 "Net-(D65-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "45f48789-78f9-448e-b4ee-eedd61de5f48")
@@ -48782,7 +48781,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "b4bf3811-e82c-4e7e-95a2-dffad6574374")
-		(at 238.53125 67.64375)
+		(at 139.439102 162.298482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D5"
@@ -49132,7 +49131,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "b5211f2a-3212-4f63-ad19-5ca1481da08a")
-		(at 374.9425 75.8325)
+		(at 323.59375 155.75)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D38"
@@ -49482,7 +49481,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "b5921bf1-f34d-4f1b-ad32-f57f7595d946")
-		(at 374.9425 79.1825)
+		(at 323.59375 159.1)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D39"
@@ -49832,7 +49831,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "b6f7b1e7-291d-4732-9392-be3ca7def47b")
-		(at 250.03125 70.99375)
+		(at 150.939102 165.648482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D24"
@@ -50182,7 +50181,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "b8caa26d-2615-4c19-9441-a819e0308ed1")
-		(at 380.6925 69.1325)
+		(at 329.34375 149.05)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D45"
@@ -50532,7 +50531,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "ba8ef3bb-fecf-41d5-bdd5-ad72a3b45e71")
-		(at 244.28125 70.99375)
+		(at 145.189102 165.648482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D15"
@@ -50882,7 +50881,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "c05c8f8c-0c30-45be-9467-b6d8bc7a8657")
-		(at 250.03125 57.59375)
+		(at 150.939102 152.248482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D20"
@@ -51882,7 +51881,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 79 "/Oath-66-Duo-Left/Col 2")
+			(net 78 "/Oath-66-Duo-Left/Col 2")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "a4f7b308-cb26-46a4-b43d-a8c0755e5e5b")
@@ -52563,7 +52562,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 83 "/Oath-66-Duo-Left/Col 6")
+			(net 82 "/Oath-66-Duo-Left/Col 6")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "21e857e4-d459-4a3f-88d7-ca93530a42dc")
@@ -52591,12 +52590,12 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_2.00u_90deg"
 		(layer "F.Cu")
 		(uuid "c8abb16a-cc70-49f2-9282-5b02def5f333")
-		(at 331.0275 127.6125)
-		(descr "keyswitch Hotswap Socket Keycap 1.00u")
-		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
+		(at 228.6 85.725)
+		(descr "keyswitch Hotswap Socket Keycap 2.00u 90deg")
+		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.00u 90deg")
 		(property "Reference" "S54"
 			(at 0 -8 0)
 			(layer "F.SilkS")
@@ -52655,7 +52654,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c70f7a88-b92a-4a9a-9001-86644e4535fa")
+			(uuid "7818b46a-a488-49c9-b4b0-cfb0d6736dd1")
 		)
 		(fp_line
 			(start -7.1 7.1)
@@ -52665,7 +52664,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "05657f08-7218-4111-ad4a-8fb8db6997a4")
+			(uuid "0b25b659-a955-4621-86fb-be318c3683aa")
 		)
 		(fp_line
 			(start 7.1 -7.1)
@@ -52675,7 +52674,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1684e99e-7f66-435f-8630-ce02a0415f8a")
+			(uuid "8282e43f-9ba7-4cb8-a31a-4b6a6822c1e6")
 		)
 		(fp_line
 			(start 7.1 7.1)
@@ -52685,7 +52684,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "10c3b5a9-9696-418f-88f8-fdabb2a0b42e")
+			(uuid "2ba93697-1515-49e2-b936-1e4ecc4f360a")
 		)
 		(fp_line
 			(start -4.1 -6.9)
@@ -52695,7 +52694,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "3c65ba94-7136-4edd-ae30-809bb8dc80b7")
+			(uuid "64432820-83a2-4563-82c9-ee1d336370c6")
 		)
 		(fp_line
 			(start -0.2 -2.7)
@@ -52705,7 +52704,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "0f11551a-2cd6-4aa9-b67e-61aa5b6ce824")
+			(uuid "0ac36bc1-ebae-478b-86d6-1af4d9fd82f8")
 		)
 		(fp_arc
 			(start -6.1 -4.9)
@@ -52716,7 +52715,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "e6b049df-5d3d-4b75-acb6-c493f28101b0")
+			(uuid "46c29916-12e7-4ef9-a935-260f59d71a59")
 		)
 		(fp_arc
 			(start -2.2 -0.7)
@@ -52727,47 +52726,47 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "efedbd02-ba88-491e-a145-2ebf91dd97c7")
+			(uuid "562b1e0f-d707-44ea-9d1c-bdbf4f5f194f")
 		)
 		(fp_line
-			(start -9.525 -9.525)
-			(end -9.525 9.525)
+			(start -9.525 -19.05)
+			(end 9.525 -19.05)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "2d58204b-e3ef-4733-99c0-cc70544731ad")
+			(uuid "1b96e152-8361-473a-bd6f-deb0e8c5bbb4")
 		)
 		(fp_line
-			(start -9.525 9.525)
-			(end 9.525 9.525)
+			(start -9.525 19.05)
+			(end -9.525 -19.05)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "146b67f0-f075-4bfc-9a29-96ca2300af98")
+			(uuid "a15c1c4b-f5ad-4094-944b-38d90ffe7ee2")
 		)
 		(fp_line
-			(start 9.525 -9.525)
-			(end -9.525 -9.525)
+			(start 9.525 -19.05)
+			(end 9.525 19.05)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "a0b155f7-c485-4067-bb78-19656603c347")
+			(uuid "fb4f2459-89d2-49b6-b39f-437d6ebaa927")
 		)
 		(fp_line
-			(start 9.525 9.525)
-			(end 9.525 -9.525)
+			(start 9.525 19.05)
+			(end -9.525 19.05)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "ac3c038f-0797-4727-8267-3dddf50fce39")
+			(uuid "b1a17f6d-a3ce-478a-8bcd-ff2662823348")
 		)
 		(fp_line
 			(start -7.8 -6)
@@ -52777,7 +52776,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "67eecdbc-58a6-4163-8bc6-785d06daf924")
+			(uuid "7e8964ab-82ed-4660-b962-5ea0489fc42d")
 		)
 		(fp_line
 			(start -7.8 -2.9)
@@ -52787,7 +52786,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "1740bfe5-9927-4f5c-842b-0b026765c403")
+			(uuid "32dd07d1-799e-4620-8cf0-b8d81f43506a")
 		)
 		(fp_line
 			(start -7.8 2.9)
@@ -52797,7 +52796,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "0fcf1a3c-265b-4e09-8e8c-48a7c02f5609")
+			(uuid "ea414ba5-907c-49aa-bbe8-e73bd40b375f")
 		)
 		(fp_line
 			(start -7.8 6)
@@ -52807,7 +52806,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "a757a61c-d6b1-441e-900f-d5ea443b682c")
+			(uuid "b07764dd-b867-4760-8be4-19b4bb44544e")
 		)
 		(fp_line
 			(start -7 -7)
@@ -52817,7 +52816,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "d2f0e98d-33d4-4dd9-bef1-345375e53694")
+			(uuid "8ebdec8d-d244-4b43-af0f-c4e7bbccebb1")
 		)
 		(fp_line
 			(start -7 -6)
@@ -52827,7 +52826,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "56c6656c-02ec-4d65-a527-9e2b2ad0a158")
+			(uuid "c506c9f7-9e81-45d7-8dc5-e85fe0a5d77d")
 		)
 		(fp_line
 			(start -7 -2.9)
@@ -52837,7 +52836,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "57e160e1-d805-475d-b749-62d71aecdb53")
+			(uuid "4525dad4-cf2b-4943-8b94-cb1fc726cae4")
 		)
 		(fp_line
 			(start -7 2.9)
@@ -52847,7 +52846,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "ea591045-0052-428a-a9b3-15de57292399")
+			(uuid "12ed040f-55bc-4266-8d9f-937f630c81cc")
 		)
 		(fp_line
 			(start -7 6)
@@ -52857,7 +52856,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "5fabed49-8b36-4a0c-bb38-08c685e4bb60")
+			(uuid "c391e8b7-44c6-4e3a-9cbc-2c6087d54d7c")
 		)
 		(fp_line
 			(start -7 7)
@@ -52867,7 +52866,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "d0aefe52-bddc-43fe-8122-7184f2291560")
+			(uuid "ead44b71-0057-4e2d-a350-2b14cbe1be29")
 		)
 		(fp_line
 			(start 7 -7)
@@ -52877,7 +52876,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "cd4ee44f-8535-4f65-aaea-172acb71b66b")
+			(uuid "f1a15b75-2d5c-498d-acc0-585039431a06")
 		)
 		(fp_line
 			(start 7 -6)
@@ -52887,7 +52886,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "c32d0acf-cdcc-4317-9cef-835590bd470d")
+			(uuid "5f769c35-1e72-45c3-afdc-2414639c9721")
 		)
 		(fp_line
 			(start 7 -2.9)
@@ -52897,7 +52896,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "8a9eb8b5-136b-4994-b94b-84f0e437b4ce")
+			(uuid "914dec9e-ff2c-4939-a26b-cc746c7bb95d")
 		)
 		(fp_line
 			(start 7 2.9)
@@ -52907,7 +52906,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "881346b8-a974-41ac-b7a5-714d57d2f145")
+			(uuid "a6fa3531-4d60-4de1-9471-92069999d702")
 		)
 		(fp_line
 			(start 7 6)
@@ -52917,7 +52916,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "3ab2a3b9-2f1a-48cd-8919-b9c9c11c213b")
+			(uuid "9e1f77ee-f74a-4222-80af-86e23a89ea9b")
 		)
 		(fp_line
 			(start 7 7)
@@ -52927,7 +52926,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "94b76f6a-0009-4e2f-ad7e-8eddcdb3214a")
+			(uuid "d2d83ab8-44a3-40c2-8de4-fca9bc8bad0b")
 		)
 		(fp_line
 			(start 7.8 -6)
@@ -52937,7 +52936,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "6f53ad05-74f4-4bc2-90a2-d31cd21be2a1")
+			(uuid "b4b9242f-a560-4803-9ddf-c2e6a8a90106")
 		)
 		(fp_line
 			(start 7.8 -2.9)
@@ -52947,7 +52946,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "0d39a8ca-ba52-4528-a0ee-0079b88bfd43")
+			(uuid "65c9ab09-a933-4437-a9b4-a5fd19f15af7")
 		)
 		(fp_line
 			(start 7.8 2.9)
@@ -52957,7 +52956,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "b78b6b54-972d-4f05-a6c1-fe74b43a0192")
+			(uuid "46ad86ee-5282-40c5-9d70-ac6b62de4060")
 		)
 		(fp_line
 			(start 7.8 6)
@@ -52967,7 +52966,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "e7485af8-6465-4520-a0b7-acc25c64d679")
+			(uuid "e4461b2c-889f-47b6-987b-ce03bddabd60")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -52977,7 +52976,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "f6a1fd2f-1a12-4c16-85a7-75499dba0d4a")
+			(uuid "41302da0-2ea7-496d-a7f2-1dc0dae8b1af")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -52987,7 +52986,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "b04a262e-4a62-41e3-89e3-1d716ecd2ec8")
+			(uuid "26c05486-69a8-41a3-a241-884f21bc3966")
 		)
 		(fp_line
 			(start -4 -6.8)
@@ -52997,7 +52996,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "0db07cc7-03d3-41ad-82b6-44657195dbf5")
+			(uuid "a7c5d9c0-99da-4fa7-a2d9-9998522c1d08")
 		)
 		(fp_line
 			(start -0.3 -2.8)
@@ -53007,7 +53006,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "7b5141a5-cfbf-4f68-a783-2f2ce7de3177")
+			(uuid "198f76f1-757d-4b4e-8376-edebd086aa95")
 		)
 		(fp_line
 			(start 4.8 -6.8)
@@ -53017,7 +53016,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "148c5aa9-a225-49b3-b9d2-dae72ecdcb72")
+			(uuid "0b4d6b58-e04b-400d-9320-2086a17825db")
 		)
 		(fp_arc
 			(start -6 -4.8)
@@ -53028,7 +53027,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "cbd55b65-6677-4e80-95aa-0eecc2d1ec18")
+			(uuid "0eecd736-e87b-420c-b184-9962bbb7453e")
 		)
 		(fp_arc
 			(start -2.3 -0.8)
@@ -53039,7 +53038,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "9866a299-5588-40b4-b234-74c511946eca")
+			(uuid "b4a510ee-8d09-4555-84dd-50c3201d101b")
 		)
 		(fp_line
 			(start -7.25 -7.25)
@@ -53049,7 +53048,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a05a0d4a-436d-405e-87e8-9dee45bc3dd4")
+			(uuid "58eca776-6c23-457e-88cc-428e702293dc")
 		)
 		(fp_line
 			(start -7.25 7.25)
@@ -53059,7 +53058,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "61561cde-a9ef-4eff-9f56-7e7900df9687")
+			(uuid "a8ad2aaa-85d9-47d6-bc95-bc11848c4968")
 		)
 		(fp_line
 			(start 7.25 -7.25)
@@ -53069,7 +53068,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "4690d542-8eda-495a-9265-a8ef7bead0ad")
+			(uuid "32ca572a-298e-4d4e-a490-66cb52457fb3")
 		)
 		(fp_line
 			(start 7.25 7.25)
@@ -53079,7 +53078,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "fc48915f-4326-4e19-a9ee-c10e7546d338")
+			(uuid "b2f5c24b-3d11-4eb0-a8e8-74a98223185d")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -53089,7 +53088,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "c5382573-4096-493f-a5e8-c9a55046bfb5")
+			(uuid "b0da4e1b-cabf-4fbd-ac8b-3e6672233d96")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -53099,7 +53098,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "9fd48d39-97eb-4461-9c90-e53dddded504")
+			(uuid "aa939062-84be-4c06-8ebe-5e2b1e6f2815")
 		)
 		(fp_line
 			(start -4 -6.8)
@@ -53109,7 +53108,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "4f08a153-685b-4cdd-b7d2-f6bb469a1bb3")
+			(uuid "a9de90ab-bea7-4b92-a0c7-f2b3793bce46")
 		)
 		(fp_line
 			(start -0.3 -2.8)
@@ -53119,7 +53118,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "99c3799d-0376-405f-96e5-5f1d5edb2fc5")
+			(uuid "d2870ac0-504f-49cf-b038-229ddfcb970d")
 		)
 		(fp_line
 			(start 4.8 -6.8)
@@ -53129,7 +53128,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "3b563f2d-46bc-4185-9e32-415b42840bb0")
+			(uuid "93859e47-7c9c-4e0d-a945-515b582749e3")
 		)
 		(fp_arc
 			(start -6 -4.8)
@@ -53140,7 +53139,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "377eb1f9-82dd-4d77-9c2e-605e006fe4b4")
+			(uuid "65601803-4642-47d1-acbe-47ac00b240d0")
 		)
 		(fp_arc
 			(start -2.3 -0.8)
@@ -53151,7 +53150,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "f9a0186a-bc3f-4ea4-9c54-0c2d4176d715")
+			(uuid "3bf12cbf-3e0f-4b9c-b47f-3a7d653bfd58")
 		)
 		(fp_line
 			(start -7 -7)
@@ -53161,7 +53160,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5717370d-3778-42a2-be40-65aa6fe9d695")
+			(uuid "0911fb94-1d03-46b1-ac17-596279e76edf")
 		)
 		(fp_line
 			(start -7 7)
@@ -53171,7 +53170,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d1c750a6-6b51-46c6-a31b-eaf20f3efc9b")
+			(uuid "81a4c4f9-66aa-4015-85f7-2a5a12955471")
 		)
 		(fp_line
 			(start 7 -7)
@@ -53181,7 +53180,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "16b06968-7ec0-48e0-9228-827c79f42bd6")
+			(uuid "f3ee5895-22b3-42b7-9894-1f77085a7b94")
 		)
 		(fp_line
 			(start 7 7)
@@ -53191,7 +53190,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "555cdba8-a3ca-46a3-aa95-75f989391590")
+			(uuid "81d1632b-3e74-429d-8c19-3547ce0d304b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -53209,42 +53208,42 @@
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "f03e9681-0331-4f63-92f3-164a7d4aabbd")
+			(uuid "bbd1f99e-b1f6-4c32-8015-24b253055c22")
 		)
 		(pad "" np_thru_hole circle
 			(at -3.81 -2.54)
 			(size 3.05 3.05)
 			(drill 3.05)
 			(layers "*.Cu" "*.Mask")
-			(uuid "63ff5491-f4e7-4e6b-a5af-c8543841a506")
+			(uuid "41eecdf9-1e23-4cb6-8e1e-82da28a79217")
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "8bde2b12-a54d-4344-ade6-29909b2ce654")
+			(uuid "ba0eac08-c7d2-4462-a10d-15de88719f21")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 -5.08)
 			(size 3.05 3.05)
 			(drill 3.05)
 			(layers "*.Cu" "*.Mask")
-			(uuid "8b3b265a-c519-4733-b2d4-7a67f17cdc8a")
+			(uuid "1efbdab9-e1b1-4108-aed7-8e8f804912b5")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "fcbb40ec-4cf0-4a19-8f0c-801b8c40590a")
+			(uuid "b344d367-4480-42df-8533-fde10d8fc9f3")
 		)
 		(pad "1" smd roundrect
 			(at -7.085 -2.54)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 84 "/Oath-66-Duo-Right/Col 0")
+			(net 83 "/Oath-66-Duo-Right/Col 0")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "240c2b59-e68c-4da0-a9a8-bb63df800556")
@@ -53254,7 +53253,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 63 "Net-(D54-A)")
+			(net 62 "Net-(D54-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "7a6a0345-3606-489b-b815-96f2073a4d97")
@@ -53275,7 +53274,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "c92b9ea7-bbed-47c7-bd65-3f7685593c7e")
-		(at 392.1925 62.4325)
+		(at 340.84375 142.35)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D61"
@@ -53594,7 +53593,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 70 "/Oath-66-Duo-Right/Row 4")
+			(net 69 "/Oath-66-Duo-Right/Row 4")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "2d1e325b-4ff4-4943-93ed-3648039067c2")
@@ -53604,7 +53603,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 71 "Net-(D61-A)")
+			(net 70 "Net-(D61-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "39de33c6-bdc9-4e2d-b5e1-c8016c64bd08")
@@ -54275,7 +54274,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 77 "/Oath-66-Duo-Left/Col 0")
+			(net 76 "/Oath-66-Duo-Left/Col 0")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "0e33c8a0-92e1-4002-bce9-d4f893619d21")
@@ -54306,7 +54305,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "ceec5b95-5c21-42be-9dbd-00134d77ddc4")
-		(at 244.28125 60.94375)
+		(at 145.189102 155.598482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D12"
@@ -55306,7 +55305,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 83 "/Oath-66-Duo-Left/Col 6")
+			(net 82 "/Oath-66-Duo-Left/Col 6")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "df4a8dbb-3736-43a5-a9c0-687de665c7fe")
@@ -55337,13 +55336,13 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "d5efb595-0223-4be9-bf70-025db47caae7")
-		(at 297.7575 34.3125)
+		(at 228.600064 38.1)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S34"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "790f0e4f-80f5-49e4-a253-40b8e84008d5")
+			(uuid "2ef7eb0a-0929-422c-b38c-82e597cca972")
 			(effects
 				(font
 					(size 1 1)
@@ -55354,7 +55353,7 @@
 		(property "Value" "Keyswitch"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "623b756a-dfff-4fcb-a4cf-ab315221735a")
+			(uuid "a5d6492e-c8a7-45b3-a8ab-7091364f4792")
 			(effects
 				(font
 					(size 1 1)
@@ -55366,7 +55365,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6efb9dc7-7c5b-458e-ba7e-908c48ef9ed4")
+			(uuid "585ca65a-5498-45b1-8f7a-5111e38b9826")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55378,7 +55377,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4e80d698-db8f-46c0-b8b7-e19558481fee")
+			(uuid "ccab0c10-d0eb-44e7-aac7-895f6adf6667")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55987,7 +55986,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 84 "/Oath-66-Duo-Right/Col 0")
+			(net 83 "/Oath-66-Duo-Right/Col 0")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "876a9301-c8ef-466f-b595-48e5aa76490e")
@@ -56668,7 +56667,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 79 "/Oath-66-Duo-Left/Col 2")
+			(net 78 "/Oath-66-Duo-Left/Col 2")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "6ebdcd5c-11bf-486b-87e9-0225085b4e1a")
@@ -56699,7 +56698,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "d7d8ce77-335b-4ba2-8789-8dac2223c672")
-		(at 392.1925 69.1325)
+		(at 340.84375 149.05)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D63"
@@ -57018,7 +57017,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 70 "/Oath-66-Duo-Right/Row 4")
+			(net 69 "/Oath-66-Duo-Right/Row 4")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "8bbb7d2a-c598-4288-b842-850dbbe60ef0")
@@ -57028,7 +57027,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 73 "Net-(D63-A)")
+			(net 72 "Net-(D63-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "efbceedd-80ac-4c7e-a754-023a3d6bbeb6")
@@ -57049,7 +57048,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "d84ff739-0162-4d58-8440-d82a768bc341")
-		(at 238.53125 64.29375)
+		(at 139.439102 158.948482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D4"
@@ -58049,7 +58048,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 79 "/Oath-66-Duo-Left/Col 2")
+			(net 78 "/Oath-66-Duo-Left/Col 2")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "b56f310c-37f5-4df7-b715-21fac5374111")
@@ -58080,7 +58079,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "dab347ee-3707-4323-8312-aaad67eba0ca")
-		(at 374.9425 82.5325)
+		(at 323.59375 162.45)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D40"
@@ -58430,7 +58429,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "dacfc734-ab20-4eac-8240-babe547f0fd5")
-		(at 374.9425 69.1325)
+		(at 323.59375 149.05)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D36"
@@ -58780,7 +58779,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "dcaa4506-ce99-4ead-a830-faf6747a6a3b")
-		(at 255.78125 67.64375)
+		(at 156.689102 162.298482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D32"
@@ -59130,7 +59129,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "e07ff40b-68fa-48ec-ba19-c39fc2081962")
-		(at 238.53125 77.69375)
+		(at 139.439102 172.348482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D8"
@@ -59480,7 +59479,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "e18e3ea5-d389-45cd-8d28-6f48404f9e40")
-		(at 374.9425 65.7825)
+		(at 323.59375 145.7)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D35"
@@ -59830,7 +59829,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "e26daaea-d11c-4c5a-8c28-c90712832fdb")
-		(at 364.2975 65.4125)
+		(at 304.8 114.3)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S64"
@@ -60480,7 +60479,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 87 "/Oath-66-Duo-Right/Col 3")
+			(net 87 "/Oath-66-Duo-Right/Col 4")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "798d5b42-5247-48f3-9494-e299448eca05")
@@ -60490,7 +60489,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 74 "Net-(D64-A)")
+			(net 73 "Net-(D64-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "d4e677af-09ee-4448-b58b-59e922a9e5b4")
@@ -61161,7 +61160,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 77 "/Oath-66-Duo-Left/Col 0")
+			(net 76 "/Oath-66-Duo-Left/Col 0")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "40195f31-dc1d-4ab1-a167-3df99b8c1d8b")
@@ -61192,7 +61191,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "e8e33010-bf3b-4d1b-94e4-7afa8a0d557a")
-		(at 255.78125 70.99375)
+		(at 156.689102 165.648482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D33"
@@ -61542,7 +61541,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "ea606879-35d4-459d-92e9-b919f7c9c892")
-		(at 374.9425 89.2325)
+		(at 323.59375 169.15)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D42"
@@ -62542,7 +62541,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 80 "/Oath-66-Duo-Left/Col 3")
+			(net 79 "/Oath-66-Duo-Left/Col 3")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "079f09f3-078c-4e1c-a452-956fdd19fbd7")
@@ -62570,16 +62569,16 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_2.00u_90deg"
+	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.50u"
 		(layer "F.Cu")
 		(uuid "ec86b248-6a24-4a21-b47c-8ec988ad3bb4")
-		(at 347.6625 112.0625)
-		(descr "keyswitch Hotswap Socket Keycap 2.00u 90deg")
-		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.00u 90deg")
+		(at 347.6625 95.25)
+		(descr "keyswitch Hotswap Socket Keycap 1.50u")
+		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.50u")
 		(property "Reference" "S60"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "242653ed-666f-41ef-8e3e-19ce3c1650d0")
+			(uuid "f7d484ba-88c7-49f8-aeb2-86bb5e7243aa")
 			(effects
 				(font
 					(size 1 1)
@@ -62590,7 +62589,7 @@
 		(property "Value" "Keyswitch"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "ef8dd99e-cce2-470c-b5f4-de45f2856ecf")
+			(uuid "a29f8449-af71-4674-a356-29fcda4d7b4d")
 			(effects
 				(font
 					(size 1 1)
@@ -62602,7 +62601,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dfb8ce45-0ab2-443a-89fe-cb9d4acaf975")
+			(uuid "de34006c-c80e-4085-a785-186b96bd8257")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -62614,7 +62613,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7e6766e2-6ba4-45bc-bf5b-8bbaff1e7be0")
+			(uuid "41d688fe-9172-45b7-af75-b93f9542d326")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -62634,7 +62633,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "30483d52-c96a-4858-973c-f13a2be39e69")
+			(uuid "0b7e0808-70c6-4585-9b44-cddf37b65aaa")
 		)
 		(fp_line
 			(start -7.1 7.1)
@@ -62644,7 +62643,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e1e69b69-61b0-4deb-85c3-d6a9f22fa58c")
+			(uuid "06073956-c496-40a7-bbd6-237d0e3264a1")
 		)
 		(fp_line
 			(start 7.1 -7.1)
@@ -62654,7 +62653,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "be6e2260-fff8-407b-bcb7-7a959b830c0c")
+			(uuid "011220c6-53e5-4788-b3c5-a1916ce18ce5")
 		)
 		(fp_line
 			(start 7.1 7.1)
@@ -62664,7 +62663,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e263420a-69e0-4095-afb5-0a524c3413b3")
+			(uuid "2775e578-db7b-45fc-bbd3-c034619ef9ce")
 		)
 		(fp_line
 			(start -4.1 -6.9)
@@ -62674,7 +62673,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "770c7606-d204-4717-9c4d-41e8f03ddec2")
+			(uuid "1a9fb189-e9ac-4aa7-91b3-b7bbeeba2abc")
 		)
 		(fp_line
 			(start -0.2 -2.7)
@@ -62684,7 +62683,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "29a460bb-e8a1-4f08-b395-a5fb17cc0d7c")
+			(uuid "680a3fe7-31e4-45ad-84e0-59e31004e123")
 		)
 		(fp_arc
 			(start -6.1 -4.9)
@@ -62695,7 +62694,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "a6d17f70-42d8-450b-bebd-82acb01a994a")
+			(uuid "1a1bb4e7-49c3-4c48-a241-99b2fc614eb2")
 		)
 		(fp_arc
 			(start -2.2 -0.7)
@@ -62706,47 +62705,47 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "12b55a1e-ce1c-4a37-8f52-b72f6d2fd448")
+			(uuid "9d3099c0-3ac9-4a1f-8e03-9e2c350115b9")
 		)
 		(fp_line
-			(start -9.525 -19.05)
-			(end 9.525 -19.05)
+			(start -14.2875 -9.525)
+			(end -14.2875 9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "452a015d-e237-490e-ad62-860c1443601f")
+			(uuid "18ed63e7-fbce-40e3-a8f1-32e89fabac61")
 		)
 		(fp_line
-			(start -9.525 19.05)
-			(end -9.525 -19.05)
+			(start -14.2875 9.525)
+			(end 14.2875 9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "4caa07a8-3075-4fcf-96c7-b5834021ca4e")
+			(uuid "d9dd7416-ef8e-4914-b695-5aeaa9a921d4")
 		)
 		(fp_line
-			(start 9.525 -19.05)
-			(end 9.525 19.05)
+			(start 14.2875 -9.525)
+			(end -14.2875 -9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "a357e0bc-30a5-4f3e-bce6-1c1528b246f1")
+			(uuid "1577b7cc-62b3-4fbb-8479-0b7a969818ec")
 		)
 		(fp_line
-			(start 9.525 19.05)
-			(end -9.525 19.05)
+			(start 14.2875 9.525)
+			(end 14.2875 -9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "41f6e026-4f68-4c5f-9081-8c92a1d354e6")
+			(uuid "834e05b0-5faf-449f-bef1-2ff70b62a966")
 		)
 		(fp_line
 			(start -7.8 -6)
@@ -62756,7 +62755,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "cb3f375a-3f75-42f5-ba58-d095056b2764")
+			(uuid "1c6882c2-f23c-4e21-993e-d9a154fe6e21")
 		)
 		(fp_line
 			(start -7.8 -2.9)
@@ -62766,7 +62765,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "cb0514cc-0df4-4d79-8c77-4a7c88fb6811")
+			(uuid "702a8e24-5c09-4ec6-8e56-39ae0ab79aad")
 		)
 		(fp_line
 			(start -7.8 2.9)
@@ -62776,7 +62775,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "09dc1d2c-b436-4a28-8d14-2bab4366d14b")
+			(uuid "3a3d1fcc-8e84-430e-a8f4-ba7070bc3618")
 		)
 		(fp_line
 			(start -7.8 6)
@@ -62786,7 +62785,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "ba7104bf-b80c-49ae-9e1a-343740df5515")
+			(uuid "811f9394-bf07-4ebe-ab13-b2af26e2913d")
 		)
 		(fp_line
 			(start -7 -7)
@@ -62796,7 +62795,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "bc520ba3-6566-49d7-b87a-06776feee562")
+			(uuid "098a4c0a-54cc-4a68-9ddf-fe15e300add9")
 		)
 		(fp_line
 			(start -7 -6)
@@ -62806,7 +62805,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "2bc60c94-f7c3-4f50-a0a3-e1f358ccb31d")
+			(uuid "a0618bc4-27a6-4285-b51c-0d7f1cd7b40e")
 		)
 		(fp_line
 			(start -7 -2.9)
@@ -62816,7 +62815,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "55e2db64-c983-4b1e-a312-ee578879e2e7")
+			(uuid "3242b4ae-de26-4cd9-9ae3-6124d2880b3a")
 		)
 		(fp_line
 			(start -7 2.9)
@@ -62826,7 +62825,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "2dd91ef2-9287-4e1c-b40e-2a577f4653bf")
+			(uuid "30263d40-f2b2-40ba-87ad-b073bef391b5")
 		)
 		(fp_line
 			(start -7 6)
@@ -62836,7 +62835,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "4a463791-a2ef-461c-9658-26cdccf1f0bd")
+			(uuid "562f61ce-2542-4000-adcd-323c1c947d19")
 		)
 		(fp_line
 			(start -7 7)
@@ -62846,7 +62845,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "b48f0e73-8de3-42f8-b30a-841770692e3b")
+			(uuid "e6ac1571-9ae3-4a39-a73b-7524917781dc")
 		)
 		(fp_line
 			(start 7 -7)
@@ -62856,7 +62855,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "69d417fe-81c6-4a8d-9a53-608ed9af2240")
+			(uuid "df712022-188c-4c79-b50d-51b181a696e2")
 		)
 		(fp_line
 			(start 7 -6)
@@ -62866,7 +62865,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "16e81ff5-8827-42fc-a364-3e7e2dee9111")
+			(uuid "d74bd1a5-e6a4-4378-b189-cb7f7d65f9eb")
 		)
 		(fp_line
 			(start 7 -2.9)
@@ -62876,7 +62875,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "bdb27d70-f878-42b1-918b-13fc859d181f")
+			(uuid "90ca7336-0df6-4be0-ae07-ccfc88f8cbd0")
 		)
 		(fp_line
 			(start 7 2.9)
@@ -62886,7 +62885,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "e0e0ca65-2796-4f10-a8fb-e30730ff0ed5")
+			(uuid "21b7e30f-9157-4e0f-af36-9725f1c0ddff")
 		)
 		(fp_line
 			(start 7 6)
@@ -62896,7 +62895,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "dbf80507-8847-4f5c-b9d0-ddb847b19781")
+			(uuid "164b4199-60e0-4ad2-be1d-d8a62a4fc87d")
 		)
 		(fp_line
 			(start 7 7)
@@ -62906,7 +62905,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "eb7be564-e3d2-40f0-9a53-45a77f289fcc")
+			(uuid "b89bc0b2-0f88-4126-8728-e64203dc9b3e")
 		)
 		(fp_line
 			(start 7.8 -6)
@@ -62916,7 +62915,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "4729b572-c586-48c6-88b2-43674f1ad4b1")
+			(uuid "24b3ad04-a74b-4445-af1c-c8da1ced75fe")
 		)
 		(fp_line
 			(start 7.8 -2.9)
@@ -62926,7 +62925,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "ad333fff-819f-4e54-a9fb-4ed90703f906")
+			(uuid "42bcc90e-d2a4-4e02-a46e-accc495ae9a3")
 		)
 		(fp_line
 			(start 7.8 2.9)
@@ -62936,7 +62935,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "644c82a5-70ad-42f2-acda-4323822527bc")
+			(uuid "46bf8944-c62a-4f1e-addb-18061e051242")
 		)
 		(fp_line
 			(start 7.8 6)
@@ -62946,7 +62945,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "43796381-f17f-461e-91e1-9cb1813ba92b")
+			(uuid "909bc156-bea7-4223-aa73-d249d4df9111")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -62956,7 +62955,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "9ee48571-090f-4f8e-9562-7fe9033fc7aa")
+			(uuid "664a94c3-38a8-4b87-92d5-ff1d7d107e17")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -62966,7 +62965,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "67028b0a-87c0-4a4d-82e2-f299206bb260")
+			(uuid "9980e031-48d0-4292-8063-1432f40ae8ed")
 		)
 		(fp_line
 			(start -4 -6.8)
@@ -62976,7 +62975,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "2dcea13b-b254-45c2-a17b-d786b94a783f")
+			(uuid "2ad6e93a-0f51-42c8-8c2f-1ef5f56c68a9")
 		)
 		(fp_line
 			(start -0.3 -2.8)
@@ -62986,7 +62985,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "51dc1bf7-0a47-412e-9898-ad70fb3c587a")
+			(uuid "f492b6f1-c027-4acc-ae5f-aed45604ded6")
 		)
 		(fp_line
 			(start 4.8 -6.8)
@@ -62996,7 +62995,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "d29649a4-f39f-480f-86d0-c15471594078")
+			(uuid "38063e71-1005-4d2d-8abd-0e517b88916e")
 		)
 		(fp_arc
 			(start -6 -4.8)
@@ -63007,7 +63006,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "f5a434f5-3b3e-41d4-84fb-f7821fd0149f")
+			(uuid "79ad20b8-c0ae-4a05-a6ad-dbd185ce29f1")
 		)
 		(fp_arc
 			(start -2.3 -0.8)
@@ -63018,7 +63017,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "dad39583-d82b-4ae8-a63a-694247cc9b74")
+			(uuid "80679cbc-db2a-4925-b2e9-d5beb135e590")
 		)
 		(fp_line
 			(start -7.25 -7.25)
@@ -63028,7 +63027,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f35d7c98-f748-41cc-a3ab-5386af402df4")
+			(uuid "1370d027-b637-45a1-b0b7-e2ed014bce9f")
 		)
 		(fp_line
 			(start -7.25 7.25)
@@ -63038,7 +63037,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "27325ca9-30bc-4ff3-848e-2cc0c9b7dbf6")
+			(uuid "f1a17dca-440f-408e-a891-d144612d83b8")
 		)
 		(fp_line
 			(start 7.25 -7.25)
@@ -63048,7 +63047,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d8d090f7-b4a5-4dcd-a9b3-387c63b090a8")
+			(uuid "eccb689c-db7b-4d4b-ac81-80fded10e8a7")
 		)
 		(fp_line
 			(start 7.25 7.25)
@@ -63058,7 +63057,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ee17cd8a-e3fc-455a-b371-d1c0ae48e09b")
+			(uuid "567b0cf2-b0d1-4b93-a02e-ca7594a52600")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -63068,7 +63067,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "343a8c02-2128-4ccd-9e3b-64c58f8b6915")
+			(uuid "ac519429-fb20-405a-a842-cd057b00c683")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -63078,7 +63077,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "6d081168-f902-42d1-8c62-e0b2d097524c")
+			(uuid "cfc8563c-687b-4aa2-8a13-5890736a70eb")
 		)
 		(fp_line
 			(start -4 -6.8)
@@ -63088,7 +63087,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "ce238d2b-db8d-45aa-a2bf-b10f1d1a23a7")
+			(uuid "e4626c03-187a-4e3b-8002-5c930f621b6d")
 		)
 		(fp_line
 			(start -0.3 -2.8)
@@ -63098,7 +63097,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "8c4e23e3-88ab-4418-87ea-59f5ad336ed9")
+			(uuid "e5d75c35-c2f6-40ff-af05-5870e8348380")
 		)
 		(fp_line
 			(start 4.8 -6.8)
@@ -63108,7 +63107,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "7787927f-541e-41f5-bbd3-50f3fa5d848c")
+			(uuid "77ea1aed-dcfc-4636-a1d9-cfdf38d4e5ed")
 		)
 		(fp_arc
 			(start -6 -4.8)
@@ -63119,7 +63118,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "3f362ec3-578c-4b42-84be-b580e42874bb")
+			(uuid "0e8c6264-673d-45f4-a165-8fa2d79bde9f")
 		)
 		(fp_arc
 			(start -2.3 -0.8)
@@ -63130,7 +63129,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "a948075b-85c5-4fd4-99f2-6857fd2f48c3")
+			(uuid "46bb5b72-75a4-4138-85ee-e2767e0081c2")
 		)
 		(fp_line
 			(start -7 -7)
@@ -63140,7 +63139,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "020dc2f6-392f-439a-8da2-6cb79ed68b82")
+			(uuid "000f7909-a4f1-4486-81d4-20a1d13c3dd2")
 		)
 		(fp_line
 			(start -7 7)
@@ -63150,7 +63149,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "6c2f507a-2251-492a-9038-18dd18c99a7b")
+			(uuid "78d7767e-bcd7-4ad2-a130-99f2162992dc")
 		)
 		(fp_line
 			(start 7 -7)
@@ -63160,7 +63159,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "32989371-95cc-40ed-bb38-2b3259ebe03d")
+			(uuid "dbe989a5-6e97-4e8b-9c37-12d3c8c09b27")
 		)
 		(fp_line
 			(start 7 7)
@@ -63170,7 +63169,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "050a23ca-00cb-4473-ba0a-1710dba7c4cf")
+			(uuid "7a77ed9b-404a-4fcb-aeb8-8f4b6b6afe25")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -63188,42 +63187,42 @@
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "5236388f-796e-4983-83b9-c4eba38d38a5")
+			(uuid "08c0751c-1afa-4a1b-9664-206807beebbe")
 		)
 		(pad "" np_thru_hole circle
 			(at -3.81 -2.54)
 			(size 3.05 3.05)
 			(drill 3.05)
 			(layers "*.Cu" "*.Mask")
-			(uuid "450bc191-cbee-477c-9785-bd3559ca1800")
+			(uuid "c1bf9af2-facf-487a-8cc3-54a4c9246799")
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "deb35e94-9efd-4455-8fb7-ebae2f76cf9f")
+			(uuid "023698a8-1640-4170-a3cb-27db6c362ede")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 -5.08)
 			(size 3.05 3.05)
 			(drill 3.05)
 			(layers "*.Cu" "*.Mask")
-			(uuid "9ce9fa17-3153-4846-9c15-4c1f0435a70e")
+			(uuid "784f1bf3-dbf2-4c51-9702-a925b36d4732")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "7904d431-33e1-448a-b2ec-f808b4014d41")
+			(uuid "c4f97f3b-7953-4611-ae07-034be077d1d8")
 		)
 		(pad "1" smd roundrect
 			(at -7.085 -2.54)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 90 "/Oath-66-Duo-Right/Col 6")
+			(net 89 "/Oath-66-Duo-Right/Col 6")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "0f57f754-ec03-4da1-b76c-9622c92c26a8")
@@ -63233,7 +63232,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 69 "Net-(D60-A)")
+			(net 68 "Net-(D60-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "2b3f2055-9f85-404c-a2bd-4b6dac368bb2")
@@ -63904,7 +63903,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 80 "/Oath-66-Duo-Left/Col 3")
+			(net 79 "/Oath-66-Duo-Left/Col 3")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "4a94cbb4-dc30-4757-befa-cd7575ef0a61")
@@ -64585,7 +64584,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 82 "/Oath-66-Duo-Left/Col 5")
+			(net 81 "/Oath-66-Duo-Left/Col 5")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "59871cab-85ec-4ffe-84ed-042733dfac64")
@@ -64616,7 +64615,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "f2dfbb06-259b-4496-8c17-a569e16730a4")
-		(at 244.28125 67.64375)
+		(at 145.189102 162.298482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D14"
@@ -65616,7 +65615,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 83 "/Oath-66-Duo-Left/Col 6")
+			(net 82 "/Oath-66-Duo-Left/Col 6")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "d5e34b20-85b6-43b3-bb49-b605e75f2b94")
@@ -66297,7 +66296,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 80 "/Oath-66-Duo-Left/Col 3")
+			(net 79 "/Oath-66-Duo-Left/Col 3")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "1ed1ecd5-93f4-46ee-badc-ea196d820047")
@@ -66978,7 +66977,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 77 "/Oath-66-Duo-Left/Col 0")
+			(net 76 "/Oath-66-Duo-Left/Col 0")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "b66eac8c-ad92-4d8f-b21c-cc9d55ca0242")
@@ -67009,10 +67008,10 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "f7ee3293-94d8-4403-bb0e-0e4aa7370325")
-		(at 331.0275 49.8625)
+		(at 266.7 76.2)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
-		(property "Reference" "S49"
+		(property "Reference" "S48"
 			(at 0 -8 0)
 			(layer "F.SilkS")
 			(uuid "97fda79f-e7e9-44ce-94be-3a2e7ee0f60a")
@@ -67659,7 +67658,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 85 "/Oath-66-Duo-Right/Col 1")
+			(net 84 "/Oath-66-Duo-Right/Col 1")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "2d2b89b9-0d43-458a-93a2-e59c1564589d")
@@ -67669,7 +67668,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 57 "Net-(D49-A)")
+			(net 55 "Net-(D48-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "b38172fb-98d1-4740-800d-cd81c8e03a9f")
@@ -67690,7 +67689,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "f8081276-aa64-4bee-9df9-9ccfd26e42bd")
-		(at 314.3925 49.8625)
+		(at 247.65 57.15)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S42"
@@ -68340,7 +68339,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 85 "/Oath-66-Duo-Right/Col 1")
+			(net 84 "/Oath-66-Duo-Right/Col 1")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "fd150035-9ab0-4931-ab01-b93af5e562e6")
@@ -68371,7 +68370,7 @@
 	(footprint "ScottoKeebs_Components:Diode_SOD-123"
 		(layer "F.Cu")
 		(uuid "fda32cd5-81b8-4a9d-984a-54f50729ac33")
-		(at 250.03125 54.24375)
+		(at 150.939102 148.898482)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D19"
@@ -68721,7 +68720,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "fffef5a7-4393-470b-9aa0-3eeaab1be520")
-		(at 314.3925 96.5125)
+		(at 304.8 57.15)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S45"
@@ -69371,7 +69370,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net 88 "/Oath-66-Duo-Right/Col 4")
+			(net 87 "/Oath-66-Duo-Right/Col 4")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "34678213-a6f2-4fb0-817b-3baa4b77d2a8")
@@ -69402,12 +69401,12 @@
 	(footprint "ScottoKeebs_MCU:Arduino_Pro_Micro"
 		(layer "B.Cu")
 		(uuid "dfc27bba-b863-448e-b784-f8e1072155de")
-		(at 33.3375 46.355 180)
+		(at 27.51175 46.355 180)
 		(property "Reference" "U1"
 			(at 0 -1.625 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "11a37411-5f49-40fb-bb98-0f78b4baeb70")
+			(uuid "a3155940-7bf8-4481-ae47-25f8a074dc34")
 			(effects
 				(font
 					(size 1.27 1.524)
@@ -69420,7 +69419,7 @@
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "42eda031-e1f1-423d-800a-1ca553b818b9")
+			(uuid "da9ecf56-1450-4912-ba78-579ea6c5cfc5")
 			(effects
 				(font
 					(size 1.27 1.524)
@@ -69433,7 +69432,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9742e4ec-b50a-4aa8-831b-e06d1d7a0d14")
+			(uuid "bd33edc1-911b-4190-a5f3-66338dee9490")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69446,7 +69445,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "bd3c07c8-804c-44ff-9ce0-9c9e6b689dd2")
+			(uuid "aacf4c20-e7dd-48ba-a36a-5ff822077903")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70295,7 +70294,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 95 "unconnected-(U1-TX0{slash}PD3-Pad1)")
+			(net 94 "unconnected-(U1-TX0{slash}PD3-Pad1)")
 			(pinfunction "TX0/PD3")
 			(pintype "input")
 			(uuid "63948fcb-edc5-4312-95c7-ca11009ed911")
@@ -70306,7 +70305,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 100 "unconnected-(U1-RX1{slash}PD2-Pad2)")
+			(net 99 "unconnected-(U1-RX1{slash}PD2-Pad2)")
 			(pinfunction "RX1/PD2")
 			(pintype "input")
 			(uuid "deb4df67-947d-4b45-9a03-ba1f134835f9")
@@ -70317,7 +70316,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 96 "unconnected-(U1-GND-Pad3)")
+			(net 95 "unconnected-(U1-GND-Pad3)")
 			(pinfunction "GND")
 			(pintype "input")
 			(uuid "6c402b9e-e006-4067-b216-9509e07d66e9")
@@ -70328,7 +70327,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 101 "unconnected-(U1-GND-Pad4)")
+			(net 100 "unconnected-(U1-GND-Pad4)")
 			(pinfunction "GND")
 			(pintype "input")
 			(uuid "e9e0b7d5-37ac-422e-bad7-89bb37f359eb")
@@ -70339,7 +70338,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 82 "/Oath-66-Duo-Left/Col 5")
+			(net 81 "/Oath-66-Duo-Left/Col 5")
 			(pinfunction "2/PD1")
 			(pintype "input")
 			(uuid "f59e038a-6df1-413b-b405-4570ae4b64f2")
@@ -70350,7 +70349,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 83 "/Oath-66-Duo-Left/Col 6")
+			(net 82 "/Oath-66-Duo-Left/Col 6")
 			(pinfunction "3/PD0")
 			(pintype "input")
 			(uuid "de58b7a6-9cd5-4383-ace1-ff858461a988")
@@ -70372,7 +70371,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 77 "/Oath-66-Duo-Left/Col 0")
+			(net 76 "/Oath-66-Duo-Left/Col 0")
 			(pinfunction "5/PC6")
 			(pintype "input")
 			(uuid "5a32d506-b891-484b-8dd2-370f99fa6953")
@@ -70394,7 +70393,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 78 "/Oath-66-Duo-Left/Col 1")
+			(net 77 "/Oath-66-Duo-Left/Col 1")
 			(pinfunction "7/PE6")
 			(pintype "input")
 			(uuid "333abcdf-d766-4acc-9f88-4a1743f435e2")
@@ -70405,7 +70404,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 79 "/Oath-66-Duo-Left/Col 2")
+			(net 78 "/Oath-66-Duo-Left/Col 2")
 			(pinfunction "8/PB4")
 			(pintype "input")
 			(uuid "2819a89c-feef-433b-bd93-dcd93f054a34")
@@ -70427,7 +70426,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 81 "/Oath-66-Duo-Left/Col 4")
+			(net 80 "/Oath-66-Duo-Left/Col 4")
 			(pinfunction "10/PB6")
 			(pintype "input")
 			(uuid "6920c917-42f3-42ca-b2a7-009b5db8a280")
@@ -70449,7 +70448,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 80 "/Oath-66-Duo-Left/Col 3")
+			(net 79 "/Oath-66-Duo-Left/Col 3")
 			(pinfunction "14/PB3")
 			(pintype "input")
 			(uuid "f112d44f-2f29-4ef7-ae08-69d6ffdc6483")
@@ -70471,7 +70470,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 91 "unconnected-(U1-A0{slash}PF7-Pad17)")
+			(net 90 "unconnected-(U1-A0{slash}PF7-Pad17)")
 			(pinfunction "A0/PF7")
 			(pintype "input")
 			(uuid "0de18e5e-9cee-4ccd-ae4a-df35074241c0")
@@ -70482,7 +70481,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 97 "unconnected-(U1-A1{slash}PF6-Pad18)")
+			(net 96 "unconnected-(U1-A1{slash}PF6-Pad18)")
 			(pinfunction "A1/PF6")
 			(pintype "input")
 			(uuid "6e4b2cfe-a4c0-47b3-9f46-652b6ac61440")
@@ -70493,7 +70492,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 98 "unconnected-(U1-A2{slash}PF5-Pad19)")
+			(net 97 "unconnected-(U1-A2{slash}PF5-Pad19)")
 			(pinfunction "A2/PF5")
 			(pintype "input")
 			(uuid "6ef520c6-99ac-4aaf-aeae-2f3a507ac10d")
@@ -70504,7 +70503,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 99 "unconnected-(U1-A3{slash}PF4-Pad20)")
+			(net 98 "unconnected-(U1-A3{slash}PF4-Pad20)")
 			(pinfunction "A3/PF4")
 			(pintype "input")
 			(uuid "c8380b8d-f954-465e-87f9-cd47d772a8d5")
@@ -70515,7 +70514,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 102 "unconnected-(U1-VCC-Pad21)")
+			(net 101 "unconnected-(U1-VCC-Pad21)")
 			(pinfunction "VCC")
 			(pintype "input")
 			(uuid "ea9046f6-6b49-4934-9f84-74d93cfc4084")
@@ -70526,7 +70525,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 94 "unconnected-(U1-RST-Pad22)")
+			(net 93 "unconnected-(U1-RST-Pad22)")
 			(pinfunction "RST")
 			(pintype "input")
 			(uuid "3a499dc3-ff5f-4aab-a072-c9085fa6ae16")
@@ -70537,7 +70536,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 92 "unconnected-(U1-GND-Pad23)")
+			(net 91 "unconnected-(U1-GND-Pad23)")
 			(pinfunction "GND")
 			(pintype "input")
 			(uuid "24a419b4-8ff9-472f-8db5-7065f535de77")
@@ -70548,7 +70547,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 93 "unconnected-(U1-RAW-Pad24)")
+			(net 92 "unconnected-(U1-RAW-Pad24)")
 			(pinfunction "RAW")
 			(pintype "input")
 			(uuid "25c74239-d219-4d1e-8791-298e9d450c5b")
