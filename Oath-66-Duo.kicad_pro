@@ -628,6 +628,18 @@
     [
       "79e2eb2a-25a9-43ec-81b5-27be6f17dde1",
       "Root"
+    ],
+    [
+      "dc66a3f1-360c-49e0-a707-da2ad99d4a23",
+      "Oath-66-Duo-Left"
+    ],
+    [
+      "f5aa2fbd-50f4-4620-8b87-71987b807485",
+      "Oath-66-Duo-Right"
+    ],
+    [
+      "1b44f88d-61b1-4325-8fc2-d42d02854f4d",
+      "Oath-66-Duo-Dongle"
     ]
   ],
   "text_variables": {}
