@@ -5,6 +5,435 @@
 	(uuid "5269bf32-7e7d-4785-87d3-bf1f8a4eeb30")
 	(paper "A4")
 	(lib_symbols
+		(symbol "Connector_Generic:Conn_01x02"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x02_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "MyLibrary:MSK_1134_3PIN_2H"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 6.35 -5.334 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "MyLibrary:MSK_1134_3PIN_2H"
+				(at 0 -9.906 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "3脚拨动开关立贴"
+				(at 0 -7.874 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MSK_1134_3PIN_2H_1_1"
+				(circle
+					(center 0 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 0) (xy 3.302 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 3.556 2.54)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 3.556 -2.54)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -2.54 0 0)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 6.35 2.54 180)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 6.35 -2.54 180)
+					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "MyLibrary:Tactile_Swtich_3*6*2.5mm"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 4.318 -2.286 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "MyLibrary:Tactile_Switch_3_6_2.5mm"
+				(at 0 -6.858 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "轻触开关3*6*2.5mm"
+				(at 0 -4.826 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Tactile_Swtich_3*6*2.5mm_0_1"
+				(polyline
+					(pts
+						(xy -2.54 1.27) (xy -0.762 1.27) (xy -0.762 1.778) (xy 0.762 1.778) (xy 0.762 1.27) (xy 2.54 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 1.016) (xy 2.54 1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.286 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.286 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Tactile_Swtich_3*6*2.5mm_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "ScottoKeebs:MCU_Arduino_Pro_Micro"
 			(pin_names
 				(offset 1.016)
@@ -845,6 +1274,89 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "ScottoKeebs:Placeholder_Mounting_Hole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Mounting_Hole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Placeholder_Mounting_Hole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(rectangle
 		(start 177.8 13.97)
@@ -1193,6 +1705,52 @@
 		(color 0 0 0 0)
 		(uuid "ff5ec78f-b866-4a85-a1f5-c5bfcb12c984")
 	)
+	(no_connect
+		(at 86.36 44.45)
+		(uuid "0d028276-632d-45fc-b90f-82229263d15c")
+	)
+	(no_connect
+		(at 55.88 52.07)
+		(uuid "12978ed0-9030-4063-94ed-e2bef7bca085")
+	)
+	(no_connect
+		(at 86.36 41.91)
+		(uuid "25b3c200-0ef7-4a14-ad15-60bbfe877ee1")
+	)
+	(no_connect
+		(at 55.88 59.69)
+		(uuid "2f538308-b706-407a-8126-4fea85222997")
+	)
+	(no_connect
+		(at 146.05 55.88)
+		(uuid "886a7c23-d6f1-421f-b4d7-951f97b0c8d6")
+	)
+	(no_connect
+		(at 55.88 41.91)
+		(uuid "bfa9c200-b285-45cf-8690-80dabfca0d85")
+	)
+	(no_connect
+		(at 55.88 54.61)
+		(uuid "d3a8d65f-5c90-43dc-9c29-d3d7a35e95b1")
+	)
+	(no_connect
+		(at 55.88 44.45)
+		(uuid "f44bf990-9aa7-4d07-92d3-771eda927eb8")
+	)
+	(no_connect
+		(at 55.88 57.15)
+		(uuid "fbfcd9c8-4e31-42e2-b9e1-ed4d8c3c5a66")
+	)
+	(wire
+		(pts
+			(xy 148.59 60.96) (xy 146.05 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "023f4762-bf92-4fbc-b7ac-48784e1b8c31")
+	)
 	(wire
 		(pts
 			(xy 53.34 64.77) (xy 55.88 64.77)
@@ -1225,6 +1783,26 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 105.41) (xy 147.32 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e31a3bc-1ed8-497f-a325-027adf526ea3")
+	)
+	(wire
+		(pts
+			(xy 147.32 86.36) (xy 144.78 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1196379c-a74c-401c-a0d3-9c3cbd9e6c8f")
+	)
+	(wire
+		(pts
 			(xy 246.38 48.26) (xy 246.38 68.58)
 		)
 		(stroke
@@ -1232,6 +1810,16 @@
 			(type default)
 		)
 		(uuid "12219db7-c520-4b5e-bd47-cf121f65352e")
+	)
+	(wire
+		(pts
+			(xy 53.34 46.99) (xy 55.88 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19c6279f-45da-4f26-90cd-250096069e77")
 	)
 	(wire
 		(pts
@@ -1282,6 +1870,16 @@
 			(type default)
 		)
 		(uuid "2e8ae02c-64a1-40bc-b4e2-28859bf63eb5")
+	)
+	(wire
+		(pts
+			(xy 53.34 49.53) (xy 55.88 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e9ce756-9379-4388-8a01-1174ceb725e4")
 	)
 	(wire
 		(pts
@@ -1455,6 +2053,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 49.53) (xy 86.36 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58eb012a-f677-4b46-8581-6c3917de1de7")
+	)
+	(wire
+		(pts
 			(xy 251.46 142.24) (xy 262.89 142.24)
 		)
 		(stroke
@@ -1502,6 +2110,26 @@
 			(type default)
 		)
 		(uuid "5de61208-d889-4123-9c36-cb985cb9aa49")
+	)
+	(wire
+		(pts
+			(xy 134.62 58.42) (xy 137.16 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e15ab92-2041-4321-b460-f27f8d1168c1")
+	)
+	(wire
+		(pts
+			(xy 134.62 105.41) (xy 137.16 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6390924f-f09a-446e-9541-83415d60b508")
 	)
 	(wire
 		(pts
@@ -1755,6 +2383,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 46.99) (xy 86.36 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdcba79b-b93d-4596-a3f9-a1eebc6bf78d")
+	)
+	(wire
+		(pts
 			(xy 205.74 101.6) (xy 217.17 101.6)
 		)
 		(stroke
@@ -1955,6 +2593,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 88.9) (xy 144.78 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7b12ca0-c60e-43f8-bb65-5b7854fc91bd")
+	)
+	(wire
+		(pts
 			(xy 228.6 142.24) (xy 240.03 142.24)
 		)
 		(stroke
@@ -1973,7 +2621,7 @@
 		)
 		(uuid "fb88bb03-b9e1-4482-b5d7-f4d7d68e92b5")
 	)
-	(hierarchical_label "Row 4"
+	(hierarchical_label "ROW4_R"
 		(shape input)
 		(at 88.9 69.85 0)
 		(effects
@@ -1984,7 +2632,18 @@
 		)
 		(uuid "02b40d2b-d118-4ece-a77b-d4a6bcf36fec")
 	)
-	(hierarchical_label "Row 2"
+	(hierarchical_label "GND_R"
+		(shape input)
+		(at 147.32 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "07c4089c-807e-4e5f-b058-02f522b23c76")
+	)
+	(hierarchical_label "ROW2_R"
 		(shape input)
 		(at 88.9 59.69 0)
 		(effects
@@ -1995,7 +2654,7 @@
 		)
 		(uuid "0ed47e46-b892-4bfe-8faa-46b1b1eb9c4c")
 	)
-	(hierarchical_label "Row 2"
+	(hierarchical_label "ROW2_R"
 		(shape input)
 		(at 271.78 101.6 0)
 		(effects
@@ -2006,7 +2665,18 @@
 		)
 		(uuid "0f15c77d-6868-40b1-95c5-54dc0b49cd04")
 	)
-	(hierarchical_label "Col 3"
+	(hierarchical_label "BAT+_R"
+		(shape input)
+		(at 88.9 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "19503452-e35a-43f4-9361-741d8e9f54f9")
+	)
+	(hierarchical_label "COL3_R"
 		(shape input)
 		(at 88.9 62.23 0)
 		(effects
@@ -2017,7 +2687,7 @@
 		)
 		(uuid "211319b4-0060-4dd5-91a0-2baff71fcafe")
 	)
-	(hierarchical_label "Row 0"
+	(hierarchical_label "ROW0_R"
 		(shape input)
 		(at 53.34 69.85 180)
 		(effects
@@ -2028,7 +2698,7 @@
 		)
 		(uuid "26c6be95-0b81-40de-8432-c9177a7c1608")
 	)
-	(hierarchical_label "Col 5"
+	(hierarchical_label "COL5_R"
 		(shape input)
 		(at 246.38 39.37 90)
 		(effects
@@ -2039,7 +2709,7 @@
 		)
 		(uuid "29ad1153-e527-4ce2-956d-85dd1ad3b321")
 	)
-	(hierarchical_label "Row 4"
+	(hierarchical_label "ROW4_R"
 		(shape input)
 		(at 271.78 142.24 0)
 		(effects
@@ -2050,7 +2720,7 @@
 		)
 		(uuid "486b149d-52dc-4804-b102-dcb0b6784001")
 	)
-	(hierarchical_label "Col 2"
+	(hierarchical_label "COL2_R"
 		(shape input)
 		(at 212.09 39.37 90)
 		(effects
@@ -2061,7 +2731,18 @@
 		)
 		(uuid "5b866750-019e-4984-a416-f22a2dd2000f")
 	)
-	(hierarchical_label "Col 4"
+	(hierarchical_label "VBAT_R"
+		(shape input)
+		(at 147.32 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "65196032-a5ab-429e-b55f-ce2b006bb082")
+	)
+	(hierarchical_label "COL4_R"
 		(shape input)
 		(at 234.95 39.37 90)
 		(effects
@@ -2072,7 +2753,18 @@
 		)
 		(uuid "709d7b57-c30f-4e5c-baed-5d27af57aa26")
 	)
-	(hierarchical_label "Col 3"
+	(hierarchical_label "GND_R"
+		(shape input)
+		(at 149.86 105.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "71080eec-55fc-450c-90cc-bf0abd98b946")
+	)
+	(hierarchical_label "COL3_R"
 		(shape input)
 		(at 223.52 39.37 90)
 		(effects
@@ -2083,7 +2775,7 @@
 		)
 		(uuid "75fa057a-9212-4aa3-8b0c-b72de760aa2e")
 	)
-	(hierarchical_label "Row 3"
+	(hierarchical_label "ROW3_R"
 		(shape input)
 		(at 88.9 64.77 0)
 		(effects
@@ -2094,7 +2786,7 @@
 		)
 		(uuid "794d1daf-2de3-4886-922b-dbc8f4844e0d")
 	)
-	(hierarchical_label "Col 6"
+	(hierarchical_label "COL6_R"
 		(shape input)
 		(at 257.81 39.37 90)
 		(effects
@@ -2105,7 +2797,7 @@
 		)
 		(uuid "85108dff-af74-4b8d-9d22-6f5280757314")
 	)
-	(hierarchical_label "Col 0"
+	(hierarchical_label "COL0_R"
 		(shape input)
 		(at 189.23 39.37 90)
 		(effects
@@ -2116,7 +2808,18 @@
 		)
 		(uuid "880b4c25-1d00-42e2-9850-5ccd92ebf3d7")
 	)
-	(hierarchical_label "Col 1"
+	(hierarchical_label "RST_R"
+		(shape input)
+		(at 88.9 46.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "894042ad-6e66-43f7-9d8e-1a1268c2dda2")
+	)
+	(hierarchical_label "COL1_R"
 		(shape input)
 		(at 200.66 39.37 90)
 		(effects
@@ -2127,7 +2830,7 @@
 		)
 		(uuid "8ed3e244-a1b7-4fe3-8d05-32909b483867")
 	)
-	(hierarchical_label "Col 1"
+	(hierarchical_label "COL1_R"
 		(shape input)
 		(at 53.34 62.23 180)
 		(effects
@@ -2138,7 +2841,7 @@
 		)
 		(uuid "907aad38-46da-43b3-86a1-f73315f1e830")
 	)
-	(hierarchical_label "Row 1"
+	(hierarchical_label "ROW1_R"
 		(shape input)
 		(at 88.9 54.61 0)
 		(effects
@@ -2149,7 +2852,7 @@
 		)
 		(uuid "a03a2886-2337-46bb-8b4e-71283c611bc3")
 	)
-	(hierarchical_label "Row 1"
+	(hierarchical_label "ROW1_R"
 		(shape input)
 		(at 271.78 81.28 0)
 		(effects
@@ -2160,7 +2863,18 @@
 		)
 		(uuid "a141403b-dad3-409f-862b-aa626efea9bd")
 	)
-	(hierarchical_label "Col 2"
+	(hierarchical_label "VBAT_R"
+		(shape input)
+		(at 148.59 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a69626d4-4860-4697-b580-531a0de3ae80")
+	)
+	(hierarchical_label "COL2_R"
 		(shape input)
 		(at 88.9 67.31 0)
 		(effects
@@ -2171,7 +2885,29 @@
 		)
 		(uuid "b173f29f-dbed-4a1f-b388-55785fc6eb98")
 	)
-	(hierarchical_label "Col 4"
+	(hierarchical_label "BAT+_R"
+		(shape input)
+		(at 134.62 58.42 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b97dd1ce-e8a5-4cff-bc34-b4dacf250112")
+	)
+	(hierarchical_label "GND_R"
+		(shape input)
+		(at 53.34 49.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bc438197-3bad-4056-9935-13875a7081e5")
+	)
+	(hierarchical_label "COL4_R"
 		(shape input)
 		(at 88.9 57.15 0)
 		(effects
@@ -2182,7 +2918,7 @@
 		)
 		(uuid "c703e1d8-221b-4907-b74f-e24899e096fe")
 	)
-	(hierarchical_label "Col 6"
+	(hierarchical_label "COL6_R"
 		(shape input)
 		(at 53.34 67.31 180)
 		(effects
@@ -2193,7 +2929,18 @@
 		)
 		(uuid "d9f89690-442e-46ec-91ce-e85043396f96")
 	)
-	(hierarchical_label "Row 0"
+	(hierarchical_label "RST_R"
+		(shape input)
+		(at 134.62 105.41 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dc3c3dcc-aa67-4f8e-8cf6-3a91c09c83b3")
+	)
+	(hierarchical_label "ROW0_R"
 		(shape input)
 		(at 271.78 60.96 0)
 		(effects
@@ -2204,7 +2951,7 @@
 		)
 		(uuid "e364f065-7398-4414-bb40-96e995a52bef")
 	)
-	(hierarchical_label "Col 0"
+	(hierarchical_label "COL0_R"
 		(shape input)
 		(at 53.34 64.77 180)
 		(effects
@@ -2215,7 +2962,18 @@
 		)
 		(uuid "e7122fd4-c545-4e1f-a2a8-d2c5a42963c9")
 	)
-	(hierarchical_label "Col 5"
+	(hierarchical_label "GND_R"
+		(shape input)
+		(at 53.34 46.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e9cf246f-562d-42d8-b73d-9393a82b1eb7")
+	)
+	(hierarchical_label "COL5_R"
 		(shape input)
 		(at 88.9 52.07 0)
 		(effects
@@ -2226,7 +2984,7 @@
 		)
 		(uuid "f7dc46ff-d272-4bd9-902d-14f81536bea6")
 	)
-	(hierarchical_label "Row 3"
+	(hierarchical_label "ROW3_R"
 		(shape input)
 		(at 271.78 121.92 0)
 		(effects
@@ -2300,6 +3058,70 @@
 			(project "Oath-66-Duo"
 				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
 					(reference "S49")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Mounting_Hole")
+		(at 152.4 177.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0a32916e-2eae-4c05-967f-c2ea10cddc21")
+		(property "Reference" "H10"
+			(at 154.94 176.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Mounting_Hole"
+			(at 154.94 179.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
+			(at 152.4 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 152.4 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Oath-66-Duo"
+				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
+					(reference "H10")
 					(unit 1)
 				)
 			)
@@ -2618,6 +3440,70 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Mounting_Hole")
+		(at 152.4 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1a3ef78d-48bc-43ea-a729-663af9ac8bfe")
+		(property "Reference" "H9"
+			(at 154.94 163.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Mounting_Hole"
+			(at 154.94 166.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
+			(at 152.4 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 152.4 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Oath-66-Duo"
+				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
+					(reference "H9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 228.6 138.43 90)
 		(unit 1)
@@ -2700,6 +3586,138 @@
 			(project "Oath-66-Duo"
 				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
 					(reference "D63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 139.7 88.9 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1d4d3bc6-4d84-4ec9-8099-aaa21df7a5ff")
+		(property "Reference" "J2"
+			(at 139.7 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 139.7 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
+			(at 139.7 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.7 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 139.7 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "74ec2f2f-19f4-40ed-aa2c-e8fc39b62c9f")
+		)
+		(pin "2"
+			(uuid "349d977c-4b04-4b05-8505-203e75391b29")
+		)
+		(instances
+			(project "Oath-66-Duo"
+				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Mounting_Hole")
+		(at 152.4 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "21e00247-a8ca-4e4e-9f19-783138c81bad")
+		(property "Reference" "H6"
+			(at 154.94 125.7299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Mounting_Hole"
+			(at 154.94 128.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
+			(at 152.4 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 152.4 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Oath-66-Duo"
+				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
+					(reference "H6")
 					(unit 1)
 				)
 			)
@@ -4170,6 +5188,75 @@
 		)
 	)
 	(symbol
+		(lib_id "MyLibrary:Tactile_Swtich_3*6*2.5mm")
+		(at 142.24 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "637fd61f-4217-4317-82bd-ff1509e1b291")
+		(property "Reference" "RSW2"
+			(at 142.24 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 142.24 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MyLibrary:Tactile_Switch_3_6_2.5mm"
+			(at 142.24 112.268 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.24 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "轻触开关3*6*2.5mm"
+			(at 142.24 110.236 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9765c451-8509-4be2-a4e7-182aee4e37b8")
+		)
+		(pin "2"
+			(uuid "48890e10-c62f-4770-aec3-be14050127e1")
+		)
+		(instances
+			(project "Oath-66-Duo"
+				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
+					(reference "RSW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:MCU_Arduino_Pro_Micro")
 		(at 71.12 55.88 0)
 		(unit 1)
@@ -5078,6 +6165,78 @@
 			(project "Oath-66-Duo"
 				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
 					(reference "D65")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MyLibrary:MSK_1134_3PIN_2H")
+		(at 139.7 58.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "97499755-7141-4792-b6a7-5ee44a3c6dce")
+		(property "Reference" "PSW2"
+			(at 141.478 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 139.7 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MyLibrary:MSK_1134_3PIN_2H"
+			(at 139.7 68.326 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "3脚拨动开关立贴"
+			(at 139.7 66.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "08d71b3e-1ead-49da-acb9-e8dea3b0d18a")
+		)
+		(pin "1"
+			(uuid "03e5846b-bb06-4caa-a13f-dafaa2548523")
+		)
+		(pin "3"
+			(uuid "ccd4d5d0-6bc7-4208-9ce2-8a459c6efbe7")
+		)
+		(instances
+			(project "Oath-66-Duo"
+				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
+					(reference "PSW2")
 					(unit 1)
 				)
 			)
@@ -6176,6 +7335,70 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Mounting_Hole")
+		(at 152.4 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c0d8da60-40db-4ddd-a5c8-efaf43aad46f")
+		(property "Reference" "H8"
+			(at 154.94 151.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Mounting_Hole"
+			(at 154.94 153.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
+			(at 152.4 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 152.4 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Oath-66-Duo"
+				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
+					(reference "H8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 191.77 50.8 0)
 		(unit 1)
@@ -6930,6 +8153,70 @@
 			(project "Oath-66-Duo"
 				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
 					(reference "S57")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Mounting_Hole")
+		(at 152.4 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "df22d290-f726-46cf-baa5-0ef44fe3ffbd")
+		(property "Reference" "H7"
+			(at 154.94 138.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Mounting_Hole"
+			(at 154.94 140.9699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
+			(at 152.4 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 152.4 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Oath-66-Duo"
+				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
+					(reference "H7")
 					(unit 1)
 				)
 			)
