@@ -5,31 +5,30 @@
 	(uuid "5269bf32-7e7d-4785-87d3-bf1f8a4eeb30")
 	(paper "A4")
 	(lib_symbols
-		(symbol "Connector_Generic:Conn_01x02"
+		(symbol "MyLibrary:Connector_PH2.0_2Pin_Horizontal"
 			(pin_names
-				(offset 1.016)
 				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "J"
-				(at 0 2.54 0)
+				(at 4.826 -5.334 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "Conn_01x02"
-				(at 0 -5.08 0)
+			(property "Value" "Connector_PH2.0_2Pin_Horizontal"
+				(at 0 -8.636 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "MyLibrary:Connector_PH2.0_2Pin_Horizontal"
 				(at 0 0 0)
 				(effects
 					(font
@@ -38,7 +37,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "~"
+			(property "Datasheet" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -47,8 +46,8 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
+			(property "Description" "PH2.0接插件2PIN卧贴"
+				(at -0.254 -12.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -56,28 +55,10 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x02_1_1"
+			(symbol "Connector_PH2.0_2Pin_Horizontal_1_1"
 				(rectangle
-					(start -1.27 1.27)
-					(end 1.27 -3.81)
+					(start 0 2.54)
+					(end 2.54 -2.54)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -87,8 +68,8 @@
 					)
 				)
 				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
+					(start 0 1.397)
+					(end 1.27 1.143)
 					(stroke
 						(width 0.1524)
 						(type default)
@@ -98,8 +79,8 @@
 					)
 				)
 				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
+					(start 0 -1.143)
+					(end 1.27 -1.397)
 					(stroke
 						(width 0.1524)
 						(type default)
@@ -108,8 +89,48 @@
 						(type none)
 					)
 				)
+				(polyline
+					(pts
+						(xy 0.254 -3.302) (xy 2.286 -3.302)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 3.302) (xy 0.254 3.302)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "Mounting"
+					(at 1.27 2.921 0)
+					(effects
+						(font
+							(size 0.381 0.381)
+						)
+					)
+				)
+				(text "Mounting"
+					(at 1.27 -2.921 0)
+					(effects
+						(font
+							(size 0.381 0.381)
+						)
+					)
+				)
 				(pin passive line
-					(at -5.08 0 0)
+					(at -3.81 1.27 0)
 					(length 3.81)
 					(name "Pin_1"
 						(effects
@@ -127,7 +148,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 -2.54 0)
+					(at -3.81 -1.27 0)
 					(length 3.81)
 					(name "Pin_2"
 						(effects
@@ -144,10 +165,46 @@
 						)
 					)
 				)
+				(pin passive line
+					(at 1.27 6.35 270)
+					(length 3.048)
+					(name "MountPin"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 1.27 -6.35 90)
+					(length 3.048)
+					(name "MountPin"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MyLibrary:MSK_1134_3PIN_2H"
+		(symbol "MyLibrary:MSK_1134_3Pin_2H"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -159,7 +216,7 @@
 					)
 				)
 			)
-			(property "Value" ""
+			(property "Value" "MSK_1134_3Pin_2H"
 				(at 0 0 0)
 				(effects
 					(font
@@ -168,7 +225,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "MyLibrary:MSK_1134_3PIN_2H"
+			(property "Footprint" "MyLibrary:MSK_1134_3Pin_2H"
 				(at 0 -9.906 0)
 				(effects
 					(font
@@ -195,7 +252,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "MSK_1134_3PIN_2H_1_1"
+			(symbol "MSK_1134_3Pin_2H_1_1"
 				(circle
 					(center 0 0)
 					(radius 0.254)
@@ -1706,10 +1763,6 @@
 		(uuid "ff5ec78f-b866-4a85-a1f5-c5bfcb12c984")
 	)
 	(no_connect
-		(at 86.36 44.45)
-		(uuid "0d028276-632d-45fc-b90f-82229263d15c")
-	)
-	(no_connect
 		(at 55.88 52.07)
 		(uuid "12978ed0-9030-4063-94ed-e2bef7bca085")
 	)
@@ -1722,12 +1775,20 @@
 		(uuid "2f538308-b706-407a-8126-4fea85222997")
 	)
 	(no_connect
+		(at 139.7 93.98)
+		(uuid "7419da77-7cd1-49a3-b33e-ca75b41c6cb2")
+	)
+	(no_connect
 		(at 146.05 55.88)
 		(uuid "886a7c23-d6f1-421f-b4d7-951f97b0c8d6")
 	)
 	(no_connect
 		(at 55.88 41.91)
 		(uuid "bfa9c200-b285-45cf-8690-80dabfca0d85")
+	)
+	(no_connect
+		(at 139.7 81.28)
+		(uuid "ca24a852-30e2-4d12-b840-4426668c0aa9")
 	)
 	(no_connect
 		(at 55.88 54.61)
@@ -2230,6 +2291,16 @@
 			(type default)
 		)
 		(uuid "86e46f44-d502-4f2a-8eb1-a083574c273c")
+	)
+	(wire
+		(pts
+			(xy 88.9 44.45) (xy 86.36 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9748534a-167a-459c-aa57-4a0d27170027")
 	)
 	(wire
 		(pts
@@ -2940,6 +3011,17 @@
 		)
 		(uuid "dc3c3dcc-aa67-4f8e-8cf6-3a91c09c83b3")
 	)
+	(hierarchical_label "GND_R"
+		(shape input)
+		(at 88.9 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "de0c162a-87a5-4004-b6e0-65bae563cc08")
+	)
 	(hierarchical_label "ROW0_R"
 		(shape input)
 		(at 271.78 60.96 0)
@@ -3586,74 +3668,6 @@
 			(project "Oath-66-Duo"
 				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
 					(reference "D63")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 139.7 88.9 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1d4d3bc6-4d84-4ec9-8099-aaa21df7a5ff")
-		(property "Reference" "J2"
-			(at 139.7 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x02"
-			(at 139.7 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
-			(at 139.7 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 139.7 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 139.7 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "74ec2f2f-19f4-40ed-aa2c-e8fc39b62c9f")
-		)
-		(pin "2"
-			(uuid "349d977c-4b04-4b05-8505-203e75391b29")
-		)
-		(instances
-			(project "Oath-66-Duo"
-				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
-					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -5751,6 +5765,82 @@
 		)
 	)
 	(symbol
+		(lib_id "MyLibrary:Connector_PH2.0_2Pin_Horizontal")
+		(at 140.97 87.63 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7ba52409-4a4f-4ff9-889b-e957cbd39c2c")
+		(property "Reference" "J2"
+			(at 137.16 86.3599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Connector_PH2.0_2Pin_Horizontal"
+			(at 137.16 88.8999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_GH_SM02B-GHS-TB_1x02-1MP_P1.25mm_Horizontal"
+			(at 140.97 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "PH2.0接插件2PIN卧贴"
+			(at 141.224 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "MP"
+			(uuid "1fb51560-a6e3-4262-9070-f52beca1dfa7")
+		)
+		(pin "2"
+			(uuid "066e74a8-880f-4c21-8293-c2d008939124")
+		)
+		(pin "MP"
+			(uuid "6793b49c-f379-43d0-9e93-ea17db91cccb")
+		)
+		(pin "1"
+			(uuid "5ef4b9d5-fee3-4ad4-bfee-6e912d9c8662")
+		)
+		(instances
+			(project "Oath-66-Duo"
+				(path "/79e2eb2a-25a9-43ec-81b5-27be6f17dde1/f5aa2fbd-50f4-4620-8b87-71987b807485"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 228.6 97.79 90)
 		(unit 1)
@@ -6171,7 +6261,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MyLibrary:MSK_1134_3PIN_2H")
+		(lib_id "MyLibrary:MSK_1134_3Pin_2H")
 		(at 139.7 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6197,7 +6287,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MyLibrary:MSK_1134_3PIN_2H"
+		(property "Footprint" "MyLibrary:MSK_1134_3Pin_2H"
 			(at 139.7 68.326 0)
 			(effects
 				(font
